@@ -1,0 +1,150 @@
+html {
+    font-size: 24px;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+h2 {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 100;
+}
+
+p {
+    margin: 0;
+}
+
+a {
+    margin: 0;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    margin: 10px auto;
+    width: 80vw;
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    gap: 10px;
+    border: 4px solid black;
+}
+
+.title {
+    flex: 2;
+}
+
+#menu-button {
+    height: 96px;
+    width: 96px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: red;
+}
+
+#menu-button p:hover {
+    text-decoration: underline;
+}
+
+.menu {
+    width: 80%;
+    height: 15vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 10px auto;
+    padding: 25px;
+    border: 4px solid black;
+}
+
+.menu h2 {
+    flex: 1;
+}
+
+.menu h2:hover {
+    text-decoration: underline;
+}
+
+.dropdown {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+
+.member-gallery {
+    width: 80vw;
+    height: 100%;
+    margin: auto;
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    flex-wrap: wrap;
+    border: 4px solid black;
+}
+
+.member-card {
+    width: 128px;
+    height: 128px;
+    background-color: red;
+}
+
+.user-info {
+    width: 80vw;
+    height: 25vh;
+    margin: auto;
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    border: 4px solid black;
+}
+
+.user-info-image-container {
+    height: 25vh;
+    width: 25vh;
+    background-color: black;
+}
+
+.user-info-sections {
+    height: 100%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+}
+
+.user-info-subsection {
+    flex: 1;
+    padding: 10px;
+}
+
+div .user-info-subsection {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.user-title {
+    flex: 1;
+}
+
+.disabled {
+    display: none;
+}
