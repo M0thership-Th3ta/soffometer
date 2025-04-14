@@ -8,5 +8,15 @@
       "size": 1,
       "img": ""
     }
+  ],
+  "maniacalfork": [
+    {
+      "size": 0,
+      "img": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/body/MF/MF0.png?raw=true"
+    },
+    {
+      "size": 1,
+      "img": ""
+    }
   ]
 }

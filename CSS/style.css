@@ -233,9 +233,9 @@ div .user-info-subsection {
 
 .member-body-reference-container img {
     width: 100%;
-    height: 100%;
+    aspect-ratio: 3 / 4;
     object-fit: cover;
-    object-position: center;
+    object-position: top;
 }
 
 .member-posts {
