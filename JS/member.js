@@ -9,6 +9,8 @@ let birthDate
 let nameGroup
 let statusMessage
 let pageTitle
+let postsList
+
 let details = [];
 let BMI
 let BRI
@@ -24,7 +26,9 @@ function init(){
     statusMessage = document.querySelector("#user-status")
     ageGender = document.querySelector("#age-gender")
     weightHeight = document.querySelector("#weight-height")
+    postsList = document.querySelector("#member-posts")
     loadData("JS/data.json", dataLoading)
+    loadData("JS/posts.json", postsLoading)
 }
 
 function loadData(url, successHandler){
@@ -108,4 +112,65 @@ function calculateWaistCircumferenceThreshold(CM){
     let calculationMatrix = Number((CM * 0.5) * (CM * 0.5))
     let waistMatrix = Number(Math.sqrt((1 - (((364.2 - 5) / 365.5) * ((364.2 - 5) / 365.5)))* calculationMatrix).toFixed(2))
     waistCircumferenceThreshold = Number((waistMatrix * (2 * 3.1415)).toFixed(1))
+}
+
+function postsLoading(data){
+    // Find the group in the posts data
+    const groupPosts = data[group];
+    if (!groupPosts) {
+        postsList.innerHTML = "<p>There are no posts here at this time.</p>";
+        return;
+    }
+
+    // Find the member's posts within the group
+    const memberData = groupPosts.find(memberData => memberData.id === member);
+    if (!memberData || !memberData.posts || memberData.posts.length === 0) {
+        postsList.innerHTML = "<p>There are no posts here at this time.</p>";
+        return;
+    }
+
+    // Clear the posts list container
+    postsList.innerHTML = "";
+
+    // Iterate through the member's posts and display them
+    for (let post of memberData.posts) {
+        let postElement = document.createElement("div");
+        postElement.classList.add("post");
+
+        // Add post title
+        if (post.title) {
+            let postTitle = document.createElement("h3");
+            postTitle.innerText = post.title;
+            postElement.appendChild(postTitle);
+        }
+
+        // Add post date
+        if (post.date) {
+            let postDate = document.createElement("p");
+            postDate.classList.add("post-date");
+            postDate.innerText = `Date: ${post.date}`;
+            postElement.appendChild(postDate);
+        }
+
+        // Add post content (if it's a text post)
+        if (post.type === "text" && post.content) {
+            let postContent = document.createElement("p");
+            postContent.classList.add("post-content");
+            postContent.innerText = post.content;
+            postElement.appendChild(postContent);
+        }
+
+        // Add post image (if it's an image post)
+        if (post.type === "image" && post.source) {
+            let postImage = document.createElement("img");
+            let postImageContainer = document.createElement("div");
+            postImageContainer.classList.add("post-image");
+            postImage.setAttribute("src", post.source);
+            postImageContainer.append(postImage)
+            postElement.appendChild(postImageContainer);
+        }
+
+        // Append the post element to the posts list
+        postsList.appendChild(postElement);
+    }
 }

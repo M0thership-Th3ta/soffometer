@@ -1,0 +1,21 @@
+{
+  "hololive": [
+    {
+      "id": "Suisei",
+      "posts": [
+        {
+          "type": "text",
+          "title": "Testing the messaging option",
+          "date": "2025-04-14",
+          "content": "This is so cool, but I got to test the messaging option to see if we could make it show up like a status message! It's awesome, right? I hope this properly show up!."
+        },
+        {
+          "id": "image",
+          "title": "Testing the image option",
+          "date": "2025-04-14",
+          "source": ""
+        }
+      ]
+    }
+  ]
+}
