@@ -3,6 +3,7 @@ window.addEventListener('load', init);
 //globals
 let menu;
 let dropdown;
+let mainText;
 let memberMenu;
 let selectedMenu = "";
 let showingMembers = false;
@@ -10,6 +11,7 @@ let showingMembers = false;
 function init(){
     menu = document.querySelector("#menu-button")
     dropdown = document.querySelector("#menu")
+    mainText = document.querySelector("#index-text")
     memberMenu = document.querySelector("#member-select")
     menu.addEventListener("click", openMenu)
     dropdown.addEventListener("click", doMenuClick)
@@ -18,6 +20,7 @@ function init(){
 
 function openMenu(){
     dropdown.classList.toggle("disabled")
+    mainText.classList.toggle("disabled")
 }
 
 function doMenuClick(e){
