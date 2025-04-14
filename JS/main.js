@@ -16,7 +16,7 @@ function init(){
     memberMenu.addEventListener("click", memberSelected)
 }
 
-function openMenu(e){
+function openMenu(){
     dropdown.classList.toggle("disabled")
 }
 
@@ -54,8 +54,11 @@ function createCards(data){
         console.log(member)
         let memberArticle = document.createElement("article")
         let memberLink = document.createElement("a")
+        let memberIMG = document.createElement("img")
         memberArticle.classList.add("member-card")
         memberArticle.dataset.id = member.id
+        memberIMG.setAttribute("src", member.pfp)
+        memberArticle.append(memberIMG)
         memberLink.setAttribute("href", "member.html")
         memberLink.append(memberArticle)
         memberMenu.append(memberLink)
