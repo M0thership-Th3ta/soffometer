@@ -10,10 +10,16 @@
           "content": "This is so cool, but I got to test the messaging option to see if we could make it show up like a status message! It's awesome, right? I hope this properly show up!."
         },
         {
-          "id": "image",
+          "type": "image",
           "title": "Testing the image option",
           "date": "2025-04-14",
-          "source": ""
+          "source": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/posts/suisei_burger.jpeg?raw=true"
+        },
+        {
+          "type": "text",
+          "title": "Testing the dates",
+          "date": "2025-04-15",
+          "content": "Just adding another message to see if it properly sorts the posts from newest to oldest."
         }
       ]
     }
