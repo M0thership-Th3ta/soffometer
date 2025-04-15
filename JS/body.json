@@ -2,7 +2,7 @@
   "kipteitei": [
     {
       "size": 0,
-      "img": ""
+      "img": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/body/KTT/KTT0.png?raw=true"
     },
     {
       "size": 1,
@@ -17,6 +17,16 @@
     {
       "size": 1,
       "img": ""
+    }
+  ],
+  "cakecatboy": [
+    {
+      "size": 0,
+      "img": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/body/CCB/CCB0.png?raw=true"
+    },
+    {
+      "size": 1,
+      "img": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/body/CCB/CCB1.png?raw=true"
     }
   ]
 }
