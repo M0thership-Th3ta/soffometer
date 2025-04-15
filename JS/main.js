@@ -33,7 +33,7 @@ function openMenu(){
     memberMenu.classList.toggle("disabled")
     showingMembers = false;
 
-    loadData("js/data.json", createFavoriteCards)
+    loadData("JS/data.json", createFavoriteCards)
 }
 
 function doMenuClick(e){

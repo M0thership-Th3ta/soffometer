@@ -106,6 +106,8 @@ header {
 .menu h2 {
     flex: 1;
     text-align: center;
+    font-weight: unset;
+    font-size: 1rem;
 }
 
 .menu h2:hover {
