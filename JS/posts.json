@@ -13,7 +13,7 @@
           "type": "image",
           "title": "Testing the image option",
           "date": "2025-04-14",
-          "source": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/posts/suisei_burger.jpeg?raw=true"
+          "source": "images/posts/suisei_burger.jpeg"
         },
         {
           "type": "text",
