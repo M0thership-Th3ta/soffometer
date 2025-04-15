@@ -173,8 +173,13 @@ function bodyLoading(data) {
     const artistData = data[bodyArtist];
     if (!artistData) return;
 
-    // Find the image corresponding to the counter value
-    const bodyImage = artistData.find(item => item.size === counter)?.img;
+    // Find the image corresponding to the counter value or the last available image
+    let bodyImage = null;
+    for (let i = counter; i >= 0; i--) {
+        bodyImage = artistData.find(item => item.size === i)?.img;
+        if (bodyImage) break; // Stop when a valid image is found
+    }
+
     if (bodyImage) {
         const bodyReference = document.querySelector("#body-reference");
         bodyReference.setAttribute("src", bodyImage); // Set the image source
