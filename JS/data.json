@@ -2,7 +2,7 @@
     "azur_lane": [
         {
             "id": "Ägir",
-            "pfp": "",
+            "pfp": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/pfp/azur_lane/aegir.png?raw=true",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -12,6 +12,23 @@
                 "gender": "Female",
                 "group": "Iron Blood",
                 "status": "Probably working at the cafe, but not sure. Come and distract me if you want!",
+                "favorite_foods": []
+            }
+        }
+    ],
+    "genshin": [
+        {
+            "id": "Ganyu",
+            "pfp": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/pfp/genshin/ganyu.png?raw=true",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 47.4,
+                "body_artist": "kipteitei",
+                "age": 3000,
+                "gender": "Female",
+                "group": "",
+                "status": "Lounging around and relaxing!",
                 "favorite_foods": []
             }
         }
@@ -34,7 +51,7 @@
         },
         {
             "id": "Roboco",
-            "pfp": "",
+            "pfp": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/pfp/hololive/roboco.png?raw=true",
             "details": {
                 "cm": 154,
                 "ft": "5'1\"",
@@ -49,7 +66,7 @@
         },
         {
             "id": "Mel",
-            "pfp": "",
+            "pfp": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/pfp/hololive/mel.png?raw=true",
             "details": {
                 "cm": 154,
                 "ft": "5'1\"",
@@ -64,13 +81,30 @@
         },
         {
             "id": "AkiRose",
-            "pfp": "",
+            "pfp": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/pfp/hololive/akirose.png?raw=true",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
                 "weight": 48.6,
                 "body_artist": "kipteitei",
                 "age": 224,
+                "gender": "Female",
+                "group": "Hololive JP Gen 1",
+                "status": "Available",
+                "favorite_foods": []
+            }
+        }
+    ],
+    "nikke": [
+        {
+            "id": "Anis",
+            "pfp": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/pfp/nikke/anis.png?raw=true",
+            "details": {
+                "cm": 162,
+                "ft": "5'4\"",
+                "weight": 48.6,
+                "body_artist": "cakecatboy",
+                "age": 500,
                 "gender": "Female",
                 "group": "Hololive JP Gen 1",
                 "status": "Available",

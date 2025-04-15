@@ -2,7 +2,7 @@
   "kipteitei": [
     {
       "size": 0,
-      "img": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/body/KTT/KTT0.png?raw=true"
+      "img": "images/body/KTT/KTT0.png"
     },
     {
       "size": 1,
@@ -12,7 +12,7 @@
   "maniacalfork": [
     {
       "size": 0,
-      "img": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/body/MF/MF0.png?raw=true"
+      "img": "images/body/MF/MF0.png"
     },
     {
       "size": 1,
@@ -22,11 +22,11 @@
   "cakecatboy": [
     {
       "size": 0,
-      "img": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/body/CCB/CCB0.png?raw=true"
+      "img": "images/body/CCB/CCB0.png"
     },
     {
       "size": 1,
-      "img": "https://github.com/M0thership-Th3ta/soffometer/blob/main/images/body/CCB/CCB1.png?raw=true"
+      "img": "images/body/CCB/CCB1.png"
     }
   ]
 }

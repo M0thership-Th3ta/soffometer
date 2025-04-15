@@ -160,6 +160,13 @@ header {
     font-weight: bold;
 }
 
+.favorite-list-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
 .user-info {
     width: 80vw;
     height: 25vh;

@@ -50,7 +50,10 @@ function dataLoading(data){
     const memberData = data[group]?.find(memberData => memberData.id === member);
     if (memberData) {
         details = [memberData.details];
-        if (memberData.pfp) userImage.setAttribute("src", memberData.pfp);
+        if (memberData.pfp) {
+            preloadImages([memberData.pfp]); // Preload the image
+            userImage.setAttribute("src", memberData.pfp);
+        }
     }
     detailsLoading();
 }
@@ -165,6 +168,13 @@ function postsLoading(data){
         });
 }
 
+function preloadImages(imageUrls) {
+    imageUrls.forEach(url => {
+        const img = new Image();
+        img.src = url;
+    });
+}
+
 function bodyLoading(data) {
     const bodyArtist = details[0]?.body_artist; // Get the body_artist from details
     if (!bodyArtist) return;
@@ -172,6 +182,10 @@ function bodyLoading(data) {
     // Find the artist's data in body.json
     const artistData = data[bodyArtist];
     if (!artistData) return;
+
+    // Preload all images for the artist
+    const imageUrls = artistData.map(item => item.img).filter(url => url);
+    preloadImages(imageUrls);
 
     // Find the image corresponding to the counter value or the last available image
     let bodyImage = null;
