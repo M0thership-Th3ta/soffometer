@@ -100,13 +100,6 @@ function memberSelected(e){
         console.log(e.target.dataset.id)
     }
 }
-
-function goToMember(name, menu){
-    localStorage.removeItem("member")
-    localStorage.removeItem("menu")
-    localStorage.setItem("menu", menu)
-    localStorage.setItem("member", name)
-}
 function favoriteClick(e){
     e.preventDefault();
     const memberCard = e.target.closest(".member-card");
