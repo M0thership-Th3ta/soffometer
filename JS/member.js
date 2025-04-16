@@ -5,8 +5,8 @@ let member = localStorage.getItem("member")
 let group = localStorage.getItem("menu")
 let userImage, ageGender, weightHeight, nameGroup, statusMessage, postsList;
 let details = [];
-let BMI, BRI, difference, starterWeight, waistCircumference, counter;
-let waistCircumferenceThreshold;
+let BMI, BRI, difference, starterWeight, waistCircumference, counter, BMR, age;
+let waistCircumferenceThreshold, mealCalories;
 
 function init(){
     // Cache DOM elements
@@ -101,6 +101,13 @@ function calculateWaistCircumference(CM, BRI){
 
     const waistMatrixForBRI5 = Math.sqrt((1 - (((364.2 - 5) / 365.5) ** 2)) * calculationMatrix);
     waistCircumferenceThreshold = (waistMatrixForBRI5 * (2 * Math.PI)).toFixed(1);
+}
+
+function calculateBMR(Weight, CM, Age){
+    BMR = Number(((9.247 * Weight) + (3.098 * CM) - (4.330 * Age) + 447.593).toFixed(0));
+    console.log(BMR)
+    mealCalories = Number(((BMR + 1000) / 5).toFixed(0));
+    console.log(mealCalories)
 }
 
 function calculateCounter(waistCircumference, waistCircumferenceThreshold) {
