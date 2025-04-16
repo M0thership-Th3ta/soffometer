@@ -1,7 +1,7 @@
 window.addEventListener('load', init);
 
 //globals
-let cm;
+let cm, tummySpace, stuffings;
 let selectedMember;
 function init(){
     loadData("JS/data.json", memberListLoading);
@@ -61,13 +61,30 @@ function memberListLoading(data){
 
             if (selectedMember && selectedMember.details) {
                 cm = selectedMember.details.cm || null;
+                stuffings = selectedMember.details.stuffings !== undefined ? selectedMember.details.stuffings : 0;
             } else {
                 console.warn("Details not found for the selected member.");
                 cm = null;
+                stuffings = 0;
             }
         } else {
             cm = null;
+            stuffings = null;
         }
-        console.log(cm)
+
+        const tummySizeElement = document.querySelector("#tummy-size");
+
+        if (cm !== null && stuffings !== null) {
+            calculateTummySpace(cm, stuffings);
+            console.log("Tummy Space:", tummySpace);
+            tummySizeElement.textContent = `Tummy Size: ${tummySpace} Grams`;
+        } else {
+            console.warn("Cannot calculate tummy space due to missing data.");
+            tummySizeElement.textContent = "Tummy Size: Unknown";
+        }
     });
+}
+
+function calculateTummySpace(cm, stuffings){
+   tummySpace = (((cm/200)*4000))*(1.01^stuffings)
 }

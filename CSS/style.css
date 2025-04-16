@@ -274,9 +274,9 @@ div .user-info-subsection {
     object-position: center;
 }
 
-.character-selection {
+.character-selection, .food-selection, .food-order-list, .order-information {
     width: 80vw;
-    margin: auto;
+    margin: 10px auto;
     padding: 25px;
     display: flex;
     flex-direction: row;
