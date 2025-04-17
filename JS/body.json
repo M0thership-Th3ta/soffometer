@@ -9,14 +9,18 @@
       "img": ""
     }
   ],
-  "maniacalfork": [
+  "orristerioso": [
     {
       "size": 0,
-      "img": "images/body/MF/MF0.png"
+      "img": "images/body/OR/OR0.png"
     },
     {
       "size": 1,
-      "img": ""
+      "img": "images/body/OR/OR1.png"
+    },
+    {
+      "size": 2,
+      "img": "images/body/OR/OR2.png"
     }
   ],
   "cakecatboy": [
@@ -27,6 +31,36 @@
     {
       "size": 1,
       "img": "images/body/CCB/CCB1.png"
+    }
+  ],
+  "betterwithsalt": [
+    {
+      "size": 21,
+      "img": "images/body/BWS/BWS0.png"
+    },
+    {
+      "size": 22,
+      "img": ""
+    }
+  ],
+  "davielwithfries": [
+    {
+      "size": 21,
+      "img": "images/body/DWF/DWF0.png"
+    },
+    {
+      "size": 22,
+      "img": ""
+    }
+  ],
+  "plumpknight": [
+    {
+      "size": 21,
+      "img": "images/body/PK/PK0.png"
+    },
+    {
+      "size": 22,
+      "img": ""
     }
   ]
 }
