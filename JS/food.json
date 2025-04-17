@@ -1,3 +1,26 @@
 {
-
+  "deserts": [
+    {
+      "name": "Chocolate Cake - 1 slice",
+      "calories": 352,
+      "serving_size": 95
+    },
+    {
+      "name": "Glazed Donut - 1 donut",
+      "calories": 269,
+      "serving_size": 64
+    }
+  ],
+    "snacks": [
+        {
+          "name": "Potato Chips - 1 bag",
+          "calories": 1217,
+          "serving_size": 227
+        },
+        {
+          "name": "Chocolate Chip Cookies - 1 cookie",
+          "calories": 148,
+          "serving_size": 30
+        }
+    ]
 }

@@ -117,7 +117,27 @@ function calculateWeightChange(inputCalories) {
     const weightCheck = document.querySelector("#weight-check");
 
     if (BMR !== undefined && !isNaN(inputCalories)) {
-        const leftoverCalories = inputCalories - BMR;
+        let adjustedBMR = BMR; // Start with the original BMR
+        const diet = selectedMember?.details?.diet || "low"; // Default to "low" if diet is not available
+        const exercise = selectedMember?.details?.exercise || "none"; // Default to "none" if exercise is not available
+
+        // Adjust BMR based on diet
+        if (diet === "low") {
+            adjustedBMR -= mealCalories;
+        } else if (diet === "medium") {
+            adjustedBMR -= mealCalories * 2;
+        } else if (diet === "high") {
+            adjustedBMR -= mealCalories * 3;
+        }
+
+        // Adjust BMR based on exercise
+        if (exercise === "low") {
+            adjustedBMR += 500;
+        } else if (exercise === "high") {
+            adjustedBMR += 750;
+        }
+
+        const leftoverCalories = inputCalories - adjustedBMR;
 
         // Adjust the divisor based on the level
         const level = selectedMember?.details?.level || 0; // Default level to 0 if not available
