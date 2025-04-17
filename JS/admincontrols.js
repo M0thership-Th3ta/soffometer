@@ -83,8 +83,10 @@ function memberListLoading(data){
                 cm = selectedMember.details.cm || null;
 
                 // Check and set age
-                age = selectedMember.details.age || 50; // Default to 50 if age is unknown
-                if (age > 50) {
+                age = selectedMember.details.age;
+                if (typeof age !== "number" || isNaN(age)) {
+                    age = 50; // Default to 50 if age is not a valid number
+                } else if (age > 50) {
                     age = 50; // Cap age at 50
                 }
 
@@ -116,10 +118,16 @@ function calculateBMR(Weight, CM, Age){
 function calculateWeightChange(inputCalories) {
     const weightCheck = document.querySelector("#weight-check");
 
+    console.log("Input Calories:", inputCalories);
+    console.log("BMR:", BMR);
+
     if (BMR !== undefined && !isNaN(inputCalories)) {
         let adjustedBMR = BMR; // Start with the original BMR
         const diet = selectedMember?.details?.diet || "low"; // Default to "low" if diet is not available
         const exercise = selectedMember?.details?.exercise || "none"; // Default to "none" if exercise is not available
+
+        console.log("Diet:", diet);
+        console.log("Exercise:", exercise);
 
         // Adjust BMR based on diet
         if (diet === "low") {
@@ -130,6 +138,8 @@ function calculateWeightChange(inputCalories) {
             adjustedBMR -= mealCalories * 3;
         }
 
+        console.log("Adjusted BMR after diet:", adjustedBMR);
+
         // Adjust BMR based on exercise
         if (exercise === "low") {
             adjustedBMR += 500;
@@ -137,16 +147,25 @@ function calculateWeightChange(inputCalories) {
             adjustedBMR += 750;
         }
 
+        console.log("Adjusted BMR after exercise:", adjustedBMR);
+
         const leftoverCalories = inputCalories - adjustedBMR;
+        console.log("Leftover Calories:", leftoverCalories);
 
         // Adjust the divisor based on the level
         const level = selectedMember?.details?.level || 0; // Default level to 0 if not available
         const adjustedDivisor = 7000 * (1 - (level * 0.01));
 
+        console.log("Level:", level);
+        console.log("Adjusted Divisor:", adjustedDivisor);
+
         const weightChange = (leftoverCalories / adjustedDivisor).toFixed(1); // Round to 1 decimal place
+
+        console.log("Weight Change:", weightChange);
 
         weightCheck.textContent = `Weight change: ${weightChange} kg`;
     } else {
+        console.log("Invalid input or BMR not calculated.");
         weightCheck.textContent = "Invalid input or BMR not calculated.";
     }
 }

@@ -28,8 +28,6 @@ function init(){
     loadData("JS/posts.json", postsLoading);
     loadData("JS/body.json", bodyLoading);
     loadData("JS/mood.json", moodLoading);
-
-    calculateCounter()
 }
 
 function loadData(url, successHandler){
@@ -75,7 +73,14 @@ function detailsLoading(){
     calculateWaistCircumference(heightInCM, BRI);
 
     nameGroup.innerText = detail.group ? `${member} - ${detail.group}` : member;
-    ageGender.innerText = `at least ${detail.age} years old / ${detail.gender}`;
+
+    // Check if age is a string
+    if (typeof detail.age === "string") {
+        ageGender.innerText = `Age unknown / ${detail.gender}`;
+    } else {
+        ageGender.innerText = `at least ${detail.age} years old / ${detail.gender}`;
+    }
+
     weightHeight.innerText = `${currentWeight}kg / ${currentWeightInLB}lbs / ${heightInM}m / ${detail.ft} / ${BMI} BMI`;
     statusMessage.innerText = detail.status || "";
 
@@ -93,6 +98,7 @@ function detailsLoading(){
     if (kinksElement) {
         kinksElement.innerText = detail.kinks?.join(", ") || "None";
     }
+    calculateCounter(waistCircumference, waistCircumferenceThreshold);
 }
 function calculatePercentages(CM){
     difference = (CM / 163).toFixed(2)
@@ -121,11 +127,15 @@ function calculateWaistCircumference(CM, BRI){
 
 function calculateCounter(waistCircumference, waistCircumferenceThreshold) {
     counter = 0;
+    console.log(waistCircumference)
+    console.log(waistCircumferenceThreshold)
 
     if (waistCircumference > waistCircumferenceThreshold) {
         const difference = waistCircumference - waistCircumferenceThreshold;
+        console.log("difference:", difference)
         counter = Math.floor(difference / 2.54);
     }
+    console.log("Counter:", counter);
 }
 
 function postsLoading(data){

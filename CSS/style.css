@@ -325,3 +325,29 @@ div .user-info-subsection {
 .disabled {
     display: none;
 }
+
+@media (max-width: 800px) {
+    .member-gallery,
+    .index-text,
+    .favorite-list,
+    .user-info,
+    .character-selection,
+    .food-selection,
+    .food-order-list,
+    .order-information {
+        width: 90vw;
+    }
+
+    header {
+        flex-direction: column;
+    }
+
+    #menu-button {
+        order: 1;
+        margin: 10px auto 0 auto; /* Center the button below the title */
+    }
+
+    .title {
+        order: 0;
+    }
+}
