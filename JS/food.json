@@ -6,6 +6,18 @@
         "serving_size": 188
     }
   ],
+  "chips": [
+    {
+      "name": "Potato Chips - 1 bag",
+      "calories": 1217,
+      "serving_size": 227
+    },
+    {
+      "name": "Pringles - 1 can",
+      "calories": 853,
+      "serving_size": 165
+    }
+  ],
   "deserts": [
     {
       "name": "Chocolate Cake - 1 slice",
@@ -19,11 +31,6 @@
     }
   ],
     "snacks": [
-        {
-          "name": "Potato Chips - 1 bag",
-          "calories": 1217,
-          "serving_size": 227
-        },
         {
           "name": "Chocolate Chip Cookies - 1 cookie",
           "calories": 148,

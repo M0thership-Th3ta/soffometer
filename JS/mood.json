@@ -1,22 +1,32 @@
 {
   "sarcastic": [
-    "Absolutely thriving — if by thriving you mean surviving on caffeine and sarcasm.",
-    "Living the dream... if the dream is mild chaos and coffee dependency.",
-    "Loving how productive I feel... while doing absolutely nothing.",
-    "Making sure I stay in shape, that shape being round.",
-    "Currently accepting prayers, caffeine, and good vibes only.",
-    "I’m not lazy, I’m just on energy-saving mode.",
-    "I’m not procrastinating, I’m just prioritizing my relaxation.",
-    "Living proof that you can look fine and still be a hot mess inside.",
-    "Don’t worry, nobody’s judging… except me. I’m judging a little.",
-    "Running late is my cardio.",
-    "They say “be yourself” like that’s not the whole problem.",
-    "Running purely on bad decisions and decent lighting.",
-    "Did it for the plot. Regret it for the therapy bill.",
-    "Currently accepting compliments, not advice.",
-    "I’m still standing. Mostly because if I sit down, I won’t get back up."
+    {
+      "emoji": "\uD83D\uDE44",
+      "feeling": "Sarcastic",
+      "moods": [
+        "Absolutely thriving — if by thriving you mean surviving on caffeine and sarcasm.",
+        "Living the dream... if the dream is mild chaos and coffee dependency.",
+        "Loving how productive I feel... while doing absolutely nothing.",
+        "Making sure I stay in shape, that shape being round.",
+        "Currently accepting prayers, caffeine, and good vibes only.",
+        "I’m not lazy, I’m just on energy-saving mode.",
+        "I’m not procrastinating, I’m just prioritizing my relaxation.",
+        "Living proof that you can look fine and still be a hot mess inside.",
+        "Don’t worry, nobody’s judging… except me. I’m judging a little.",
+        "Running late is my cardio.",
+        "They say “be yourself” like that’s not the whole problem.",
+        "Running purely on bad decisions and decent lighting.",
+        "Did it for the plot. Regret it for the therapy bill.",
+        "Currently accepting compliments, not advice.",
+        "I’m still standing. Mostly because if I sit down, I won’t get back up."
+    ]
+  }
   ],
   "hungry": [
+    {
+      "emoji": "\uD83E\uDD71",
+      "feeling": "Hungry",
+      "moods": [
     "Starving artist? More like starving me.",
     "I could eat a whole buffet... if I could find one.",
     "My love language is snacks.",
@@ -35,9 +45,231 @@
     "There’s a hole in my heart and only fries can fill it.",
     "Feed me and tell me I’m pretty.",
     "I don't need to exercise, I just need to eat more."
+      ]
+    }
   ],
   "airhead": [
+    {
+      "emoji": "\uD83D\uDE07",
+      "feeling": "Ditzy",
+      "moods": [
     "Brain? Off. Vibe? On.",
-    "Just one of those days where I’m cute, not competent."
+    "Just one of those days where I’m cute, not competent.",
+    "Thinking is hard. Let’s just be hot.",
+    "I got distracted by something shiny but I’m back now hiiii!",
+    "I don’t really know what’s going on but I’m excited about it!!",
+    "Saying “yay” fixes like, 90% of problems.",
+    "I tried to think but then I got sleepy.",
+    "I literally don’t know what’s going on but I hope it works out.",
+    "I would explain myself but honestly… I already forgot what happened.",
+    "Full-time cutie, part-time liability.",
+    "If I had a thought, it’s gone now.",
+    "My brain’s offline but my eyeliner’s sharp.",
+    "I got distracted by a bug and now I don’t know what we were talking about.",
+    "I don’t know how I got here but yay me!",
+    "I love when things work out for me even though I had no idea what I was doing.",
+    "Literally just pressing buttons and giggling.",
+    "I say “yay” a lot because I don’t really know what else is happening."
+      ]
+    }
+  ],
+  "psychotic": [
+    {
+      "emoji": "\uD83D\uDE23",
+      "feeling": "Stressed",
+      "moods": [
+    "I’m not crazy, I’m just a little unwell.",
+    "I’m not insane, my reality is just different from yours.",
+    "I’m not weird, I’m just limited edition.",
+    "I’m not saying I’m the best, but I am definitely the most interesting.",
+    "I’m not saying I’m crazy, but my therapist says I’m unique.",
+    "I don’t need therapy. I just need snacks and naps.",
+    "I’m not overreacting, you’re just underestimating the consequences.",
+    "I forgive easily. But I never forget. Ever. Not even a little bit.",
+    "I’m sweet, until I’m not. You’ll know the difference.",
+    "I act unbothered, but I’m making a doll of you.",
+    "Emotionally unstable, but make it sexy.",
+    "I smile like I don’t hear the voices.",
+    "You’re not allowed to leave. I picked you.",
+    "I don’t get jealous. I get territorial."
+        ]
+    }
+  ],
+  "motivated": [
+    {
+      "emoji": "\uD83E\uDEE1",
+      "feeling": "Motivated",
+      "moods": [
+    "Today is the day I stop procrastinating. Starting... right after this coffee.",
+    "I’m not waiting for the perfect moment. I’m creating it.",
+    "My goals don’t have time for my doubts. Let’s go.",
+    "Rise and grind, baby. The world’s not going to conquer itself.",
+    "Don’t just dream it, do it. No excuses today.",
+    "Success doesn’t wait. Neither do I.",
+    "Let’s make today count. Tomorrow won’t wait for us.",
+    "Today is the start of my next big thing.",
+    "I’m chasing my dreams and taking care of myself along the way.",
+    "I’m not just a dreamer, I’m a doer.",
+    "I’m not just here to exist, I’m here to thrive.",
+    "I’m not just going to sit back and watch life happen. I’m going to make it happen.",
+    "I’m not just going to wait for opportunities. I’m going to create them.",
+    "I’m not just working to be successful, I’m working to feel good too.",
+    "Self-care isn’t a luxury. It’s part of the process.",
+    "Resting doesn’t mean quitting. It means I’m ready to tackle the next challenge."
+        ]
+    }
+  ],
+  "flirty": [
+    {
+      "emoji": "\uD83D\uDE0D",
+      "feeling": "Flirty",
+      "moods": [
+    "You’ve got 10 seconds to impress me. Go.",
+    "Flirting is my love language.",
+    "I’m not hard to impress, but you’ve gotta try first.",
+    "You know what would make my night better? A drink with you. Just saying.",
+    "I’m not saying you should flirt with me, but I’m not stopping you either.",
+    "I promise I’m not as innocent as I look.",
+    "You’re thinking about me, aren’t you? Good.",
+    "You know, you’re cute... but I bet I could make you cuter.",
+    "You’re not even trying, but you’re already getting me curious.",
+    "Keep looking at me like that, and I might just make you my favorite distraction.",
+    "If I keep looking at you like this, will you finally make a move?",
+    "I can’t stop thinking about you... and I’m starting to wonder if you can’t either.",
+    "I’m not saying you should take me out... but I think you really should.",
+    "I’m trying not to chase you, but you’re making it way too hard.",
+    "I’m not saying we’re meant to be... but I think we’d make a great story together.",
+    "I’m not saying I’m the answer to your problems... but I can definitely be the highlight of your day."
+        ]
+    }
+  ],
+  "cool": [
+    {
+      "emoji": "\uD83D\uDE0E",
+      "feeling": "Chill",
+      "moods": [
+    "I’m not saying I’m the best, but I’m definitely in the top one.",
+    "I don’t need to be in control... but I’ll still win.",
+    "If you can’t keep up with my game, you’re gonna miss out.",
+    "I like my wheels fast and my vibes chill.",
+    "You can try to keep up, but I’m way ahead of you.",
+    "I’m more interested in my controller than your drama.",
+    "Catch me cruising through life, with or without you.",
+    "Don’t rush me. I’m just vibing.",
+    "Chillin’ and killin’ it, one step at a time.",
+    "You can watch me do my thing, or you can join in. Your call.",
+    "I don’t chase, I attract.",
+    "I’m too busy enjoying life to worry about the small stuff.",
+    "Not everyone gets my vibe, and that’s fine by me.",
+    "Don’t mistake my chill for disinterest."
+        ]
+    }
+  ],
+  "retro": [
+    {
+      "emoji": "\uD83D\uDC7E",
+      "feeling": "Nostalgic",
+      "moods": [
+    "There’s something special about the sound of a VHS tape rewinding that you just don’t get with streaming.",
+    "Saturday mornings were made for cartoons and cereal. Those were the best mornings.",
+    "I miss the days when you had to actually go to a store to rent a movie. It was like a treasure hunt.",
+    "Old-school consoles had a charm, something about them just felt more personal.",
+    "There's a certain comfort in pulling out an old CD and hearing the exact sound you remember from your first listen.",
+    "I’ll always have a soft spot for those clunky old cell phones that you could actually drop without breaking.",
+    "There is something so peaceful about just sitting in front of the TV and watching your favorite show with no interruptions.",
+    "Remember when video games came with manuals? You’d read them like they were the best thing ever."
+        ]
+    }
+  ],
+  "girlfailure": [
+    {
+      "emoji": "\uD83D\uDE2D",
+      "feeling": "Stupid",
+      "moods": [
+    "I swear I had a plan, but then I forgot it and now I’m lost.",
+    "I definitely didn’t just drop my phone in the toilet. Nope, not me.",
+    "I was going to be productive today, but then I remembered my bed exists.",
+    "I have no idea what’s going on, but I’m pretending I do.",
+    "I did my best... and by best, I mean I barely tried.",
+    "You know you’ve hit rock bottom when even your snacks judge you.",
+    "I don’t even know what day it is anymore.",
+    "I know I’m a disaster, but I still think I’m cute.",
+    "I had goals. Then I ate some chips and forgot them.",
+    "You know those days where you just exist but aren’t really sure how? That’s me right now.",
+    "I thought getting up at 5 AM would be a good idea. I was wrong.",
+    "I tried to start a workout routine today. I lasted 10 minutes and now I’m in bed.",
+    "I went to the store for one thing, came out with five... none of which were what I needed. FML",
+    "I ate an entire pizza... again. It felt good at the time.",
+    "I tried to make a smoothie, and now my kitchen looks like a crime scene.",
+    "I can’t believe I just did that. Please forget I exist for the next 24 hours."
+        ]
+    }
+  ],
+  "fit": [
+    {
+      "emoji": "\uD83D\uDCAA",
+      "feeling": "Energized",
+      "moods": [
+    "That post-workout glow is real, and I’m here for it.",
+    "I don’t always have time for self-care, but a good workout is my therapy.",
+    "I ran that extra mile, and now I’m ready to conquer the world.",
+    "Some days it’s all about the sweat, the grind, and the satisfaction of knowing I gave it my all.",
+    "Stronger every day — but make it cute.",
+    "Fitness isn’t about being perfect, it’s about progress.",
+    "I set goals, and I crush them. One rep at a time.",
+    "My body is my temple. And today, it’s looking pretty great.",
+    "Lifting weights and lifting my mood — the best combo.",
+    "The only bad workout is the one you didn’t do."
+        ]
+    }
+  ],
+  "sleepy": [
+    {
+      "emoji": "\uD83D\uDE34",
+      "feeling": "Tired",
+      "moods": [
+    "I’m not lazy, I’m just on energy-saving mode.",
+    "I could sleep for a week and still feel tired.",
+    "I’m not a morning person. I’m barely an afternoon person.",
+    "I need a nap like I need air.",
+    "I could fall asleep standing up. And I probably will.",
+    "I’m not tired, I’m just conserving energy.",
+    "If you need me, I’ll be in my bed... forever.",
+    "Sleep is my favorite hobby.",
+    "I don’t do mornings. Or afternoons. Or evenings. Just sleep.",
+    "Today was a long day. Can I just go back to bed now?",
+    "I’m living on caffeine and cozy blankets right now.",
+    "I’m basically a professional napper at this point.",
+    "How many naps are acceptable in one day? Asking for a friend.",
+    "I tried to be productive, but my bed won.",
+    "It’s 2 PM, and I’m already thinking about going back to bed."
+        ]
+    }
+  ],
+  "motherly": [
+    {
+      "emoji": "\uD83D\uDE0A",
+      "feeling": "Kind",
+      "moods": [
+    "Sometimes the best thing you can do for someone is just listen and be there.",
+    "You don't have to be perfect to be loved. Just show up with an open heart.",
+    "I’ve learned that sometimes, all you need is a hug and a good cup of tea.",
+    "Nurturing isn’t just about caring for others, it’s about nurturing yourself, too.",
+    "I’m not just a caretaker, I’m a cheerleader for everyone I love.",
+    "I believe in the power of kindness and a warm smile.",
+    "There’s beauty in being the safe place for someone else to fall.",
+    "Strength isn’t about being tough — it’s about showing kindness, even when it’s hard.",
+    "Sometimes, all we need is a little warmth and kindness.",
+    "Being patient with others starts with being patient with yourself.",
+    "A gentle heart is a powerful one.",
+    "My arms are always open for those who need comfort.",
+    "The little things matter — a kind word, a soft touch, a warm meal.",
+    "There’s something magical about filling the house with the smell of freshly baked cookies.",
+    "Some days, the best therapy is a warm kitchen and a batch of brownies.",
+    "Sometimes, the most special things are the ones made with love and creativity.",
+    "A handmade gift is more than just a present; it’s a piece of my heart.",
+    "The best recipes are the ones that come from the heart, not the cookbook."
+        ]
+    }
   ]
 }

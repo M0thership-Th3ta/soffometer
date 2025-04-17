@@ -27,6 +27,7 @@ function init(){
     loadData("JS/data.json", dataLoading);
     loadData("JS/posts.json", postsLoading);
     loadData("JS/body.json", bodyLoading);
+    loadData("JS/mood.json", moodLoading);
 
     calculateCounter()
 }
@@ -74,9 +75,24 @@ function detailsLoading(){
     calculateWaistCircumference(heightInCM, BRI);
 
     nameGroup.innerText = detail.group ? `${member} - ${detail.group}` : member;
-    ageGender.innerText = `${detail.age} / ${detail.gender}`;
+    ageGender.innerText = `at least ${detail.age} years old / ${detail.gender}`;
     weightHeight.innerText = `${currentWeight}kg / ${currentWeightInLB}lbs / ${heightInM}m / ${detail.ft} / ${BMI} BMI`;
     statusMessage.innerText = detail.status || "";
+
+    // Update hobbies, favorite foods, and kinks
+    const hobbiesElement = document.querySelector("#hobbies");
+    const favoriteFoodsElement = document.querySelector("#favorite-foods");
+    const kinksElement = document.querySelector("#kinks");
+
+    if (hobbiesElement) {
+        hobbiesElement.innerText = detail.hobbies?.join(", ") || "None";
+    }
+    if (favoriteFoodsElement) {
+        favoriteFoodsElement.innerText = detail.favorite_foods?.join(", ") || "None";
+    }
+    if (kinksElement) {
+        kinksElement.innerText = detail.kinks?.join(", ") || "None";
+    }
 }
 function calculatePercentages(CM){
     difference = (CM / 163).toFixed(2)
@@ -101,13 +117,6 @@ function calculateWaistCircumference(CM, BRI){
 
     const waistMatrixForBRI5 = Math.sqrt((1 - (((364.2 - 5) / 365.5) ** 2)) * calculationMatrix);
     waistCircumferenceThreshold = (waistMatrixForBRI5 * (2 * Math.PI)).toFixed(1);
-}
-
-function calculateBMR(Weight, CM, Age){
-    BMR = Number(((9.247 * Weight) + (3.098 * CM) - (4.330 * Age) + 447.593).toFixed(0));
-    console.log(BMR)
-    mealCalories = Number(((BMR + 1000) / 5).toFixed(0));
-    console.log(mealCalories)
 }
 
 function calculateCounter(waistCircumference, waistCircumferenceThreshold) {
@@ -204,5 +213,45 @@ function bodyLoading(data) {
     if (bodyImage) {
         const bodyReference = document.querySelector("#body-reference");
         bodyReference.setAttribute("src", bodyImage); // Set the image source
+    }
+}
+
+function moodLoading(data){
+    const personality = details[0]?.personality; // Get the personality array from details
+    if (!personality || personality.length === 0) return;
+
+    let selectedMood = null;
+
+    if (personality.length === 1) {
+        // If there's only one personality trait, find the matching mood
+        const moodArray = data[personality[0]];
+        if (moodArray) {
+            selectedMood = moodArray.find(mood => mood.moods && mood.moods.length > 0);
+        }
+    } else if (personality.length === 2) {
+        // If there are two personality traits, apply weighted probability
+        const random = Math.random();
+        const selectedTrait = random < 0.75 ? personality[0] : personality[1];
+        const moodArray = data[selectedTrait];
+        if (moodArray) {
+            selectedMood = moodArray.find(mood => mood.moods && mood.moods.length > 0);
+        }
+    }
+
+    if (!selectedMood) return;
+
+    // Pick a random mood message
+    const randomMood = selectedMood.moods[Math.floor(Math.random() * selectedMood.moods.length)];
+
+    // Update the #user-mood element
+    const userMoodElement = document.querySelector("#user-mood");
+    if (userMoodElement) {
+        userMoodElement.innerText = randomMood;
+    }
+
+    // Update the #user-feeling element
+    const userFeelingElement = document.querySelector("#user-feeling");
+    if (userFeelingElement) {
+        userFeelingElement.innerText = `Feeling: ${selectedMood.feeling} ${selectedMood.emoji}`;
     }
 }
