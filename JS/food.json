@@ -1,4 +1,11 @@
 {
+  "burgers": [
+    {
+      "name": "Calliburger - 1 burger",
+      "calories": 1400,
+        "serving_size": 188
+    }
+  ],
   "deserts": [
     {
       "name": "Chocolate Cake - 1 slice",

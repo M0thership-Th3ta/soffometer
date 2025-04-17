@@ -73,7 +73,7 @@ function detailsLoading(){
     calculateStarterWeight(18.5, heightInCM);
     calculateWaistCircumference(heightInCM, BRI);
 
-    nameGroup.innerText = `${member} - ${detail.group || ""}`;
+    nameGroup.innerText = detail.group ? `${member} - ${detail.group}` : member;
     ageGender.innerText = `${detail.age} / ${detail.gender}`;
     weightHeight.innerText = `${currentWeight}kg / ${currentWeightInLB}lbs / ${heightInM}m / ${detail.ft} / ${BMI} BMI`;
     statusMessage.innerText = detail.status || "";
