@@ -134,8 +134,27 @@
                 "diet": "high",
                 "exercise": "none",
                 "gender": "Female",
-                "group": "Hololive JP Gen 1",
-                "status": "Available",
+                "group": "",
+                "status": "Available, just bring snacks.",
+                "favorite_foods": []
+            }
+        },
+        {
+            "id": "Bready",
+            "pfp": "images/pfp/nikke/bready.png",
+            "details": {
+                "cm": 161,
+                "ft": "5'3\"",
+                "weight": 67.3,
+                "body_artist": "cakecatboy",
+                "age": 500,
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "",
+                "status": "Available but probably baking something.",
                 "favorite_foods": []
             }
         }
