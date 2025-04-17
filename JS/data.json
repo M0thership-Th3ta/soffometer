@@ -23,6 +23,30 @@
             }
         }
     ],
+    "frutiger_aero": [
+        {
+            "id": "Toriel",
+            "pfp": "images/pfp/frutiger_aero/toriel.png",
+            "details": {
+                "cm": 187,
+                "ft": "6'2\"",
+                "weight": 87.4,
+                "body_artist": "cakecatboy",
+                "age": "Unknown",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "",
+                "status": "Either reading a book or baking a pie, come say hi!",
+                "personality": ["motherly"],
+                "hobbies": ["Baking", "Reading", "Gardening", "Relaxing", "Writing", "Housekeeping"],
+                "favorite_foods": ["Pie", "Pastries", "Cake", "Cookies", "Crepes", "Chocolate", "Brownies", "Cupcakes", "Water", "Milk", "Wine"],
+                "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers"]
+            }
+        }
+    ],
     "genshin": [
         {
             "id": "Ganyu",
