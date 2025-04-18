@@ -202,11 +202,12 @@ function preloadImages(imageUrls) {
 }
 
 function bodyLoading(data) {
-    const bodyArtist = details[0]?.body_artist; // Get the body_artist from details
-    if (!bodyArtist) return;
+    // Determine which artist to use based on the counter value
+    const artistKey = counter > 20 ? details[0]?.obese_artist : details[0]?.body_artist;
+    if (!artistKey) return;
 
     // Find the artist's data in body.json
-    const artistData = data[bodyArtist];
+    const artistData = data[artistKey];
     if (!artistData) return;
 
     // Preload all images for the artist

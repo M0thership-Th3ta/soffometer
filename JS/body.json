@@ -31,6 +31,26 @@
     {
       "size": 1,
       "img": "images/body/CCB/CCB1.png"
+    },
+    {
+      "size": 2,
+      "img": "images/body/CCB/CCB2.png"
+    },
+    {
+      "size": 3,
+      "img": "images/body/CCB/CCB3.png"
+    },
+    {
+      "size": 4,
+      "img": "images/body/CCB/CCB4.png"
+    },
+    {
+      "size": 5,
+      "img": "images/body/CCB/CCB5.jpg"
+    },
+    {
+      "size": 6,
+      "img": "images/body/CCB/CCB6.jpg"
     }
   ],
   "betterwithsalt": [
