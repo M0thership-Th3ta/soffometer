@@ -354,13 +354,30 @@ div .user-info-subsection {
         width: 90vw;
     }
 
-    header {
+    header, .menu {
         flex-direction: column;
+    }
+
+    .menu {
+        height: auto;
     }
 
     #menu-button {
         order: 1;
         margin: 10px auto 0 auto; /* Center the button below the title */
+    }
+
+    .food-name {
+        flex: 1;
+        text-align: left;
+    }
+
+    .food-counter {
+        flex: 1;
+        text-align: right;
+        width: 100px; /* Set a fixed width */
+        height: 30px; /* Set a fixed height */
+        line-height: 1.5; /* Matches the line height of the name */
     }
 
     .title {

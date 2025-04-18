@@ -37,6 +37,23 @@
       "serving_size": 64
     }
   ],
+  "Drinks": [
+    {
+      "name": "Water - 1 glass",
+      "calories": 0,
+      "serving_size": 200
+    },
+    {
+      "name": "Coca Cola - 1 can",
+      "calories": 155,
+      "serving_size": 355
+    },
+    {
+      "name": "Orange Fanta - 1 can",
+      "calories": 180,
+      "serving_size": 355
+    }
+  ],
   "Monster": [
     {
       "name": "Monster Energy Drink 'Ultra Strawberry Dreams' - 1 can",
@@ -50,6 +67,11 @@
     }
   ],
     "Snacks": [
+      {
+        "name": "Chocolate - 1 piece",
+        "calories": 37,
+        "serving_size": 7
+      },
       {
         "name": "Chocolate Chip Cookies - 1 cookie",
         "calories": 148,
