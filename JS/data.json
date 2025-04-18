@@ -138,7 +138,7 @@
                 "exercise": "none",
                 "gender": "Female",
                 "group": "Hololive JP Gen 0",
-                "status": "Available",
+                "status": "Recharging and relaxing!",
                 "personality": ["motivated, retro"],
                 "hobbies": ["Singing", "Gaming", "Dressing up", "Mechanics", "Relaxing", "Streaming"],
                 "favorite_foods": ["Burgers", "Pizza", "Fried Chicken", "Sushi", "Snacks", "Candy", "Cookies", "Ice Cream", "Brownies", "Cupcakes", "Chocolate", "Candy Bars", "Soda", "Milkshakes"],
@@ -161,7 +161,7 @@
                 "exercise": "none",
                 "gender": "Female",
                 "group": "Hololive JP Gen 1",
-                "status": "Available",
+                "status": "Napping or Sleeping, but probably napping.",
                 "personality": ["flirty"],
                 "hobbies": ["Dressing up", "Relaxing", "Gaming", "Napping", "Self-care"],
                 "favorite_foods": ["Ramen", "Sushi", "Sashimi", "Snacks", "Donuts", "Crepes", "Pastries", "Sweets", "Candy", "Cookies", "Parfait", "Chocolate", "Smoothies", "Sake", "Wine", "Cocktails", "Spirits"],
@@ -184,11 +184,35 @@
                 "exercise": "low",
                 "gender": "Female",
                 "group": "Hololive JP Gen 1",
-                "status": "Available",
+                "status": "Probably working on dance routines!",
                 "personality": ["flirty", "motherly"],
                 "hobbies": ["Singing", "Dancing", "Cooking", "Belly dancing", "Relaxing", "Streaming", "Reading", "Streaming"],
                 "favorite_foods": ["Ramen", "Sushi", "Sashimi", "Snacks", "Burgers", "Crepes", "Pastries", "Sweets", "Candy", "Cookies", "Ice Cream", "Parfait", "Chocolate", "Smoothies", "Sake", "Beer", "Wine", "Cocktails", "Spirits"],
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers"]
+            }
+        }
+    ],
+    "indie_vtubers": [
+        {
+            "id": "Saruei",
+            "pfp": "images/pfp/indie_vtubers/saruei.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 47.6,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Either working on gathering bounties or relaxing",
+                "personality": [ "flirty", "cool" ],
+                "hobbies": [ "Streaming", "Lounging", "Bounty hunting", "Assassinating", "Watching porn" ],
+                "favorite_foods": [ "Snacks", "Candy", "Pastries", "Crepes", "Pain au Chocolat", "Cake", "Brownies", "Coffee", "Water", "Milk", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Body worship", "Sex", "Belly Fucking", "Immobility", "Cosplay", "Bimbofication", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
         }
     ],
