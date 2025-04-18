@@ -322,6 +322,22 @@ div .user-info-subsection {
     margin-left: 5px;
 }
 
+.checkbox-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.checkbox-wrapper label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+}
+
 .disabled {
     display: none;
 }

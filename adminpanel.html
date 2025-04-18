@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin Panel</title>
     <script src="JS/admincontrols.js" defer></script>
+    <script src="JS/jsoncreator.js" defer></script>
     <link rel="stylesheet" href="CSS/style.css">
 </head>
 <body>
@@ -28,6 +29,111 @@
         <input type="number" id="ingested-calories" placeholder="Enter calories">
         <p id="satisfied-check">I'm still eating</p>
         <p id="weight-check">I have not yet gained weight</p>
+    </div>
+    <br>
+    <div id="json-creator">
+        <label for="member-id">ID:</label>
+        <input type="text" id="member-id" required>
+        <br>
+
+        <label for="member-name">PFP Path:</label>
+        <input type="text" id="member-name" required placeholder="images/pfp/...">
+        <br>
+
+        <label for="member-height">Height (cm):</label>
+        <input type="number" id="member-height" required>
+        <br>
+
+        <label for="member-ft">Height (ft):</label>
+        <input type="text" id="member-ft" required>
+        <br>
+
+        <label for="member-weight">Weight (kg):</label>
+        <input type="number" id="member-weight" required>
+        <br>
+
+        <label for="member-body-artist">Body Artist:</label>
+        <select id="member-body-artist">
+            <option value="cakecatboy">cakecatboy</option>
+            <option value="kipteitei">kipteitei</option>
+            <option value="orristerioso">orristerioso</option>
+        </select>
+        <br>
+
+        <label for="member-obese-artist">Obese Artist:</label>
+        <select id="member-obese-artist">
+            <option value="betterwithsalt">betterwithsalt</option>
+            <option value="davielwithfries">davielwithfries</option>
+            <option value="plumpknight">plumpknight</option>
+        </select>
+        <br>
+
+        <label for="member-age">Age:</label>
+        <input type="text" id="member-age" required>
+        <br>
+
+        <label for="member-diet">Diet:</label>
+        <select id="member-diet">
+            <option value="low">Low</option>
+            <option value="medium">Medium</option>
+            <option value="high">High</option>
+        </select>
+        <br>
+
+        <label for="member-exercise">Exercise:</label>
+        <select id="member-exercise">
+            <option value="none">None</option>
+            <option value="low">Low</option>
+            <option value="high">High</option>
+        </select>
+        <br>
+
+        <label for="member-gender">Gender:</label>
+        <input type="text" id="member-gender">
+        <br>
+
+        <label for="member-group">Group:</label>
+        <input type="text" id="member-group">
+        <br>
+
+        <label for="member-status">Status:</label>
+        <input type="text" id="member-status">
+        <br>
+
+        <label>Personality:</label>
+        <div id="personality-checkboxes">
+            <label><input type="checkbox" value="sarcastic"> Sarcastic</label>
+            <label><input type="checkbox" value="hungry"> Hungry</label>
+            <label><input type="checkbox" value="airhead"> Airhead</label>
+            <label><input type="checkbox" value="psychotic"> Psychotic</label>
+            <label><input type="checkbox" value="motivated"> Motivated</label>
+            <label><input type="checkbox" value="flirty"> Flirty</label>
+            <label><input type="checkbox" value="cool"> Cool</label>
+            <label><input type="checkbox" value="retro"> Retro</label>
+            <label><input type="checkbox" value="girlfailure"> Girlfailure</label>
+            <label><input type="checkbox" value="fit"> Fit</label>
+            <label><input type="checkbox" value="sleepy"> Sleepy</label>
+            <label><input type="checkbox" value="motherly"> Motherly</label>
+        </div>
+        <br>
+
+        <label for="member-hobbies">Hobbies (comma-separated):</label>
+        <input type="text" id="member-hobbies">
+        <br>
+
+        <label for="member-favorite-foods">Favorite Foods (comma-separated):</label>
+        <input type="text" id="member-favorite-foods">
+        <br>
+
+        <div id="kinks-checkboxes">
+            <h3>Kinks:</h3>
+        </div>
+
+        <button id="generate-json">Generate JSON</button>
+    </div>
+    <div id="json-output">
+        <h2>JSON Output</h2>
+        <pre id="json-display"></pre>
     </div>
 </body>
 </html>

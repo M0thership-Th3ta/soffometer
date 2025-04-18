@@ -74,6 +74,30 @@
             }
         }
     ],
+    "girls_frontline": [
+        {
+            "id": "Sabrina",
+            "pfp": "images/pfp/girls_frontline/sabrina.png",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 70.6,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Searching for the perfect Pizza",
+                "personality": [ "hungry", "motivated" ],
+                "hobbies": [ "Taste-Testing", "Cooking", "Eating", "Learning new recipes", "Snacking" ],
+                "favorite_foods": [ "Pizza", "Pasta", "Burgers", "Fast Food", "Fries", "Chips", "Soda", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        }
+    ],
     "hololive": [
         {
             "id": "Suisei",
@@ -213,6 +237,31 @@
                 "hobbies": ["Baking", "Eating", "Cooking", "Snacking", "Taste-testing"],
                 "favorite_foods": ["Baked goods", "Sweets", "Snacks", "Bread", "Cake", "Pastries", "Donuts", "Crepes", "Pancakes", "Cookies", "Brownies", "Cupcakes", "Chocolate", "Candy", "Candy Bars", "Soda", "Milkshakes"],
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Hypnotism", "Bimbofication", "Trophee Wife", "Corruption", "Coercion", "Crushing", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers"]
+            }
+        }
+    ],
+    "scene": [
+        {
+            "id": "Midna",
+            "pfp": "images/pfp/scene/midna.png",
+            "details": {
+                "cm": 84,
+                "ft": "2'9\"",
+                "weight": 12.4,
+                "body_artist": "cakecatboy",
+                "obese_artist": "plumpknight",
+                "age": "Unknown",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Twilight Princess",
+                "status": "Probably out stealing stuff from your home.",
+                "personality": ["sarcastic"],
+                "hobbies": ["Causing chaos", "Stealing stuff", "Adventuring", "Using people for her own gain"],
+                "favorite_foods": ["Snacks", "Pastries", "Meat", "Fruits", "Brownies", "Cake", "Cookies", "Candy", "Chocolate", "Cupcakes", "Water", "Milk", "Smoothies", "Juice"],
+                "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Body worship", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Fast Food Employment", "Vacation Gains", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers"]
             }
         }
     ]
