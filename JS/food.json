@@ -1,12 +1,19 @@
 {
-  "burgers": [
+  "Burgers": [
     {
       "name": "Calliburger - 1 burger",
       "calories": 1400,
         "serving_size": 188
     }
   ],
-  "chips": [
+  "Cakes": [
+    {
+      "name": "Chocolate Cake - 1 slice",
+      "calories": 352,
+      "serving_size": 95
+    }
+  ],
+  "Chips": [
     {
       "name": "Potato Chips - 1 bag",
       "calories": 1217,
@@ -18,11 +25,11 @@
       "serving_size": 165
     }
   ],
-  "deserts": [
+  "Deserts": [
     {
-      "name": "Chocolate Cake - 1 slice",
-      "calories": 352,
-      "serving_size": 95
+      "name": "Brownie - 1 brownie",
+      "calories": 233,
+      "serving_size": 50
     },
     {
       "name": "Glazed Donut - 1 donut",
@@ -30,11 +37,23 @@
       "serving_size": 64
     }
   ],
-    "snacks": [
-        {
-          "name": "Chocolate Chip Cookies - 1 cookie",
-          "calories": 148,
-          "serving_size": 30
-        }
+  "Monster": [
+    {
+      "name": "Monster Energy Drink 'Ultra Strawberry Dreams' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Bimbo Juice' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    }
+  ],
+    "Snacks": [
+      {
+        "name": "Chocolate Chip Cookies - 1 cookie",
+        "calories": 148,
+        "serving_size": 30
+      }
     ]
 }
