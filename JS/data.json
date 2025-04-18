@@ -22,6 +22,29 @@
                 "favorite_foods": ["Burgers", "Fried Chicken", "Snacks", "Pastries", "Cake", "Crepes", "Pretzels", "Beer", "Ale", "Soda"],
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers"]
             }
+        },
+        {
+            "id": "Taihou",
+            "pfp": "images/pfp/azur_lane/taihou.png",
+            "details": {
+                "cm": 162,
+                "ft": "5'4\"",
+                "weight": 48.6,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 82,
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Sakura Empire",
+                "status": "Forging keys to your house <3",
+                "personality": [ "psychotic", "flirty" ],
+                "hobbies": [ "Stalking", "Looking for you", "Looking at you", "Talking to you", "Being with you" ],
+                "favorite_foods": [ "Pastries", "Chocolates", "Crepes", "Parfaits", "Sake", "Wine", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
         }
     ],
     "frutiger_aero": [
@@ -199,7 +222,7 @@
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
-                "weight": 47.6,
+                "weight": 50.3,
                 "body_artist": "kipteitei",
                 "obese_artist": "davielwithfries",
                 "age": "Unknown",
@@ -271,7 +294,7 @@
             "details": {
                 "cm": 84,
                 "ft": "2'9\"",
-                "weight": 12.4,
+                "weight": 13.1,
                 "body_artist": "cakecatboy",
                 "obese_artist": "plumpknight",
                 "age": "Unknown",
