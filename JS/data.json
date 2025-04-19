@@ -217,6 +217,50 @@
     ],
     "indie_vtubers": [
         {
+            "id": "Mint",
+            "pfp": "images/pfp/indie_vtubers/mint.png",
+            "details": {
+                "cm": 157,
+                "ft": "5'2\"",
+                "weight": 86.2,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": 38,
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Either Gaming, Smoking Weed or Streaming, Come say hi!",
+                "personality": [ "retro", "hungry" ],
+                "hobbies": [ "Gaming", "Smoking Weed", "Baking", "Streaming", "Binge-watching shows" ],
+                "favorite_foods": [ "Tacos", "Pizza", "Pizza Rolls", "Burgers", "Fried Chicken", "Fries", "Ice Cream", "Chips", "Soda. Milkshakes", "Beer", "Liquor", "Spirits" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Miori",
+            "pfp": "images/pfp/indie_vtubers/miori.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 47.4,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": 24,
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Singing, Singing and more Singing",
+                "personality": [ "motivated", "motherly" ],
+                "hobbies": [ "Singing", "Vocal coaching", "Listening to music", "Managing" ],
+                "favorite_foods": [ "Pastries", "Crepes", "Cupcakes", "Cookies", "Brownies", "Cake", "Sweets", "Donuts", "Water", "Milk", "Soda", "Milkshakes", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Saruei",
             "pfp": "images/pfp/indie_vtubers/saruei.png",
             "details": {

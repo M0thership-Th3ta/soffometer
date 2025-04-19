@@ -127,14 +127,20 @@ function calculateWaistCircumference(CM, BRI){
 
 function calculateCounter(waistCircumference, waistCircumferenceThreshold) {
     counter = 0;
-    console.log(waistCircumference)
-    console.log(waistCircumferenceThreshold)
 
-    if (waistCircumference > waistCircumferenceThreshold) {
-        const difference = waistCircumference - waistCircumferenceThreshold;
-        console.log("difference:", difference)
+    // Convert to numbers to ensure proper comparison
+    const waistCircumferenceNum = Number(waistCircumference);
+    const waistCircumferenceThresholdNum = Number(waistCircumferenceThreshold);
+
+    console.log("waist circumference:", waistCircumferenceNum);
+    console.log("waist circumference threshold:", waistCircumferenceThresholdNum);
+
+    if (waistCircumferenceNum > waistCircumferenceThresholdNum) {
+        const difference = waistCircumferenceNum - waistCircumferenceThresholdNum;
+        console.log("difference:", difference);
         counter = Math.floor(difference / 2.54);
     }
+
     console.log("Counter:", counter);
 }
 
