@@ -68,6 +68,11 @@
   ],
     "Snacks": [
       {
+        "name": "Butter - 1 stick",
+        "calories": 810,
+        "serving_size": 113
+      },
+      {
         "name": "Chocolate - 1 piece",
         "calories": 37,
         "serving_size": 7
