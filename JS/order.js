@@ -100,8 +100,8 @@ function memberListLoading(data){
     });
 }
 
-function calculateTummySpace(cm, stuffings){
-   tummySpace = (((cm/200)*4000))*(1.01^stuffings)
+function calculateTummySpace(cm, stuffings) {
+    tummySpace = (((cm / 200) * 4000)) * (1.01 ** stuffings);
 }
 
 function foodLoading(data){

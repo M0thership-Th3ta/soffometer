@@ -263,6 +263,28 @@
     ],
     "indie_vtubers": [
         {
+            "id": "Canaria",
+            "pfp": "images/pfp/indie_vtubers/canaria.png",
+            "details": {
+                "cm": 174,
+                "ft": "5'9\"",
+                "weight": 55.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Probably working on new clothes!",
+                "personality": [ "airhead", "flirty" ],
+                "hobbies": [ "Dressing up", "Cosplay", "Making outfits", "Snacking" ],
+                "favorite_foods": [ "Pastries", "Snacks", "Crepes", "Pain au Chocolat", "Cake", "Cupcakes", "Soda", "Milkshakes", "Liquor", "Spirits" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Mint",
             "pfp": "images/pfp/indie_vtubers/mint.png",
             "details": {
