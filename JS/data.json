@@ -24,6 +24,29 @@
             }
         },
         {
+            "id": "Ark Royal",
+            "pfp": "images/pfp/azur_lane/ark_royal.png",
+            "details": {
+                "cm": 158,
+                "ft": "5'2\"",
+                "weight": 46.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 88,
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "high",
+                "gender": "Female",
+                "group": "Royal Navy",
+                "status": "Taking care of youngins",
+                "personality": [ "motherly" ],
+                "hobbies": [ "Care taking", "Nurturing", "Working out", "Training" ],
+                "favorite_foods": [ "Protein", "Beans on Toast", "Omlettes", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Musashi",
             "pfp": "images/pfp/azur_lane/musashi.png",
             "details": {
@@ -100,12 +123,12 @@
             "details": {
                 "cm": 187,
                 "ft": "6'2\"",
-                "weight": 96.3,
+                "weight": 99.7,
                 "body_artist": "cakecatboy",
                 "obese_artist": "plumpknight",
                 "age": "Unknown",
                 "level": 0,
-                "stuffings": 1,
+                "stuffings": 2,
                 "diet": "medium",
                 "exercise": "none",
                 "gender": "Female",
@@ -381,12 +404,12 @@
             "details": {
                 "cm": 161,
                 "ft": "5'3\"",
-                "weight": 68,
+                "weight": 69.7,
                 "body_artist": "cakecatboy",
                 "obese_artist": "plumpknight",
                 "age": 500,
                 "level": 0,
-                "stuffings": 0,
+                "stuffings": 1,
                 "diet": "high",
                 "exercise": "none",
                 "gender": "Female",
