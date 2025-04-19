@@ -103,7 +103,7 @@
                 "obese_artist": "betterwithsalt",
                 "age": 82,
                 "level": 0,
-                "stuffings": 0,
+                "stuffings": 1,
                 "diet": "medium",
                 "exercise": "none",
                 "gender": "Female",
@@ -371,6 +371,30 @@
                 "hobbies": [ "Streaming", "Lounging", "Bounty hunting", "Assassinating", "Watching porn" ],
                 "favorite_foods": [ "Snacks", "Candy", "Pastries", "Crepes", "Pain au Chocolat", "Cake", "Brownies", "Coffee", "Water", "Milk", "Wine" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Body worship", "Sex", "Belly Fucking", "Immobility", "Cosplay", "Bimbofication", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        }
+    ],
+    "lewdlemage": [
+        {
+            "id": "Oatmeal",
+            "pfp": "images/pfp/lewdlemage/oatmeal.png",
+            "details": {
+                "cm": 183,
+                "ft": "6'0\"",
+                "weight": 61.8,
+                "body_artist": "cakecatboy",
+                "obese_artist": "davielwithfries",
+                "age": 21,
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "👋",
+                "personality": [ "airhead", "hungry" ],
+                "hobbies": [ "Gardening", "Farming", "Barbecuing", "Baking" ],
+                "favorite_foods": [ "Breakfast Foods", "Cereal", "Pancakes", "Syrup", "Fruits", "Cupcakes", "Cookies", "Oats", "Milk" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Messy", "Sweating", "Gain Multipliers", "Bimbofication" ]
             }
         }
     ],
