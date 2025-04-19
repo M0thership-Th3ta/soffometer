@@ -24,6 +24,52 @@
             }
         },
         {
+            "id": "Musashi",
+            "pfp": "images/pfp/azur_lane/musashi.png",
+            "details": {
+                "cm": 200,
+                "ft": "6'7\"",
+                "weight": 73.8,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 84,
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Sakura Empire",
+                "status": "Helping people out probably, feel free to bug me with your problems.",
+                "personality": [ "motivated", "motherly" ],
+                "hobbies": [ "Helping people in need", "Sword training", "Taking the lead", "Management" ],
+                "favorite_foods": [ "Cake", "Pastries", "Pancakes", "Crepes", "Parfait", "Ice Cream", "Cupcakes", "Cookies", "Water", "Milk", "Sake", "WIne" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Shinano",
+            "pfp": "images/pfp/azur_lane/shinano.png",
+            "details": {
+                "cm": 200,
+                "ft": "6'7\"",
+                "weight": 73.8,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": 80,
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Sakura Empire",
+                "status": "Sleeping more than likely.",
+                "personality": [ "sleepy" ],
+                "hobbies": [ "Sleeping", "Dreaming", "Napping", "Writing", "Child Care" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pancakes", "Macaron", "Crepes", "Parfaits", "Brownies", "Cupcakes", "Water", "Milk", "Sake", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Taihou",
             "pfp": "images/pfp/azur_lane/taihou.png",
             "details": {
