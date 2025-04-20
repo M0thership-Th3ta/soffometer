@@ -5,6 +5,18 @@
     --color-accent: #f74bfa;
 }
 
+@keyframes borderColorChange {
+    0% {
+        border-color: var(--color-secondary);
+    }
+    50% {
+        border-color: var(--color-accent);
+    }
+    100% {
+        border-color: var(--color-secondary);
+    }
+}
+
 html {
     font-size: 24px;
     box-sizing: border-box;
@@ -336,6 +348,10 @@ div .user-info-subsection {
     align-items: center;
     gap: 10px;
     font-size: 14px;
+}
+
+.victory {
+    animation: borderColorChange 2s ease-in-out infinite;
 }
 
 .disabled {

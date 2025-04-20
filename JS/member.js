@@ -99,6 +99,8 @@ function detailsLoading(){
         kinksElement.innerText = detail.kinks?.join(", ") || "None";
     }
     calculateCounter(waistCircumference, waistCircumferenceThreshold);
+
+    memberCurrentLevel()
 }
 function calculatePercentages(CM){
     difference = (CM / 163).toFixed(2)
@@ -270,5 +272,26 @@ function moodLoading(data){
     const userFeelingElement = document.querySelector("#user-feeling");
     if (userFeelingElement) {
         userFeelingElement.innerText = `Feeling: ${selectedMood.feeling} ${selectedMood.emoji}`;
+    }
+}
+
+function memberCurrentLevel() {
+    // Ensure details and required properties exist
+    if (!details || !details[0] || typeof BMI === "undefined") return;
+
+    const level = details[0]?.level || 0; // Default level to 0 if not defined
+    const currentXP = 95 + ((BMI - 35) / 1.4); // Calculate current XP
+    const lvlCap = 110 * (1.1 ** level); // Calculate level cap
+
+    // Log the values for debugging
+    console.log("Current XP:", currentXP);
+    console.log("Level Cap:", lvlCap);
+
+    // Check if current XP exceeds level cap
+    if (currentXP > lvlCap) {
+        const userInfoElement = document.querySelector("#user-info");
+        if (userInfoElement) {
+            userInfoElement.classList.add("victory"); // Add the "victory" class
+        }
     }
 }
