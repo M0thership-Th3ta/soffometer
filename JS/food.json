@@ -91,6 +91,11 @@
         "name": "Mini Chocolate Easter Egg - 1 egg",
         "calories": 45,
         "serving_size": 8
+      },
+      {
+        "name": "Medium Chocolate Easter Egg - 1 egg",
+        "calories": 686,
+        "serving_size": 128
       }
     ]
 }
