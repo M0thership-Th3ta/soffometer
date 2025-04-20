@@ -308,17 +308,39 @@
             }
         },
         {
+            "id": "Kira",
+            "pfp": "images/pfp/indie_vtubers/kira.png",
+            "details": {
+                "cm": 175,
+                "ft": "5'9\"",
+                "weight": 56.6,
+                "body_artist": "cakecatboy",
+                "obese_artist": "plumpknight",
+                "age": "Unknown",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "high",
+                "gender": "Female",
+                "status": "Probably working out or taking care of my plants.",
+                "personality": [ "fit", "motherly" ],
+                "hobbies": [ "Working Out", "Taking care of", "Planning", "Organizing", "Management plants", "" ],
+                "favorite_foods": [ "Protein", "Vegetables", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Mint",
             "pfp": "images/pfp/indie_vtubers/mint.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
-                "weight": 86.2,
+                "weight": 89.4,
                 "body_artist": "kipteitei",
                 "obese_artist": "davielwithfries",
                 "age": 38,
                 "level": 0,
-                "stuffings": 0,
+                "stuffings": 1,
                 "diet": "high",
                 "exercise": "none",
                 "gender": "Female",

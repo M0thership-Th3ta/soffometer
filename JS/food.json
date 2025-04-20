@@ -39,29 +39,34 @@
   ],
   "Drinks": [
     {
-      "name": "Water - 1 glass",
-      "calories": 0,
-      "serving_size": 200
-    },
-    {
       "name": "Coca Cola - 1 can",
       "calories": 155,
       "serving_size": 355
     },
     {
+      "name": "Liquid Butter - 1 glass",
+      "calories": 1434,
+      "serving_size": 200
+    },
+    {
       "name": "Orange Fanta - 1 can",
       "calories": 180,
       "serving_size": 355
+    },
+    {
+      "name": "Water - 1 glass",
+      "calories": 0,
+      "serving_size": 200
     }
   ],
   "Monster": [
     {
-      "name": "Monster Energy Drink 'Ultra Strawberry Dreams' - 1 can",
+      "name": "Monster Energy Drink 'Bimbo Juice' - 1 can",
       "calories": 12,
       "serving_size": 500
     },
     {
-      "name": "Monster Energy Drink 'Bimbo Juice' - 1 can",
+      "name": "Monster Energy Drink 'Ultra Strawberry Dreams' - 1 can",
       "calories": 12,
       "serving_size": 500
     }
