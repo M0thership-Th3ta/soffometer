@@ -86,6 +86,11 @@
         "name": "Chocolate Chip Cookies - 1 cookie",
         "calories": 148,
         "serving_size": 30
+      },
+      {
+        "name": "Mini Chocolate Easter Egg - 1 egg",
+        "calories": 45,
+        "serving_size": 8
       }
     ]
 }
