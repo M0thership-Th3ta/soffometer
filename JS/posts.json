@@ -23,5 +23,18 @@
         }
       ]
     }
+  ],
+  "indie_vtubers": [
+    {
+      "id": "Mint",
+      "posts": [
+        {
+          "type": "image",
+          "title": "Happy 4/20!",
+          "date": "2025-04-20",
+          "source": "images/posts/mint_420.jpg"
+        }
+      ]
+    }
   ]
 }
