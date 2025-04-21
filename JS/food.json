@@ -59,6 +59,13 @@
       "serving_size": 200
     }
   ],
+  "Fast Food": [
+    {
+      "name": "Poutine - 1 order",
+      "calories": 886,
+      "serving_size": 400
+    }
+  ],
   "Fish": [
     {
       "name": "Salmon Fillet - 1 fillet",
