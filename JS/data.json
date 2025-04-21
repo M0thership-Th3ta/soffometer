@@ -319,6 +319,54 @@
                 "favorite_foods": ["Ramen", "Sushi", "Sashimi", "Snacks", "Burgers", "Crepes", "Pastries", "Sweets", "Candy", "Cookies", "Ice Cream", "Parfait", "Chocolate", "Smoothies", "Sake", "Beer", "Wine", "Cocktails", "Spirits"],
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers"]
             }
+        },
+        {
+            "id": "Calliope",
+            "pfp": "images/pfp/hololive/calliope.png",
+            "details": {
+                "cm": 167,
+                "ft": "5'6\"",
+                "weight": 51.5,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "4/4",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Holomyth",
+                "status": "Probably with Kiara",
+                "personality": [ "cool", "girlfailure" ],
+                "hobbies": [ "Rapping", "Song-writing", "Singing", "Gaming" ],
+                "favorite_foods": [ "Burgers", "Fries", "Fast Food", "Pizza", "Cake", "Brownies", "Energy Drinks", "Soda", "Coffee" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Kiara",
+            "pfp": "images/pfp/hololive/kiara.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "6/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Transfemme",
+                "group": "Holomyth",
+                "status": "With my beautiful reaper wife.",
+                "personality": [ "flirty", "motivated" ],
+                "hobbies": [ "Dancing", "Singing", "Cosplay", "Baking", "Going on dates", "Performing" ],
+                "favorite_foods": [ "Fried Chicken", "Chicken Burgers", "Chicken Wraps", "Salads", "Cake", "Ice Cream", "Pastries", "Water", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
         }
     ],
     "indie_vtubers": [
@@ -546,13 +594,13 @@
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
-                "weight": 52.1,
+                "weight": 52.9,
                 "body_artist": "cakecatboy",
                 "obese_artist": "betterwithsalt",
                 "age": 22,
                 "birthday": "19/1/2001",
                 "level": 0,
-                "stuffings": 0,
+                "stuffings": 1,
                 "diet": "medium",
                 "exercise": "low",
                 "gender": "Female",
