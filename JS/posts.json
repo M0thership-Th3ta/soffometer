@@ -35,16 +35,16 @@
           "source": "images/posts/mint_420.jpg"
         },
         {
-          "type": "text",
-          "title": "Oh shit Easter",
-          "date": "2025-04-21",
-          "content": "Dude I got so high last night I forgot it was easter too lmao"
-        },
-        {
           "type": "image",
           "title": "Happy Easter!",
           "date": "2025-04-21",
           "source": "images/posts/mint_easter.png"
+        },
+        {
+          "type": "text",
+          "title": "Oh shit Easter",
+          "date": "2025-04-21",
+          "content": "Dude I got so high last night I forgot it was easter too lmao"
         }
       ]
     }

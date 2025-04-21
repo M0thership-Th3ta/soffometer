@@ -74,13 +74,6 @@ function detailsLoading(){
 
     nameGroup.innerText = detail.group ? `${member} - ${detail.group}` : member;
 
-    // Check if age is a string
-    if (typeof detail.age === "string") {
-        ageGender.innerText = `Age unknown / ${detail.gender}`;
-    } else {
-        ageGender.innerText = `at least ${detail.age} years old / ${detail.gender}`;
-    }
-
     weightHeight.innerText = `${currentWeight}kg / ${currentWeightInLB}lbs / ${heightInM}m / ${detail.ft} / ${BMI} BMI`;
     statusMessage.innerText = detail.status || "";
 
@@ -100,7 +93,8 @@ function detailsLoading(){
     }
     calculateCounter(waistCircumference, waistCircumferenceThreshold);
 
-    memberCurrentLevel()
+    memberCurrentLevel();
+    checkBirthday();
 }
 function calculatePercentages(CM){
     difference = (CM / 163).toFixed(2)
@@ -292,6 +286,37 @@ function memberCurrentLevel() {
         const userInfoElement = document.querySelector("#user-info");
         if (userInfoElement) {
             userInfoElement.classList.add("victory"); // Add the "victory" class
+        }
+    }
+}
+
+function checkBirthday() {
+    if (!details || !details[0] || !details[0].birthday) return;
+
+    const today = new Date();
+    const [day, month, year] = [today.getDate(), today.getMonth() + 1, today.getFullYear()];
+
+    // Extract day, month, and year (if available) from the birthday string
+    const birthdayParts = details[0].birthday.split("/");
+    const birthdayDay = parseInt(birthdayParts[0], 10);
+    const birthdayMonth = parseInt(birthdayParts[1], 10);
+    const birthdayYear = birthdayParts[2] ? parseInt(birthdayParts[2], 10) : null;
+
+    // Update ageGender based on the birthday
+    if (birthdayYear) {
+        const calculatedAge = year - birthdayYear - (month < birthdayMonth || (month === birthdayMonth && day < birthdayDay) ? 1 : 0);
+        ageGender.innerText = `${calculatedAge} years old / ${details[0].gender}`;
+    } else if (typeof details[0].age === "number") {
+        ageGender.innerText = `${details[0].age} years old / ${details[0].gender}`;
+    } else {
+        ageGender.innerText = `Age unknown / ${details[0].gender}`;
+    }
+
+    // Check if today's day and month match the birthday's day and month
+    if (day === birthdayDay && month === birthdayMonth) {
+        const userInfoElement = document.querySelector("#user-info");
+        if (userInfoElement) {
+            userInfoElement.classList.add("victory");
         }
     }
 }

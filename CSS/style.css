@@ -183,7 +183,7 @@ header {
 
 .user-info {
     width: 80vw;
-    height: 25vh;
+    height: 27.5vh;
     margin: auto;
     padding: 25px;
     display: flex;
@@ -194,8 +194,8 @@ header {
 }
 
 .user-info-image-container {
-    height: 25vh;
-    width: 25vh;
+    height: 27.5vh;
+    width: 27.5vh;
     background-color: black;
 }
 .user-info-image-container img {

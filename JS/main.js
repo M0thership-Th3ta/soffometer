@@ -37,15 +37,36 @@ function openMenu(){
 }
 
 function doMenuClick(e){
-    if(e.target.tagName === "H2"){
-        selectedMenu = e.target.dataset.group
-        loadData("JS/data.json", createCards)
-        memberMenu.classList.remove("disabled")
-        showingMembers = true
+    if (e.target.tagName === "H2") {
+        selectedMenu = e.target.dataset.group;
+
+        if (selectedMenu === "random") {
+            loadData("JS/data.json", (data) => {
+                // Flatten all members across groups into a single array
+                const allMembers = Object.values(data).flat();
+
+                // Select a random member
+                const randomMember = allMembers[Math.floor(Math.random() * allMembers.length)];
+
+                if (randomMember) {
+                    // Store the random member's ID and group in localStorage
+                    localStorage.setItem("member", randomMember.id);
+                    localStorage.setItem("menu", Object.keys(data).find(group => data[group].includes(randomMember)));
+
+                    // Redirect to the member page
+                    window.location.href = "member.html";
+                }
+            });
+        } else {
+            loadData("JS/data.json", createCards);
+            memberMenu.classList.remove("disabled");
+            showingMembers = true;
+        }
     }
-    if(showingMembers === true){
-        while(memberMenu.hasChildNodes()){
-            memberMenu.removeChild(memberMenu.firstChild)
+
+    if (showingMembers === true) {
+        while (memberMenu.hasChildNodes()) {
+            memberMenu.removeChild(memberMenu.firstChild);
         }
     }
 }
