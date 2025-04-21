@@ -59,6 +59,20 @@
       "serving_size": 200
     }
   ],
+  "Fish": [
+    {
+      "name": "Salmon Fillet - 1 fillet",
+      "calories": 824,
+      "serving_size": 396
+    }
+  ],
+  "Meat": [
+    {
+      "name": "Roast Chicken - 1 chicken",
+      "calories": 1430,
+      "serving_size": 598
+    }
+  ],
   "Monster": [
     {
       "name": "Monster Energy Drink 'Bimbo Juice' - 1 can",
