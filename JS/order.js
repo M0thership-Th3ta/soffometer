@@ -33,6 +33,14 @@ function errorHandler(error){
 function memberListLoading(data){
     const idSelect = document.querySelector("#id-select");
     const memberSelect = document.querySelector("#member-select");
+    const tagSelect = document.querySelector("#tag-select");
+    const foodSelect = document.querySelector("#food-select");
+    const foodSubmissionButton = document.querySelector("#food-submission");
+
+    // Disable food-related elements by default
+    tagSelect.disabled = true;
+    foodSelect.disabled = true;
+    foodSubmissionButton.disabled = true;
 
     // Populate the ID dropdown
     Object.keys(data).forEach(id => {
@@ -58,7 +66,7 @@ function memberListLoading(data){
         }
     });
 
-    // Add event listener to update global variables when a member is selected
+    // Add event listener to update global variables and enable food-related elements when a member is selected
     memberSelect.addEventListener("change", () => {
         const selectedId = idSelect.value;
         const selectedMemberId = memberSelect.value;
@@ -67,36 +75,29 @@ function memberListLoading(data){
             selectedMember = data[selectedId].find(member => member.id === selectedMemberId);
             console.log("Selected Member:", selectedMember);
 
-            if (selectedMember && selectedMember.id) {
-                console.log(`Member ID: ${selectedMember.id}`);
-            } else {
-                console.warn("Selected member does not have an ID property.");
-            }
-
             if (selectedMember && selectedMember.details) {
                 cm = selectedMember.details.cm || null;
                 stuffings = selectedMember.details.stuffings !== undefined ? selectedMember.details.stuffings : 0;
             } else {
-                console.warn("Details not found for the selected member.");
                 cm = null;
                 stuffings = 0;
             }
+
+            // Enable food-related elements
+            tagSelect.disabled = false;
+            foodSelect.disabled = false;
+            foodSubmissionButton.disabled = false;
         } else {
             selectedMember = null;
             cm = null;
             stuffings = null;
-        }
 
-        const tummySizeElement = document.querySelector("#tummy-size");
-
-        if (cm !== null && stuffings !== null) {
-            calculateTummySpace(cm, stuffings);
-            console.log("Tummy Space:", tummySpace);
-            tummySizeElement.textContent = `Tummy Size: ${tummySpace} Grams`;
-        } else {
-            console.warn("Cannot calculate tummy space due to missing data.");
-            tummySizeElement.textContent = "Tummy Size: Unknown";
+            // Disable food-related elements
+            tagSelect.disabled = true;
+            foodSelect.disabled = true;
+            foodSubmissionButton.disabled = true;
         }
+        updateTummySizeDisplay();
     });
 }
 
@@ -194,6 +195,7 @@ function addFoodToOrder() {
                 amountSpan.textContent = foodItem.amount;
                 tummySpaceTaken -= foodItem.servingSize;
                 updateCalories(foodItem, multiplierInput);
+                updateTummySizeDisplay();
             } else {
                 // Remove the food item from the order array
                 order = order.filter(item => item.name !== foodItem.name);
@@ -212,6 +214,7 @@ function addFoodToOrder() {
                 document.querySelector("#calories-ingested").textContent = `Calories in the Order: ${totalCaloriesIngested}`;
 
                 console.log("Updated eatenFood array:", eatenFood);
+                updateTummySizeDisplay();
             }
         });
 
@@ -226,6 +229,7 @@ function addFoodToOrder() {
             amountSpan.textContent = foodItem.amount;
             tummySpaceTaken += foodItem.servingSize;
             updateCalories(foodItem, multiplierInput);
+            updateTummySizeDisplay();
         });
 
         multiplierInput.addEventListener("input", () => {
@@ -239,7 +243,20 @@ function addFoodToOrder() {
 
         // Update the eatenFood array
         updateCalories(foodItem, multiplierInput);
+
+        updateTummySizeDisplay();
     });
+}
+
+function updateTummySizeDisplay() {
+    const tummySizeElement = document.querySelector("#tummy-size");
+    if (cm !== null && stuffings !== null) {
+        calculateTummySpace(cm, stuffings);
+        const tummySpacePercentage = ((tummySpaceTaken / tummySpace) * 100).toFixed(2);
+        tummySizeElement.textContent = `Tummy Size: ${tummySpace} Grams (${tummySpacePercentage}% Used)`;
+    } else {
+        tummySizeElement.textContent = "Tummy Size: Unknown";
+    }
 }
 
 function updateCalories(foodItem, multiplierInput) {
