@@ -98,6 +98,7 @@ function collectMemberData(selectedPersonalities, selectedKinks) {
     const memberHeight = Number(document.querySelector("#member-height").value);
     const memberFt = document.querySelector("#member-ft").value.trim(); // Keep the value as a string
     const memberAge = document.querySelector("#member-age").value.trim();
+    const memberBirthday = document.querySelector("#member-birthday").value.trim();
     const memberDiet = document.querySelector("#member-diet").value.trim();
     const memberExercise = document.querySelector("#member-exercise").value.trim();
     const memberBodyArtist = document.querySelector("#member-body-artist").value.trim();
@@ -107,26 +108,6 @@ function collectMemberData(selectedPersonalities, selectedKinks) {
     const memberStatus = document.querySelector("#member-status").value.trim();
     const memberHobbies = document.querySelector("#member-hobbies").value.trim().split(",").map(h => h.trim());
     const memberFavoriteFoods = document.querySelector("#member-favorite-foods").value.trim().split(",").map(f => f.trim());
-
-    console.log("Collected input values:", {
-        memberId,
-        memberName,
-        memberWeight,
-        memberHeight,
-        memberFt,
-        memberAge,
-        memberDiet,
-        memberExercise,
-        memberBodyArtist,
-        memberObeseArtist,
-        memberGender,
-        memberGroup,
-        memberStatus,
-        selectedPersonalities,
-        memberHobbies,
-        memberFavoriteFoods,
-        selectedKinks
-    });
 
     if (!memberId || !memberName || isNaN(memberWeight) || isNaN(memberHeight) || !memberFt || !memberAge) {
         alert("Please fill in all required fields (ID, PFP Path, Weight, Height, Ft, Age).");
@@ -144,6 +125,7 @@ function collectMemberData(selectedPersonalities, selectedKinks) {
             body_artist: memberBodyArtist || undefined,
             obese_artist: memberObeseArtist || undefined,
             age: isNaN(Number(memberAge)) ? memberAge : Number(memberAge),
+            birthday: memberBirthday || undefined,
             level: 0,
             stuffings: 0,
             diet: memberDiet || "low",

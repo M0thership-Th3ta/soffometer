@@ -121,6 +121,31 @@
             }
         }
     ],
+    "fire_emblem": [
+        {
+            "id": "Camilla",
+            "pfp": "images/pfp/fire_emblem/camilla.png",
+            "details": {
+                "cm": 175,
+                "ft": "5'9\"",
+                "weight": 56.6,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "30/11",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Taking care of others probably!",
+                "personality": [ "motherly", "flirty" ],
+                "hobbies": [ "Taking care of others", "Cooking", "Baking", "Reading", "Dressing up" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Brownies", "Protein", "Water", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        }
+    ],
     "frutiger_aero": [
         {
             "id": "Toriel",
@@ -128,13 +153,13 @@
             "details": {
                 "cm": 187,
                 "ft": "6'2\"",
-                "weight": 99.7,
+                "weight": 103.5,
                 "body_artist": "cakecatboy",
                 "obese_artist": "plumpknight",
                 "age": "Unknown",
                 "birthday": "23/3",
                 "level": 0,
-                "stuffings": 2,
+                "stuffings": 3,
                 "diet": "medium",
                 "exercise": "none",
                 "gender": "Female",
@@ -438,6 +463,32 @@
             }
         }
     ],
+    "nijisanji": [
+        {
+            "id": "Scarle",
+            "pfp": "images/pfp/nijisanji/scarle.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "19/2",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji EN",
+                "status": "Hey handsome, looking for some fun? I've got scrabble and fat tits.",
+                "personality": [ "flirty", "girlfailure" ],
+                "hobbies": [ "Gaming", "Simping", "Storytelling", "Reading smut" ],
+                "favorite_foods": [ "Burgers", "Fries", "Fast Food", "Pizza", "Fried Chicken", "Korean Barbeque", "Tacos", "Ice Cream", "Cake", "Pie", "Cupcakes", "Chocolate", "Brownies", "Candy", "Energy Drinks", "Soda", "Beer", "Wine", "Liqour", "Spirits" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        }
+    ],
     "nikke": [
         {
             "id": "Anis",
@@ -485,6 +536,56 @@
                 "hobbies": ["Baking", "Eating", "Cooking", "Snacking", "Taste-testing"],
                 "favorite_foods": ["Baked goods", "Sweets", "Snacks", "Bread", "Cake", "Pastries", "Donuts", "Crepes", "Pancakes", "Cookies", "Brownies", "Cupcakes", "Chocolate", "Candy", "Candy Bars", "Soda", "Milkshakes"],
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Hypnotism", "Bimbofication", "Trophee Wife", "Corruption", "Coercion", "Crushing", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers"]
+            }
+        }
+    ],
+    "rwby": [
+        {
+            "id": "Blake",
+            "pfp": "images/pfp/rwby/blake.png",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 52.1,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": 22,
+                "birthday": "19/1/2001",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "RWBY",
+                "status": "Hanging out with Yang",
+                "personality": [ "cool", "fit" ],
+                "hobbies": [ "Reading", "Working out", "Sword training", "Sparring", "Playing chess" ],
+                "favorite_foods": [ "Fish", "Tuna", "Salmon", "Protein", "Ramen", "Fried Fish", "Water", "Milk", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Yang",
+            "pfp": "images/pfp/rwby/yang.png",
+            "details": {
+                "cm": 173,
+                "ft": "5'8\"",
+                "weight": 55.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 24,
+                "birthday": "28/7/2000",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "high",
+                "gender": "Female",
+                "group": "RWBY",
+                "status": "With my gorgeous wife Blakey",
+                "personality": [ "motivated", "fit" ],
+                "hobbies": [ "Sparring", "Fighting", "Boxing", "Working out", "Barbequing" ],
+                "favorite_foods": [ "Protein", "Burgers", "Fried chicken", "Soda", "Water", "Milk" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
         }
     ],
