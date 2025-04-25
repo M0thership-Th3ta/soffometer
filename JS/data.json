@@ -121,6 +121,31 @@
             }
         }
     ],
+    "dragon_maid": [
+        {
+            "id": "Lucoa",
+            "pfp": "images/pfp/dragon_maid/lucoa.png",
+            "details": {
+                "cm": 173,
+                "ft": "5'8\"",
+                "weight": 55.3,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "20/12",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Looking pretty!",
+                "personality": [ "airhead", "flirty" ],
+                "hobbies": [ "Trying on clothes", "Lazing", "Looking pretty" ],
+                "favorite_foods": [ "Pastries", "Snacks", "Cupcakes", "Donuts", "Pie", "Cake", "Cookies", "Chocolates", "Candy", "Brownies", "Milk", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        }
+    ],
     "fire_emblem": [
         {
             "id": "Camilla",
@@ -367,6 +392,30 @@
                 "favorite_foods": [ "Fried Chicken", "Chicken Burgers", "Chicken Wraps", "Salads", "Cake", "Ice Cream", "Pastries", "Water", "Tea" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
+        },
+        {
+            "id": "Elizabeth",
+            "pfp": "images/pfp/hololive/elizabeth.png",
+            "details": {
+                "cm": 171,
+                "ft": "5'7\"",
+                "weight": 54,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "25/4",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "high",
+                "gender": "Female",
+                "group": "HoloJustice",
+                "status": "Protecting the ones I love.",
+                "personality": [ "fit", "motivated" ],
+                "hobbies": [ "Training", "Sparring", "Lifting-Weights", "Singing", "Overseeing" ],
+                "favorite_foods": [ "Protein", "Home-cooked Meals", "Anything Raora makes", "Water", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Sweating", "Gain Multipliers" ]
+            }
         }
     ],
     "indie_vtubers": [
@@ -506,6 +555,32 @@
                 "hobbies": [ "Adventuring", "Singing", "Dancing", "Streaming" ],
                 "favorite_foods": [ "Pastries", "Home-cooked Meals", "Meat", "Cake", "Pie", "Cupcakes", "Water", "Milk", "Beer", "Sake" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        }
+    ],
+    "kipteitei": [
+        {
+            "id": "Tessa",
+            "pfp": "images/pfp/kipteitei/tessa.png",
+            "details": {
+                "cm": 173,
+                "ft": "5'8\"",
+                "weight": 74.7,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 21,
+                "birthday": "26/4/2003",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "One Serving Choice!",
+                "status": "Streaming or snacking, one of the two!",
+                "personality": [ "girlfailure", "airhead" ],
+                "hobbies": [ "Streaming", "Dressing up", "Shopping", "Showing off" ],
+                "favorite_foods": [ "Pastries", "Butter", "Cake", "Pie", "Sushi", "Donuts", "Cupcakes", "Milkshakes", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
         }
     ],
@@ -683,6 +758,31 @@
                 "hobbies": ["Causing chaos", "Stealing stuff", "Adventuring", "Using people for her own gain"],
                 "favorite_foods": ["Snacks", "Pastries", "Meat", "Fruits", "Brownies", "Cake", "Cookies", "Candy", "Chocolate", "Cupcakes", "Water", "Milk", "Smoothies", "Juice"],
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Body worship", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Fast Food Employment", "Vacation Gains", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers"]
+            }
+        }
+    ],
+    "vshojo": [
+        {
+            "id": "Zentreya",
+            "pfp": "images/pfp/vshojo/zentreya.png",
+            "details": {
+                "cm": 177,
+                "ft": "5'10\"",
+                "weight": 57.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": 31,
+                "birthday": "20/5/1993",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "high",
+                "gender": "Female",
+                "status": "Working out or Streaming!",
+                "personality": [ "fit", "cool" ],
+                "hobbies": [ "Working out", "Drumming", "Streaming", "Gaming" ],
+                "favorite_foods": [ "Meat", "Protein", "Barbeque", "Burgers", "Water", "Milk", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Coercion", "Crushing", "Messy", "Sweating", "Gain Multipliers" ]
             }
         }
     ]
