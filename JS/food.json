@@ -97,7 +97,36 @@
       "serving_size": 500
     }
   ],
-    "Snacks": [
+  "Pastries": [
+    {
+      "name": "Croissant - 1 croissant",
+      "calories": 272,
+      "serving_size": 67
+    },
+    {
+      "name": "Shiori's Donuts - 1 donut",
+      "calories": 1153,
+      "serving_size": 158
+    },
+    {
+      "name": "Shiori's Eclairs - 1 eclair",
+      "calories": 1372,
+      "serving_size": 277
+    }
+  ],
+    "Pizza": [
+        {
+        "name": "Cheese Pizza - 1 slice",
+        "calories": 213,
+        "serving_size": 80
+        },
+        {
+        "name": "Pepperoni Pizza - 1 slice",
+        "calories": 313,
+        "serving_size": 111
+        }
+    ],
+  "Snacks": [
       {
         "name": "Butter - 1 stick",
         "calories": 810,
