@@ -8,6 +8,7 @@ let tummySpaceTaken = 0;
 let order = [];
 function init(){
     const orderButton = document.querySelector("#order");
+    document.getElementById("change-modes").addEventListener("click", toggleModes);
 
     loadData("JS/data.json", memberListLoading);
     loadData("JS/food.json", foodLoading);
@@ -103,6 +104,28 @@ function memberListLoading(data){
 
 function calculateTummySpace(cm, stuffings) {
     tummySpace = (((cm / 200) * 4000)) * (1.01 ** stuffings);
+}
+
+function toggleModes() {
+    const selectId = document.getElementById("select-id");
+    const selectMember = document.getElementById("select-member");
+    const nameInput = document.getElementById("name-input");
+    const tummy = document.getElementById("tummy-size");
+    const tagSelect = document.querySelector("#tag-select");
+    const foodSelect = document.querySelector("#food-select");
+    const foodSubmissionButton = document.querySelector("#food-submission");
+
+    const isDisabled = selectId.classList.contains("disabled");
+
+    selectId.classList.toggle("disabled");
+    selectMember.classList.toggle("disabled");
+    nameInput.classList.toggle("disabled");
+    tummy.classList.toggle("disabled");
+
+    // Enable or disable food-related elements based on the current mode
+    tagSelect.disabled = isDisabled;
+    foodSelect.disabled = isDisabled;
+    foodSubmissionButton.disabled = isDisabled;
 }
 
 function foodLoading(data){
@@ -233,8 +256,7 @@ function addFoodToOrder() {
         });
 
         multiplierInput.addEventListener("input", () => {
-            const multiplier = parseInt(multiplierInput.value) || 1;
-            foodItem.multiplier = multiplier;
+            foodItem.multiplier = parseInt(multiplierInput.value) || 1;
             updateCalories(foodItem, multiplierInput);
         });
 
@@ -288,8 +310,11 @@ function createOrder(){
 
     let receiptContent = "Receipt:\n\n";
 
-    // Add selected member's ID to the receipt
-    if (selectedMember && selectedMember.id) {
+    // Check if a name is provided in the input field
+    const nameInput = document.querySelector("#input-name").value.trim();
+    if (nameInput) {
+        receiptContent += `Name: ${nameInput}\n\n`;
+    } else if (selectedMember && selectedMember.id) {
         receiptContent += `Member: ${selectedMember.id}\n\n`;
     } else {
         receiptContent += "Member: Unknown\n\n";
@@ -304,9 +329,11 @@ function createOrder(){
     const totalCalories = eatenFood.reduce((sum, item) => sum + item.calories, 0);
     receiptContent += `\nTotal Calories: ${totalCalories}`;
 
-    // Calculate the percentage of tummy space used
-    const tummySpacePercentage = ((tummySpaceTaken / tummySpace) * 100).toFixed(2);
-    receiptContent += `\nTummy Space Used: ${tummySpacePercentage}%`;
+    // Add tummy space used only if no name is provided
+    if (!nameInput) {
+        const tummySpacePercentage = ((tummySpaceTaken / tummySpace) * 100).toFixed(2);
+        receiptContent += `\nTummy Space Used: ${tummySpacePercentage}%`;
+    }
 
     // Create and download the receipt
     const blob = new Blob([receiptContent], { type: "text/plain" });

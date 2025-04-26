@@ -334,6 +334,10 @@ div .user-info-subsection {
     margin-left: 5px;
 }
 
+#change-modes:hover {
+    color: var(--color-accent);
+}
+
 .checkbox-wrapper {
     display: flex;
     align-items: center;

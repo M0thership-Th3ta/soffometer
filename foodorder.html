@@ -21,17 +21,24 @@
 </header>
 <main>
     <div class="character-selection">
-        <div>
+        <div id="select-id">
             <label for="id-select">Select ID:</label>
             <select id="id-select">
                 <option value="">--Select an ID--</option>
             </select>
         </div>
-        <div>
+        <div id="select-member">
             <label for="member-select">Select Member:</label>
             <select id="member-select" disabled>
                 <option value="">--Select a Member--</option>
             </select>
+        </div>
+        <div id="name-input" class="disabled">
+            <label for="input-name">Fill in a name to order for:</label>
+            <input type="text" id="input-name">
+        </div>
+        <div>
+            <p id="change-modes">Click here to change modes</p>
         </div>
     </div>
     <div class="food-selection">
