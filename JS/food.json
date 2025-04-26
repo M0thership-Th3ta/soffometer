@@ -1,9 +1,19 @@
 {
   "Burgers": [
     {
+      "name": "Big Slut Burger - 1 burger",
+      "calories": 1227,
+      "serving_size": 490
+    },
+    {
       "name": "Calliburger - 1 burger",
       "calories": 1400,
         "serving_size": 188
+    },
+    {
+      "name": "Vegan Burger - 1 burger",
+      "calories": 298,
+      "serving_size": 170
     }
   ],
   "Cakes": [
@@ -64,6 +74,21 @@
       "name": "Chicken Burrito - 1 burrito",
       "calories": 1862,
       "serving_size": 1122
+    },
+    {
+      "name": "Fries - 1 medium portion",
+      "calories": 365,
+      "serving_size": 117
+    },
+    {
+      "name": "Fries - 1 large portion",
+      "calories": 480,
+      "serving_size": 154
+    },
+    {
+      "name": "Fries (with Cheese) - 1 large portion",
+      "calories": 843,
+      "serving_size": 198
     },
     {
       "name": "Poutine - 1 order",
