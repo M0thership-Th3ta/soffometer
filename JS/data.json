@@ -558,6 +558,31 @@
             }
         }
     ],
+    "instant_girl": [
+        {
+            "id": "Iggy",
+            "pfp": "images/pfp/instant_girl/iggy.png",
+            "details": {
+                "cm": 170,
+                "ft": "5'7\"",
+                "weight": 72.2,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": 21,
+                "birthday": "6/6/1999",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Lazing or chilling with Saphy!!!!!",
+                "personality": [ "airhead", "hungry" ],
+                "hobbies": [ "Snacking", "Lazing", "Trying new things", "Learning" ],
+                "favorite_foods": [ "Pastries", "Snacks", "Cookies", "Candy", "Cake", "Chocolates", "Pie", "Donuts", "Brownies", "Cupcakes", "Soda", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        }
+    ],
     "kipteitei": [
         {
             "id": "Tessa",
@@ -716,13 +741,13 @@
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
-                "weight": 55.3,
+                "weight": 56.7,
                 "body_artist": "kipteitei",
                 "obese_artist": "betterwithsalt",
                 "age": 24,
                 "birthday": "28/7/2000",
                 "level": 0,
-                "stuffings": 0,
+                "stuffings": 1,
                 "diet": "high",
                 "exercise": "high",
                 "gender": "Female",
