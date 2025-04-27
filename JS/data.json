@@ -1,6 +1,30 @@
 {
     "azur_lane": [
         {
+            "id": "Bremerton",
+            "pfp": "images/pfp/azur_lane/bremerton.png",
+            "details": {
+                "cm": 173,
+                "ft": "5'8\"",
+                "weight": 69.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 80,
+                "birthday": "2/7/1944",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Eagle Union",
+                "status": "Resting and Listening to your problems!",
+                "personality": [ "airhead", "motherly" ],
+                "hobbies": [ "Helping people out", "Counceling", "Shopping", "Tennis" ],
+                "favorite_foods": [ "Burgers", "Pizza", "Barbeque", "Fries", "Cake", "Pie", "Waffles", "Chocolate", "Soda", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Ägir",
             "pfp": "images/pfp/azur_lane/aegir.png",
             "details": {
@@ -250,6 +274,30 @@
     ],
     "hololive": [
         {
+            "id": "Roboco",
+            "pfp": "images/pfp/hololive/roboco.png",
+            "details": {
+                "cm": 154,
+                "ft": "5'1\"",
+                "weight": 43.9,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": 24,
+                "birthday": "23/5/2000",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive JP Gen 0",
+                "status": "Recharging and relaxing!",
+                "personality": ["motivated, retro"],
+                "hobbies": ["Singing", "Gaming", "Dressing up", "Mechanics", "Relaxing", "Streaming"],
+                "favorite_foods": ["Burgers", "Pizza", "Fried Chicken", "Sushi", "Snacks", "Candy", "Cookies", "Ice Cream", "Brownies", "Cupcakes", "Chocolate", "Candy Bars", "Soda", "Milkshakes"],
+                "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers"]
+            }
+        },
+        {
             "id": "Suisei",
             "pfp": "images/pfp/hololive/suisei.png",
             "details": {
@@ -274,27 +322,27 @@
             }
         },
         {
-            "id": "Roboco",
-            "pfp": "images/pfp/hololive/roboco.png",
+            "id": "AkiRose",
+            "pfp": "images/pfp/hololive/akirose.png",
             "details": {
-                "cm": 154,
-                "ft": "5'1\"",
-                "weight": 43.9,
-                "body_artist": "cakecatboy",
-                "obese_artist": "betterwithsalt",
-                "age": 24,
-                "birthday": "23/5/2000",
+                "cm": 162,
+                "ft": "5'4\"",
+                "weight": 48.6,
+                "body_artist": "kipteitei",
+                "obese_artist": "plumpknight",
+                "age": 224,
+                "birthday": "17/2/1801",
                 "level": 0,
                 "stuffings": 0,
-                "diet": "low",
-                "exercise": "none",
+                "diet": "medium",
+                "exercise": "low",
                 "gender": "Female",
-                "group": "Hololive JP Gen 0",
-                "status": "Recharging and relaxing!",
-                "personality": ["motivated, retro"],
-                "hobbies": ["Singing", "Gaming", "Dressing up", "Mechanics", "Relaxing", "Streaming"],
-                "favorite_foods": ["Burgers", "Pizza", "Fried Chicken", "Sushi", "Snacks", "Candy", "Cookies", "Ice Cream", "Brownies", "Cupcakes", "Chocolate", "Candy Bars", "Soda", "Milkshakes"],
-                "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers"]
+                "group": "Hololive JP Gen 1",
+                "status": "Probably working on dance routines!",
+                "personality": ["flirty", "motherly"],
+                "hobbies": ["Singing", "Dancing", "Cooking", "Belly dancing", "Relaxing", "Streaming", "Reading", "Streaming"],
+                "favorite_foods": ["Ramen", "Sushi", "Sashimi", "Snacks", "Burgers", "Crepes", "Pastries", "Sweets", "Candy", "Cookies", "Ice Cream", "Parfait", "Chocolate", "Smoothies", "Sake", "Beer", "Wine", "Cocktails", "Spirits"],
+                "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers"]
             }
         },
         {
@@ -322,27 +370,27 @@
             }
         },
         {
-            "id": "AkiRose",
-            "pfp": "images/pfp/hololive/akirose.png",
+            "id": "Reine",
+            "pfp": "images/pfp/hololive/reine.png",
             "details": {
-                "cm": 162,
-                "ft": "5'4\"",
-                "weight": 48.6,
-                "body_artist": "kipteitei",
-                "obese_artist": "plumpknight",
-                "age": 224,
-                "birthday": "17/2/1801",
+                "cm": 172,
+                "ft": "5'8\"",
+                "weight": 54.6,
+                "body_artist": "cakecatboy",
+                "obese_artist": "davielwithfries",
+                "age": 31,
+                "birthday": "9/9",
                 "level": 0,
                 "stuffings": 0,
-                "diet": "medium",
-                "exercise": "low",
+                "diet": "high",
+                "exercise": "none",
                 "gender": "Female",
-                "group": "Hololive JP Gen 1",
-                "status": "Probably working on dance routines!",
-                "personality": ["flirty", "motherly"],
-                "hobbies": ["Singing", "Dancing", "Cooking", "Belly dancing", "Relaxing", "Streaming", "Reading", "Streaming"],
-                "favorite_foods": ["Ramen", "Sushi", "Sashimi", "Snacks", "Burgers", "Crepes", "Pastries", "Sweets", "Candy", "Cookies", "Ice Cream", "Parfait", "Chocolate", "Smoothies", "Sake", "Beer", "Wine", "Cocktails", "Spirits"],
-                "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers"]
+                "group": "Hololive ID Gen 2",
+                "status": "Pamper me or get out~",
+                "personality": [ "flirty", "girlfailure" ],
+                "hobbies": [ "Lounging", "Snacking", "Reading", "Gaming", "Streaming" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Donuts", "Brownies", "Chocolate", "Cupcakes", "Pancakes", "Waffles", "Parfaits", "Milkshakes", "Soda", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
         },
         {
