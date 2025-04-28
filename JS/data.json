@@ -468,6 +468,29 @@
     ],
     "indie_vtubers": [
         {
+            "id": "Bao",
+            "pfp": "images/pfp/indie_vtubers/bao.png",
+            "details": {
+                "cm": 152,
+                "ft": "5'0\"",
+                "weight": 42.8,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": 4500000000,
+                "birthday": "9/11",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Hugging my close ones tight",
+                "personality": [ "flirty", "girlfailure" ],
+                "hobbies": [ "Simping", "Singing", "Streaming", "Thirsting" ],
+                "favorite_foods": [ "Burgers", "Pizza", "Ramen", "Fast Food", "Pastries", "Pancakes", "Cupcakes", "Cake", "Pie", "Soda", "Milkshakes", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Canaria",
             "pfp": "images/pfp/indie_vtubers/canaria.png",
             "details": {
@@ -511,6 +534,29 @@
                 "hobbies": [ "Working Out", "Taking care of", "Planning", "Organizing", "Management plants", "" ],
                 "favorite_foods": [ "Protein", "Vegetables", "Water" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Lusealfer",
+            "pfp": "images/pfp/indie_vtubers/lusealfer.png",
+            "details": {
+                "cm": 152,
+                "ft": "5'0\"",
+                "weight": 42.8,
+                "body_artist": "cakecatboy",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "28/4",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Lounging or Reading",
+                "personality": [ "motherly" ],
+                "hobbies": [ "Reading", "ASMR", "Taking care of animals" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Pancakes", "Water", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Messy", "Sweating", "Gain Multipliers" ]
             }
         },
         {
@@ -580,6 +626,29 @@
                 "hobbies": [ "Streaming", "Lounging", "Bounty hunting", "Assassinating", "Watching porn" ],
                 "favorite_foods": [ "Snacks", "Candy", "Pastries", "Crepes", "Pain au Chocolat", "Cake", "Brownies", "Coffee", "Water", "Milk", "Wine" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Body worship", "Sex", "Belly Fucking", "Immobility", "Cosplay", "Bimbofication", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Sinder",
+            "pfp": "images/pfp/indie_vtubers/sinder.png",
+            "details": {
+                "cm": 166,
+                "ft": "5'5\"",
+                "weight": 50.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": 21,
+                "birthday": "14/9/2000",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Dealing with Trauma",
+                "personality": [ "motivated", "flirty" ],
+                "hobbies": [ "Streaming", "Singing", "Gaming", "Cuddling" ],
+                "favorite_foods": [ "Burgers", "Pizza", "Fast Food", "Cake", "Cupcakes", "Chocolate", "Brownies", "Water", "Milkshakes", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
         },
         {
