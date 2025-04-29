@@ -197,6 +197,30 @@
     ],
     "frutiger_aero": [
         {
+            "id": "Kitty",
+            "pfp": "images/pfp/frutiger_aero/kitty",
+            "details": {
+                "cm": 173,
+                "ft": "5'8\"",
+                "weight": 55.3,
+                "body_artist": "cakecatboy",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "29/4",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "TUFF Puppy",
+                "status": "Feline Espionage Action",
+                "personality": [ "motivated", "sarcastic" ],
+                "hobbies": [ "Espionage", "Reading", "Motorcycling", "Saving the world" ],
+                "favorite_foods": [ "Fish", "Sushi", "Pastries", "Cake", "Cupcakes", "Milk", "Water", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Toriel",
             "pfp": "images/pfp/frutiger_aero/toriel.png",
             "details": {
@@ -442,6 +466,54 @@
             }
         },
         {
+            "id": "Gura",
+            "pfp": "images/pfp/hololive/gura.png",
+            "details": {
+                "cm": 141,
+                "ft": "4'8\"",
+                "weight": 36.7,
+                "body_artist": "orristerioso",
+                "obese_artist": "plumpknight",
+                "age": 9000,
+                "birthday": "20/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Holomyth",
+                "status": "Preparing for my graduation",
+                "personality": [ "airhead" ],
+                "hobbies": [ "Singing", "Chilling", "Gaming" ],
+                "favorite_foods": [ "Pizza", "Fast Food", "Cake", "Pie", "Pastries", "Cookies", "Chocolate", "Water", "Energy Drinks", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Shiori",
+            "pfp": "images/pfp/hololive/shiori.png",
+            "details": {
+                "cm": 163,
+                "ft": "5'4\"",
+                "weight": 49.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "2/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "HoloAdvent",
+                "status": "Reading or Archiving or Yapping (or bothering Nerissa)",
+                "personality": [ "psychotic" ],
+                "hobbies": [ "Reading", "Archiving", "Yapping", "Shipping", "Fanfiction Writing" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Brownies", "Cookies", "Chocolate", "Candy", "Tea", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Elizabeth",
             "pfp": "images/pfp/hololive/elizabeth.png",
             "details": {
@@ -514,6 +586,29 @@
             }
         },
         {
+            "id": "Gaz",
+            "pfp": "images/pfp/indie_vtubers/gaz.png",
+            "details": {
+                "cm": 366,
+                "ft": "12'0\"",
+                "weight": 334.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "2/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Destroying cities and kicking ass!",
+                "personality": [ "motherly", "sarcastic" ],
+                "hobbies": [ "Teasing", "Destroying houses", "Crushing" ],
+                "favorite_foods": [ "Fast Food", "Burgers", "Meat", "Pizza", "Soda", "Milkshakes", "You" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Kira",
             "pfp": "images/pfp/indie_vtubers/kira.png",
             "details": {
@@ -557,6 +652,29 @@
                 "hobbies": [ "Reading", "ASMR", "Taking care of animals" ],
                 "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Pancakes", "Water", "Milkshakes" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Matara",
+            "pfp": "images/pfp/indie_vtubers/matara.png",
+            "details": {
+                "cm": 181,
+                "ft": "5'11\"",
+                "weight": 60.5,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "4/2",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Preparing to go indie!",
+                "personality": [ "motherly", "flirty" ],
+                "hobbies": [ "Drinking with friends", "Movie acting", "Streaming", "Taking care of people." ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cookies", "Chocolate", "Wine", "Liqour", "Vodka", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
         },
         {
@@ -629,6 +747,52 @@
             }
         },
         {
+            "id": "Silvervale",
+            "pfp": "images/pfp/indie_vtubers/silvervale.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 23,
+                "birthday": "12/8/1995",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Taking care of the Sakura blossoms",
+                "personality": [ "motherly", "flirty" ],
+                "hobbies": [ "Lounging", "Comfy Gaming", "Taking care of trees and plants", "Botany", "Reading" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Donuts", "Cupcakes", "Brownies", "Pancakes", "Crepes", "Cookies", "Chocolates", "Tea", "Milk", "Juice" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Shylily",
+            "pfp": "images/pfp/indie_vtubers/shylily.png",
+            "details": {
+                "cm": 156,
+                "ft": "5'1\"",
+                "weight": 44.9,
+                "body_artist": "orristerioso",
+                "obese_artist": "betterwithsalt",
+                "age": 28,
+                "birthday": "5/8/1996",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Womp Womp!!!!!",
+                "personality": [ "airhead", "flirty" ],
+                "hobbies": [ "Womping", "Hanging out", "Dancing", "Streaming" ],
+                "favorite_foods": [ "Burgers", "Pizza", "Cake", "Pie", "Cupcakes", "Donuts", "Chocolate", "Candy", "Cookies", "Soda", "Energy Drinks", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Sinder",
             "pfp": "images/pfp/indie_vtubers/sinder.png",
             "details": {
@@ -649,6 +813,29 @@
                 "hobbies": [ "Streaming", "Singing", "Gaming", "Cuddling" ],
                 "favorite_foods": [ "Burgers", "Pizza", "Fast Food", "Cake", "Cupcakes", "Chocolate", "Brownies", "Water", "Milkshakes", "Soda", "Energy Drinks" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Spite",
+            "pfp": "images/pfp/indie_vtubers/spite.png",
+            "details": {
+                "cm": 274,
+                "ft": "9'0\"",
+                "weight": 139,
+                "body_artist": "kipteitei",
+                "obese_artist": "plumpknight",
+                "age": "Unknown",
+                "birthday": "30/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "high",
+                "gender": "Female",
+                "status": "Rocking out or Working out",
+                "personality": [ "cool", "fit" ],
+                "hobbies": [ "Working out", "Rocking out", "Gaming", "Streaming" ],
+                "favorite_foods": [ "Burgers", "Protein", "Pizza", "Water", "Juice" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Messy", "Sweating", "Gain Multipliers" ]
             }
         },
         {
