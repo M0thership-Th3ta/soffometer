@@ -303,7 +303,7 @@
             "details": {
                 "cm": 154,
                 "ft": "5'1\"",
-                "weight": 43.9,
+                "weight": 43.8,
                 "body_artist": "cakecatboy",
                 "obese_artist": "betterwithsalt",
                 "age": 24,
@@ -327,7 +327,7 @@
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
-                "weight": 47.4,
+                "weight": 47.3,
                 "body_artist": "orristerioso",
                 "obese_artist": "davielwithfries",
                 "age": 23,
@@ -375,7 +375,7 @@
             "details": {
                 "cm": 154,
                 "ft": "5'1\"",
-                "weight": 43.9,
+                "weight": 43.8,
                 "body_artist": "orristerioso",
                 "obese_artist": "davielwithfries",
                 "age": "Unknown",
@@ -545,7 +545,7 @@
             "details": {
                 "cm": 152,
                 "ft": "5'0\"",
-                "weight": 42.8,
+                "weight": 42.9,
                 "body_artist": "cakecatboy",
                 "obese_artist": "betterwithsalt",
                 "age": 4500000000,
@@ -583,6 +583,29 @@
                 "hobbies": [ "Dressing up", "Cosplay", "Making outfits", "Snacking" ],
                 "favorite_foods": [ "Pastries", "Snacks", "Crepes", "Pain au Chocolat", "Cake", "Cupcakes", "Soda", "Milkshakes", "Liquor", "Spirits" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "DyaRikku",
+            "pfp": "images/pfp/indie_vtubers/dyarikku.png",
+            "details": {
+                "cm": 167,
+                "ft": "5'6\"",
+                "weight": 51.5,
+                "body_artist": "cakecatboy",
+                "obese_artist": "plumpknight",
+                "age": "Unknown",
+                "birthday": "4/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Either drawing or spreading chaos!",
+                "personality": [ "sarcastic" ],
+                "hobbies": [ "Drawing", "Creating", "Looking at art", "Spreading chaos", "playing chaotic games", "Pulling pranks" ],
+                "favorite_foods": [ "Pasta", "Pizza", "Ramen", "Mochi", "Pastries", "Cake", "Pie", "Cupcakes", "Coffee", "Water", "Soda", "Milk", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
         },
         {
@@ -629,6 +652,29 @@
                 "hobbies": [ "Working Out", "Taking care of", "Planning", "Organizing", "Management plants", "" ],
                 "favorite_foods": [ "Protein", "Vegetables", "Water" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Leah",
+            "pfp": "images/pfp/indie_vtubers/leah.png",
+            "details": {
+                "cm": 153,
+                "ft": "5'0\"",
+                "weight": 43.2,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": 21,
+                "birthday": "4/5/2004",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Non-Binary",
+                "status": "Speaking out for what I care for",
+                "personality": [ "motivated", "motherly" ],
+                "hobbies": [ "Being a spokesperson", "Holding a deep conversation", "Making friends", "Taking care of people." ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Cookies", "Chocolate", "Brownies", "Tea", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
         },
         {
@@ -706,7 +752,7 @@
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
-                "weight": 47.4,
+                "weight": 47.3,
                 "body_artist": "orristerioso",
                 "obese_artist": "davielwithfries",
                 "age": 24,
@@ -980,8 +1026,8 @@
                 "stuffings": 0,
                 "diet": "high",
                 "exercise": "none",
-                "gender": "Female",
-                "group": "",
+                "gender": "Genderless",
+                "group": "Tetra Line",
                 "status": "Available, just bring snacks.",
                 "personality": ["sarcastic", "hungry"],
                 "hobbies": ["Dressing up", "Snacking", "Lounging around", "Relaxing", "Shopping", "Chilling", "Drinking", "Sunbathing"],
@@ -1004,13 +1050,37 @@
                 "stuffings": 1,
                 "diet": "high",
                 "exercise": "none",
-                "gender": "Female",
-                "group": "",
+                "gender": "Genderless",
+                "group": "Cooking Oil - Tetra Line",
                 "status": "Available but probably baking something.",
                 "personality": ["hungry"],
                 "hobbies": ["Baking", "Eating", "Cooking", "Snacking", "Taste-testing"],
                 "favorite_foods": ["Baked goods", "Sweets", "Snacks", "Bread", "Cake", "Pastries", "Donuts", "Crepes", "Pancakes", "Cookies", "Brownies", "Cupcakes", "Chocolate", "Candy", "Candy Bars", "Soda", "Milkshakes"],
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Hypnotism", "Bimbofication", "Trophee Wife", "Corruption", "Coercion", "Crushing", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers"]
+            }
+        },
+        {
+            "id": "Viper",
+            "pfp": "images/pfp/nikke/viper.png",
+            "details": {
+                "cm": 170,
+                "ft": "5'7\"",
+                "weight": 53.4,
+                "body_artist": "cakecatboy",
+                "obese_artist": "plumpknight",
+                "age": 500,
+                "birthday": "9/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Exotic - Missilis Industry",
+                "status": "Manipulating you into checking this page~",
+                "personality": [ "psychotic", "flirty" ],
+                "hobbies": [ "Gaslighting", "Gatekeeping", "Girlbossing", "taking care of her snakes." ],
+                "favorite_foods": [ "Burgers", "Fries", "Cake", "Pastries", "Cupcakes", "Donuts", "Brownies", "Chocolates", "Candy", "Soda", "Iced Coffee", "Energy Drinks." ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
         }
     ],
