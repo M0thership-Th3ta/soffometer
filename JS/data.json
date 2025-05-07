@@ -167,6 +167,30 @@
                 "favorite_foods": [ "Pastries", "Chocolates", "Crepes", "Parfaits", "Sake", "Wine", "Water" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
+        },
+        {
+            "id": "Mary Celeste",
+            "pfp": "images/pfp/azur_lane/mary_celeste.png",
+            "details": {
+                "cm": 157,
+                "ft": "5'2\"",
+                "weight": 45.5,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": 100,
+                "birthday": "16/5/1862",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Tempesta",
+                "status": "Probably out ghost hunting!",
+                "personality": [ "motivated", "airhead" ],
+                "hobbies": [ "Looking at girls", "Giving headpats", "Hunting ghosts", "Being a ghost (she is a ghost)" ],
+                "favorite_foods": [ "Fruit", "Cake", "Pie", "Chocolates", "Barbeque", "Water", "Milkshakes", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
         }
     ],
     "dragon_maid": [
@@ -700,6 +724,29 @@
                 "hobbies": [ "Teasing", "Destroying houses", "Crushing" ],
                 "favorite_foods": [ "Fast Food", "Burgers", "Meat", "Pizza", "Soda", "Milkshakes", "You" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
+            "id": "Grimmi",
+            "pfp": "images/pfp/indie_vtubers/grimmi.png",
+            "details": {
+                "cm": 157,
+                "ft": "5'2\"",
+                "weight": 45.5,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": 107,
+                "birthday": "17/5/1917",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Staying indoors.",
+                "personality": [ "retro", "sarcastic" ],
+                "hobbies": [ "Gaming", "Reading", "Listening to Music", "Looking at Cats", "Petting Cats", "Playing with Cats" ],
+                "favorite_foods": [ "Snacks", "Candy", "Ramen", "Cherries", "Nectarines", "Take-Out", "Doordash", "Pizza", "Energy Drinks", "Soda", "Coffee" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Immobility", "Hypnotism", "Corruption", "Coercion", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
         },
         {
