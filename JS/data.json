@@ -49,6 +49,30 @@
             }
         },
         {
+            "id": "Yorck",
+            "pfp": "images/pfp/azur_lane/yorck.png",
+            "details": {
+                "cm": 150,
+                "ft": "4'11\"",
+                "weight": 41.6,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": 99,
+                "birthday": "14/5/1904",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Iron Blood",
+                "status": "I forgot what I was doing, but at least I look good doing it!",
+                "personality": [ "airhead", "flirty" ],
+                "hobbies": [ "Dressing up", "Trying out new kinky things", "Dominating", "Expressing herself" ],
+                "favorite_foods": [ "Cookies", "Candy", "Cake", "Pie", "Cupcakes", "Chocolates", "Strawberries", "Raspberries", "Wine", "Liqour", "Spirits", "Beer" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Ark Royal",
             "pfp": "images/pfp/azur_lane/ark_royal.png",
             "details": {
@@ -564,6 +588,29 @@
     ],
     "indie_vtubers": [
         {
+            "id": "Ayumi",
+            "pfp": "images/pfp/indie_vtubers/ayumi.png",
+            "details": {
+                "cm": 170,
+                "ft": "5'7\"",
+                "weight": 53.4,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "13/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Please take care of yourself!",
+                "personality": [ "motherly", "motivated" ],
+                "hobbies": [ "Doting on people", "Taking care of people", "Long naps", "Gaming", "Fighting Games" ],
+                "favorite_foods": [ "Snacks", "Candy", "Donuts", "Cupcakes", "Brownies", "Chocolates", "Cookies", "Waffles", "Pancakes", "Soda", "Milkshakes", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Bao",
             "pfp": "images/pfp/indie_vtubers/bao.png",
             "details": {
@@ -794,6 +841,29 @@
             }
         },
         {
+            "id": "MochiiMochii",
+            "pfp": "images/pfp/indie_vtubers/mochiimochii.png",
+            "details": {
+                "cm": 156,
+                "ft": "5'1\"",
+                "weight": 44.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "14/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Dancing through life!",
+                "personality": [ "airhead" ],
+                "hobbies": [ "Dancing", "Dressing up", "Gaming!" ],
+                "favorite_foods": [ "Mochi", "Strawberries", "Ice Cream", "Donuts", "Pie", "Cake", "Pancakes", "Candy", "Chocolates", "Milkshakes", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Saruei",
             "pfp": "images/pfp/indie_vtubers/saruei.png",
             "details": {
@@ -982,6 +1052,30 @@
     ],
     "kipteitei": [
         {
+            "id": "Grace",
+            "pfp": "images/pfp/kipteitei/grace.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 63.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "14/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "With Sister",
+                "status": "Either working or looking after my figure.",
+                "personality": [ "motivated", "hungry" ],
+                "hobbies": [ "Management", "Looking good", "Snacking" ],
+                "favorite_foods": [ "Fast Food", "Big Meals", "Lobster", "Burgers", "Fries", "Barbeque", "Steak", "Cake", "Pie", "Donuts", "Brownies", "Cupcakes", "Cookies", "Candy", "Chocolates", "Pizza", "Pasta", "Soda", "Milkshakes", "Coffee" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Gain Multipliers" ]
+            }
+        },
+        {
             "id": "Tessa",
             "pfp": "images/pfp/kipteitei/tessa.png",
             "details": {
@@ -1104,6 +1198,30 @@
                 "hobbies": ["Baking", "Eating", "Cooking", "Snacking", "Taste-testing"],
                 "favorite_foods": ["Baked goods", "Sweets", "Snacks", "Bread", "Cake", "Pastries", "Donuts", "Crepes", "Pancakes", "Cookies", "Brownies", "Cupcakes", "Chocolate", "Candy", "Candy Bars", "Soda", "Milkshakes"],
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Hypnotism", "Bimbofication", "Trophee Wife", "Corruption", "Coercion", "Crushing", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers"]
+            }
+        },
+        {
+            "id": "Rupee",
+            "pfp": "images/pfp/nikke/rupee.png",
+            "details": {
+                "cm": 177,
+                "ft": "5'10\"",
+                "weight": 57.9,
+                "body_artist": "cakecatboy",
+                "obese_artist": "davielwithfries",
+                "age": 500,
+                "birthday": "14/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Talentum - Tetra Line",
+                "status": "Shopping! Shopping! Shop- oh I think I maxxed out your credit card, oopsie!",
+                "personality": [ "airhead", "motivated" ],
+                "hobbies": [ "Shopping", "Dressing up", "Hanging out in malls", "Hair styling" ],
+                "favorite_foods": [ "Pastries", "Donuts", "Cake", "Pie", "Brownies", "Cupcakes", "Eclairs", "Chocolates", "Candy", "Sweets", "Soda", "Milkshakes", "Iced Coffee", "Tea", "Boba" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ]
             }
         },
         {
