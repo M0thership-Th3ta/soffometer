@@ -24,6 +24,7 @@ function init(){
     memberMenu.addEventListener("click", memberSelected)
 
     loadData("JS/data.json", createFavoriteCards)
+    populateUpcomingBirthdays()
 }
 
 function openMenu(){
@@ -171,4 +172,55 @@ function createFavoriteCards(data){
             favoriteMenu.append(memberLink)
         }
     }
+}
+
+function populateUpcomingBirthdays() {
+    const birthdayList = document.querySelector("#birthday-list");
+    birthdayList.innerHTML = ""; // Clear the list
+
+    const today = new Date();
+    const currentYear = today.getFullYear();
+
+    loadData("JS/data.json", (data) => {
+        const upcomingBirthdays = [];
+
+        // Iterate through all groups and members
+        Object.values(data).forEach(group => {
+            group.forEach(member => {
+                if (member.details && member.details.birthday) {
+                    const [day, month] = member.details.birthday.split("/").map(Number);
+
+                    // Create a birthday date for this year
+                    const birthdayThisYear = new Date(currentYear, month - 1, day);
+
+                    // If the birthday has already passed this year, use next year's date
+                    const birthday = birthdayThisYear < today
+                        ? new Date(currentYear + 1, month - 1, day)
+                        : birthdayThisYear;
+
+                    // Calculate the difference in days
+                    const diffInDays = Math.ceil((birthday - today) / (1000 * 60 * 60 * 24));
+
+                    // Check if the birthday is within the next 7 days
+                    if (diffInDays >= 0 && diffInDays <= 7) {
+                        upcomingBirthdays.push({ name: member.id, birthday: birthday.toDateString(), diffInDays });
+                    }
+                }
+            });
+        });
+
+        // Sort birthdays by the closest date
+        upcomingBirthdays.sort((a, b) => a.diffInDays - b.diffInDays);
+
+        // Populate the #birthday-list
+        if (upcomingBirthdays.length > 0) {
+            upcomingBirthdays.forEach(({ name, birthday }) => {
+                const listItem = document.createElement("p");
+                listItem.textContent = `${name} - ${birthday}`;
+                birthdayList.appendChild(listItem);
+            });
+        } else {
+            birthdayList.textContent = "No upcoming birthdays in the next 7 days.";
+        }
+    });
 }
