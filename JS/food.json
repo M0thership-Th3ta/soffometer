@@ -69,6 +69,11 @@
       "serving_size": 680
     },
     {
+      "name": "Red Wine - 1 wine glass",
+      "calories": 125,
+      "serving_size": 147
+    },
+    {
       "name": "Water - 1 glass",
       "calories": 0,
       "serving_size": 200
@@ -125,6 +130,18 @@
       "name": "Monster Energy Drink 'Ultra Strawberry Dreams' - 1 can",
       "calories": 12,
       "serving_size": 500
+    }
+  ],
+  "Pasta": [
+    {
+      "name": "Lasagna - 1 serving",
+      "calories": 344,
+      "serving_size": 255
+    },
+    {
+      "name": "Lasagna - 1 tray",
+      "calories": 2300,
+      "serving_size": 1704
     }
   ],
   "Pastries": [
