@@ -49,6 +49,11 @@
   ],
   "Drinks": [
     {
+      "name": "Beer - 1 can",
+      "calories": 155,
+      "serving_size": 355
+    },
+    {
       "name": "Coca Cola - 1 can",
       "calories": 155,
       "serving_size": 355
