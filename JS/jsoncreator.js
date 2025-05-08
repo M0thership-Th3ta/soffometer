@@ -136,7 +136,8 @@ function collectMemberData(selectedPersonalities, selectedKinks) {
             personality: selectedPersonalities || [],
             hobbies: memberHobbies || [],
             favorite_foods: memberFavoriteFoods || [],
-            kinks: selectedKinks || []
+            kinks: selectedKinks || [],
+            pregnant: false
         }
     };
 
