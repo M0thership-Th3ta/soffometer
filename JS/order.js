@@ -275,7 +275,7 @@ function updateTummySizeDisplay() {
     if (cm !== null && stuffings !== null) {
         calculateTummySpace(cm, stuffings);
         const tummySpacePercentage = ((tummySpaceTaken / tummySpace) * 100).toFixed(2);
-        tummySizeElement.textContent = `Tummy Size: ${tummySpace} Grams (${tummySpacePercentage}% Used)`;
+        tummySizeElement.textContent = `Tummy Size: ${tummySpace.toFixed(0)} Grams (${tummySpacePercentage}% Used)`;
     } else {
         tummySizeElement.textContent = "Tummy Size: Unknown";
     }
