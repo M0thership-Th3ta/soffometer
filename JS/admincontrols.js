@@ -78,6 +78,10 @@ function memberListLoading(data){
             selectedMember = data[selectedId].find(member => member.id === selectedMemberId);
             console.log("Selected Member:", selectedMember);
 
+            if (selectedMember) {
+                calculateDaysToBirthday(selectedMember);
+            }
+
             if (selectedMember && selectedMember.details) {
                 weight = selectedMember.details.weight || null;
                 cm = selectedMember.details.cm || null;
@@ -106,6 +110,62 @@ function memberListLoading(data){
             weight = null;
             cm = null;
             age = 50; // Default to 50 if no member is selected
+        }
+    });
+}
+
+function calculateDaysToBirthday(member) {
+    if (!member || !member.details || !member.details.birthday) {
+        console.error("Invalid member or birthday not available.");
+        return null;
+    }
+
+    const birthdayParts = member.details.birthday.split("/");
+    const day = parseInt(birthdayParts[0], 10);
+    const month = parseInt(birthdayParts[1], 10);
+
+    // Calculate the days from January 1st
+    const birthdayDate = new Date(0, month - 1, day); // Year is irrelevant
+    const janFirst = new Date(0, 0, 1);
+    const diffInDays = Math.ceil((birthdayDate - janFirst) / (1000 * 60 * 60 * 24));
+
+    // Calculate the total days from January 1st to today
+    const today = new Date();
+    const daysFromJanFirstToToday = Math.ceil((today - new Date(today.getFullYear(), 0, 1)) / (1000 * 60 * 60 * 24));
+
+    // Update cycle position to include both diffInDays and daysFromJanFirstToToday
+    const cycleLength = 32;
+    const cyclePosition = (diffInDays + daysFromJanFirstToToday) % cycleLength;
+
+    console.log("Days from January 1st to Birthday:", diffInDays);
+    console.log("Days from January 1st to Today:", daysFromJanFirstToToday);
+    console.log("Updated Cycle Position:", cyclePosition);
+
+    const getPregnantButton = document.querySelector("#get-pregnant");
+    const isPregnantElement = document.querySelector("#is-pregnant");
+
+    getPregnantButton.addEventListener("click", () => {
+        if (cyclePosition >= 0 && cyclePosition <= 24) {
+            const randomNumber = Math.floor(Math.random() * 100) + 1; // Random number between 1 and 100
+            if (randomNumber >= 1 && randomNumber <= 5) {
+                isPregnantElement.textContent = "is pregnant";
+            } else {
+                isPregnantElement.textContent = "is not pregnant";
+            }
+        } else if (cyclePosition >= 25 && cyclePosition <= 28) {
+            const randomNumber = Math.floor(Math.random() * 100) + 1; // Random number between 1 and 100
+            if (randomNumber >= 1 && randomNumber <= 25) {
+                isPregnantElement.textContent = "is pregnant";
+            } else {
+                isPregnantElement.textContent = "is not pregnant";
+            }
+        } else if (cyclePosition >= 29 && cyclePosition <= 31) {
+            const randomNumber = Math.floor(Math.random() * 100) + 1; // Random number between 1 and 100
+            if (randomNumber >= 1 && randomNumber <= 32) {
+                isPregnantElement.textContent = "is pregnant";
+            } else {
+                isPregnantElement.textContent = "is not pregnant";
+            }
         }
     });
 }

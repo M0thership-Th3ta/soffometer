@@ -95,6 +95,7 @@ function detailsLoading(){
 
     memberCurrentLevel();
     checkBirthday();
+    checkPregnancy();
 }
 function calculatePercentages(CM){
     difference = (CM / 163).toFixed(2)
@@ -314,6 +315,17 @@ function checkBirthday() {
 
     // Check if today's day and month match the birthday's day and month
     if (day === birthdayDay && month === birthdayMonth) {
+        const userInfoElement = document.querySelector("#user-info");
+        if (userInfoElement) {
+            userInfoElement.classList.add("victory");
+        }
+    }
+}
+
+function checkPregnancy() {
+    if (!details || !details[0] || typeof details[0].pregnant === "undefined") return;
+
+    if (details[0].pregnant === true) {
         const userInfoElement = document.querySelector("#user-info");
         if (userInfoElement) {
             userInfoElement.classList.add("victory");
