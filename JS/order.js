@@ -337,7 +337,12 @@ function createOrder(){
         // Calculate digestion time
         const minTime = 40; // in minutes
         const maxTime = 120; // in minutes
-        const digestionTime = Math.round(minTime + (tummySpacePercentage / 100) * (maxTime - minTime));
+        let digestionTime = Math.round(minTime + (tummySpacePercentage / 100) * (maxTime - minTime));
+
+        // Halve digestion time if pregnant
+        if (selectedMember && selectedMember.details && selectedMember.details.pregnant) {
+            digestionTime = Math.round(digestionTime / 2);
+        }
 
         receiptContent += `\nTummy Space Used: ${tummySpacePercentage}%`;
         receiptContent += `\nEstimated Digestion Time: ${digestionTime} minutes`;
