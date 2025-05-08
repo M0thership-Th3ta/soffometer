@@ -329,10 +329,18 @@ function createOrder(){
     const totalCalories = eatenFood.reduce((sum, item) => sum + item.calories, 0);
     receiptContent += `\nTotal Calories: ${totalCalories}`;
 
-    // Add tummy space used only if no name is provided
-    if (!nameInput) {
+    // Add tummy space used and calculate time
+    if (cm !== null && stuffings !== null) {
+        calculateTummySpace(cm, stuffings);
         const tummySpacePercentage = ((tummySpaceTaken / tummySpace) * 100).toFixed(2);
+
+        // Calculate digestion time
+        const minTime = 40; // in minutes
+        const maxTime = 120; // in minutes
+        const digestionTime = Math.round(minTime + (tummySpacePercentage / 100) * (maxTime - minTime));
+
         receiptContent += `\nTummy Space Used: ${tummySpacePercentage}%`;
+        receiptContent += `\nEstimated Digestion Time: ${digestionTime} minutes`;
     }
 
     // Create and download the receipt
