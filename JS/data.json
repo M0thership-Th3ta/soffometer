@@ -101,6 +101,31 @@
             }
         },
         {
+            "id": "Atago",
+            "pfp": "images/pfp/azur_lane/atago.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 47.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 80,
+                "birthday": "16/6/1930",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Sakura Empire",
+                "status": "Saving my energy, or with my sisters!",
+                "personality": [ "motherly", "flirty" ],
+                "hobbies": [ "Lounging", "Sunbathing", "Taking care of her sisters and others", "Babysitting" ],
+                "favorite_foods": [ "Sweets", "Pastries", "Cake", "Cupcakes", "Brownies", "Chocolates", "Cookies", "Tea", "Wine", "Sake" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Musashi",
             "pfp": "images/pfp/azur_lane/musashi.png",
             "details": {
