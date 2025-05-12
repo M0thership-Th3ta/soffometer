@@ -485,6 +485,31 @@
             }
         },
         {
+            "id": "Chloe",
+            "pfp": "images/pfp/hololive/chloe.png",
+            "details": {
+                "cm": 148,
+                "ft": "4'10\"",
+                "weight": 40.5,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "18/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "HoloX",
+                "status": "Cheering you on!!",
+                "personality": [ "airhead", "hungry" ],
+                "hobbies": [ "Snacking", "Lazing", "Cleaning", "Listening to Music", "Sleeping" ],
+                "favorite_foods": [ "Fast Food", "Burgers", "Fries", "Pizza", "Fried Chicken", "Donuts", "Cake", "Cupcakes", "Chocolate", "Brownies", "Candy", "Cookies", "Ice Cream", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Reine",
             "pfp": "images/pfp/hololive/reine.png",
             "details": {
@@ -682,6 +707,30 @@
                 "hobbies": [ "Doting on people", "Taking care of people", "Long naps", "Gaming", "Fighting Games" ],
                 "favorite_foods": [ "Snacks", "Candy", "Donuts", "Cupcakes", "Brownies", "Chocolates", "Cookies", "Waffles", "Pancakes", "Soda", "Milkshakes", "Tea" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Baeya",
+            "pfp": "images/pfp/indie_vtubers/Baeya.png",
+            "details": {
+                "cm": 161,
+                "ft": "5'3\"",
+                "weight": 47.9,
+                "body_artist": "cakecatboy",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "18/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Chilling at sea",
+                "personality": [ "flirty", "motherly" ],
+                "hobbies": [ "Relaxing", "Scaring Sailors", "Sunbathing" ],
+                "favorite_foods": [ "Pastries", "Macarons", "Cake", "Pie", "Fruits", "Chocolate", "Tea", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
