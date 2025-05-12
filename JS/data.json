@@ -635,6 +635,31 @@
             }
         },
         {
+            "id": "Ina",
+            "pfp": "images/pfp/hololive/ina.png",
+            "details": {
+                "cm": 157,
+                "ft": "5'2\"",
+                "weight": 45.5,
+                "body_artist": "cakecatboy",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "20/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "HoloMyth",
+                "status": "Drawing!",
+                "personality": [ "motivated", "cool" ],
+                "hobbies": [ "Drawing", "Reading", "Keeping to herself", "Comfy gaming" ],
+                "favorite_foods": [ "Fast Food", "Ramen", "Pizza", "Cake", "Pie", "Donuts", "Cupcakes", "Chocolate", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers", "Crushing" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Gura",
             "pfp": "images/pfp/hololive/gura.png",
             "details": {
