@@ -51,6 +51,31 @@
             }
         },
         {
+            "id": "Deutschland",
+            "pfp": "images/pfp/azur_lane/deutschland.png",
+            "details": {
+                "cm": 147,
+                "ft": "4'10\"",
+                "weight": 39.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "plumpknight",
+                "age": 80,
+                "birthday": "19/5/1931",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Iron Blood",
+                "status": "Hiding your keys and clippers in spots where you only find them when you don't need them anymore~",
+                "personality": [ "sarcastic", "girlfailure" ],
+                "hobbies": [ "Pulling pranks", "Making jokes out of people", "Shopping", "Scheming" ],
+                "favorite_foods": [ "Fast Food", "Burgers", "Fries", "Cake", "Pie", "Donuts", "Brownies", "Cupcakes", "Chocolates", "Candy", "Cookies", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Immobility", "Cosplay", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Yorck",
             "pfp": "images/pfp/azur_lane/yorck.png",
             "details": {
