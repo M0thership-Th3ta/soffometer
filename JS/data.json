@@ -274,6 +274,31 @@
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
+        },
+        {
+            "id": "Algérie",
+            "pfp": "images/pfp/azur_lane/algerie.png",
+            "details": {
+                "cm": 163,
+                "ft": "5'4\"",
+                "weight": 49.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 80,
+                "birthday": "21/51932",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Vichiya Dominion",
+                "status": "Did my pressence command you to check up on me? How sweet of you~",
+                "personality": [ "motivated", "flirty" ],
+                "hobbies": [ "Leading", "Obtaining power", "Dominating", "Looking mature" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Cookies", "Chocolate", "Pain au Chocolat", "Artisan Bread", "Tea", "Coffee", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
         }
     ],
     "dragon_maid": [
