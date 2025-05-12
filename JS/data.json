@@ -101,6 +101,31 @@
             }
         },
         {
+            "id": "Hermione",
+            "pfp": "images/pfp/azur_lane/hermione.png",
+            "details": {
+                "cm": 157,
+                "ft": "5'2\"",
+                "weight": 45.5,
+                "body_artist": "cakecatboy",
+                "obese_artist": "davielwithfries",
+                "age": 80,
+                "birthday": "18/5/1939",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Royal Navy",
+                "status": "Cleaning!",
+                "personality": [ "motivated", "motherly" ],
+                "hobbies": [ "Cleaning", "Cooking", "Babysitting", "Nanny Duties", "Dressing up", "Leading" ],
+                "favorite_foods": [ "Cake", "Pie", "Brownies", "Cookies", "Chocolates", "Pastries", "Bread", "Tea", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Atago",
             "pfp": "images/pfp/azur_lane/atago.png",
             "details": {
