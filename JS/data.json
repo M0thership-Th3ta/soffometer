@@ -1148,6 +1148,30 @@
             }
         },
         {
+            "id": "Ookamin",
+            "pfp": "images/pfp/indie_vtubers/ookamin.png",
+            "details": {
+                "cm": 163,
+                "ft": "5'4\"",
+                "weight": 49.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "25/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Taking care of the little ones.",
+                "personality": [ "motherly", "flirty" ],
+                "hobbies": [ "Taking care of kids", "Helping kids study", "Working with kids", "Singing" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Pancakes", "Brownies", "Chocolates", "Donuts", "Candy", "Cookies", "Chips", "Soda", "Milkshakes", "Tea", "Wine", "Liqour" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Saruei",
             "pfp": "images/pfp/indie_vtubers/saruei.png",
             "details": {
@@ -1445,6 +1469,31 @@
         }
     ],
     "nijisanji": [
+        {
+            "id": "Lize",
+            "pfp": "images/pfp/nijisanji/lize.png",
+            "details": {
+                "cm": 158,
+                "ft": "5'2\"",
+                "weight": 46.1,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": 17,
+                "birthday": "25/5/2001",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Nijisanji JP",
+                "status": "Hanging out with other royals",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Playing guitar", "Writing", "Sword training", "Royal Duties", "Attending parties" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Chocolate", "Brownies", "Cupcakes", "Pancakes", "Donuts", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
         {
             "id": "Salome",
             "pfp": "images/pfp/nijisanji/salome.png",
