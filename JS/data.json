@@ -76,6 +76,31 @@
             }
         },
         {
+            "id": "Emden",
+            "pfp": "images/pfp/azur_lane/emden.png",
+            "details": {
+                "cm": 164,
+                "ft": "5'5\"",
+                "weight": 49.7,
+                "body_artist": "kipteitei",
+                "obese_artist": "plumpknight",
+                "age": 100,
+                "birthday": "26/5/1908",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Iron Blood",
+                "status": "We are awaiting you~<3",
+                "personality": [ "psychotic" ],
+                "hobbies": [ "Chess", "Dressing up", "Lounging" ],
+                "favorite_foods": [ "Meat", "Pastries", "Cake", "Saurkraut", "Traditionally German Meals", "Stews", "Juice", "Beer", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Yorck",
             "pfp": "images/pfp/azur_lane/yorck.png",
             "details": {
