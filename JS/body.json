@@ -51,6 +51,38 @@
     {
       "size": 12,
       "img": "images/body/KTT/KTT12.jpg"
+    },
+    {
+      "size": 13,
+      "img": "images/body/KTT/KTT13.jpg"
+    },
+    {
+      "size": 14,
+      "img": "images/body/KTT/KTT14.jpg"
+    },
+    {
+      "size": 15,
+      "img": "images/body/KTT/KTT15.jpg"
+    },
+    {
+      "size": 16,
+      "img": "images/body/KTT/KTT16.jpg"
+    },
+    {
+      "size": 17,
+      "img": "images/body/KTT/KTT17.jpg"
+    },
+    {
+      "size": 18,
+      "img": "images/body/KTT/KTT18.jpg"
+    },
+    {
+      "size": 19,
+      "img": "images/body/KTT/KTT19.jpg"
+    },
+    {
+      "size": 20,
+      "img": "images/body/KTT/KTT20.jpg"
     }
   ],
   "orristerioso": [
@@ -167,6 +199,16 @@
     {
       "size": 21,
       "img": "images/body/DWF/DWF0.png"
+    },
+    {
+      "size": 22,
+      "img": ""
+    }
+  ],
+  "educabezon": [
+    {
+      "size": 21,
+      "img": "images/body/ECB/ECB0.png"
     },
     {
       "size": 22,
