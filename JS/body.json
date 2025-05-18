@@ -107,6 +107,50 @@
     {
       "size": 9,
       "img": "images/body/CCB/CCB9.jpg"
+    },
+    {
+      "size": 10,
+      "img": "images/body/CCB/CCB10.png"
+    },
+    {
+      "size": 11,
+      "img": "images/body/CCB/CCB11.jpg"
+    },
+    {
+      "size": 12,
+      "img": "images/body/CCB/CCB12.jpg"
+    },
+    {
+      "size": 13,
+      "img": "images/body/CCB/CCB13.png"
+    },
+    {
+      "size": 14,
+      "img": "images/body/CCB/CCB14.png"
+    },
+    {
+      "size": 15,
+      "img": "images/body/CCB/CCB15.png"
+    },
+    {
+      "size": 16,
+      "img": "images/body/CCB/CCB16.png"
+    },
+    {
+      "size": 17,
+      "img": "images/body/CCB/CCB17.jpeg"
+    },
+    {
+      "size": 18,
+      "img": "images/body/CCB/CCB18.png"
+    },
+    {
+      "size": 19,
+      "img": "images/body/CCB/CCB19.png"
+    },
+    {
+      "size": 20,
+      "img": "images/body/CCB/CCB20.png"
     }
   ],
   "betterwithsalt": [
