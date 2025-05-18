@@ -97,6 +97,42 @@
     {
       "size": 2,
       "img": "images/body/OR/OR2.png"
+    },
+    {
+      "size": 3,
+      "img": "images/body/OR/OR3.png"
+    },
+    {
+      "size": 4,
+      "img": "images/body/OR/OR4.png"
+    },
+    {
+      "size": 5,
+      "img": "images/body/OR/OR5.png"
+    },
+    {
+      "size": 6,
+      "img": "images/body/OR/OR6.png"
+    },
+    {
+      "size": 7,
+      "img": "images/body/OR/OR7.png"
+    },
+    {
+      "size": 8,
+      "img": "images/body/OR/OR8.png"
+    },
+    {
+      "size": 18,
+      "img": "images/body/OR/OR18.png"
+    },
+    {
+      "size": 19,
+      "img": "images/body/OR/OR19.jpg"
+    },
+    {
+      "size": 20,
+      "img": "images/body/OR/OR20.png"
     }
   ],
   "cakecatboy": [
