@@ -176,11 +176,11 @@
   "plumpknight": [
     {
       "size": 21,
-      "img": "images/body/PK/PK0.png"
+      "img": "images/body/PK/PK21.png"
     },
     {
-      "size": 22,
-      "img": ""
+      "size": 42,
+      "img": "images/body/PK/PK42.png"
     }
   ]
 }
