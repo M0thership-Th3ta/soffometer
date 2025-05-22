@@ -176,6 +176,31 @@
             }
         },
         {
+            "id": "Revenge",
+            "pfp": "images/pfp/azur_lane/revenge.png",
+            "details": {
+                "cm": 158,
+                "ft": "5'2\"",
+                "weight": 46.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 80,
+                "birthday": "29/5/1915",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Royal Navy",
+                "status": "Huh, you wanted to talk to me?",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Training", "Cleaning", "Working" ],
+                "favorite_foods": [ "Cake", "Pie", "Pastries", "Cupcakes", "Cookies", "Brownies", "Chocolates", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Atago",
             "pfp": "images/pfp/azur_lane/atago.png",
             "details": {
