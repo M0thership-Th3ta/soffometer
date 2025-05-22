@@ -385,7 +385,7 @@
                 "ft": "5'7\"",
                 "weight": 64.2,
                 "body_artist": "kipteitei",
-                "obese_artist": "betterwithsalt",
+                "obese_artist": "educabezon",
                 "age": 23,
                 "birthday": "27/5",
                 "level": 0,
@@ -862,6 +862,30 @@
     ],
     "indie_vtubers": [
         {
+            "id": "Artemis",
+            "pfp": "images/pfp/indie_vtubers/artemis.png",
+            "details": {
+                "cm": 170,
+                "ft": "5'7\"",
+                "weight": 53.4,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": 23,
+                "birthday": "28/5/2001",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "I am the reason Geneva holds Conventions",
+                "personality": [ "cool" ],
+                "hobbies": [ "Looking at women", "Causing chaos", "Looking at memes" ],
+                "favorite_foods": [ "Meat", "Protein", "Fast Food", "Burgers", "Pizza", "BBQ", "Water", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Immobility", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Ayumi",
             "pfp": "images/pfp/indie_vtubers/ayumi.png",
             "details": {
@@ -954,6 +978,30 @@
                 "hobbies": [ "Dressing up", "Cosplay", "Making outfits", "Snacking" ],
                 "favorite_foods": [ "Pastries", "Snacks", "Crepes", "Pain au Chocolat", "Cake", "Cupcakes", "Soda", "Milkshakes", "Liquor", "Spirits" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Cottontail",
+            "pfp": "images/pfp/indie_vtubers/cottontail.png",
+            "details": {
+                "cm": 162,
+                "ft": "5'4\"",
+                "weight": 48.5,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 69,
+                "birthday": "29/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Living rent-free in your cushy little brain~<3",
+                "personality": [ "flirty" ],
+                "hobbies": [ "Flirting", "Chatting", "Lewd stuff", "Getting shocked" ],
+                "favorite_foods": [ "Pastries", "Fast Food", "Burgers", "Pizza", "Fries", "Cake", "Cookies", "Brownies", "Candy", "Ice Cream", "Cookies", "Soda", "Iced Tea", "Wine", "Liqour", "Sake", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
