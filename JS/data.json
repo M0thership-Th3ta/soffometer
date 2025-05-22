@@ -376,6 +376,31 @@
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
+        },
+        {
+            "id": "Mercedes",
+            "pfp": "images/pfp/fire_emblem/mercedes.png",
+            "details": {
+                "cm": 169,
+                "ft": "5'7\"",
+                "weight": 64.2,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 23,
+                "birthday": "27/5",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Blue Lions",
+                "status": "Baking something probably!",
+                "personality": [ "motherly" ],
+                "hobbies": [ "Baking", "Gardening", "Tailoring", "Making up Ghost Stories", "Painting", "Reading" ],
+                "favorite_foods": [ "Sweets", "Cake", "Pie", "Pastries", "Cupcakes", "Cookies", "Pancakes", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Pregnancy", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Hypnotism", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
         }
     ],
     "frutiger_aero": [
