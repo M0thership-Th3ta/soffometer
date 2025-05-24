@@ -785,6 +785,31 @@
             }
         },
         {
+            "id": "Kronii",
+            "pfp": "images/pfp/hololive/kronii.png",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 52.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "14/3",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "HoloCouncil",
+                "status": "Making sure everything is perfect.",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Looking at herself", "Dressing up", "Sleeping", "Shopping for clothes and make-up", "Hanging out with her friends." ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Ramen", "Burgers", "Cupcakes", "Cookies", "Brownies", "Chocolate", "Candy", "Sweets", "Pizza", "Subway", "Soda", "Wine", "Liqour", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Shiori",
             "pfp": "images/pfp/hololive/shiori.png",
             "details": {
