@@ -204,5 +204,22 @@
         "calories": 686,
         "serving_size": 128
       }
-    ]
+    ],
+  "Sushi": [
+    {
+      "name": "California Roll - 1 piece",
+      "calories": 44,
+      "serving_size": 26
+    },
+    {
+      "name": "Salmon Sushi - 1 piece",
+      "calories": 90,
+      "serving_size": 50
+    },
+    {
+      "name": "Tuna Sushi - 1 piece",
+      "calories": 59,
+      "serving_size": 50
+    }
+  ],
 }
