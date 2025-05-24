@@ -106,9 +106,24 @@
       "serving_size": 198
     },
     {
+      "name": "Hot Dog - 1 hot dog",
+      "calories": 316,
+      "serving_size": 120
+    },
+    {
       "name": "Poutine - 1 order",
       "calories": 886,
       "serving_size": 400
+    },
+    {
+      "name": "Beef Taco - 1 hard shell taco",
+      "calories": 210,
+      "serving_size": 102
+    },
+    {
+      "name": "Beef Taco - 1 soft shell taco",
+      "calories": 210,
+      "serving_size": 102
     }
   ],
   "Fish": [
