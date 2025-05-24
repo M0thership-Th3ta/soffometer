@@ -835,6 +835,31 @@
             }
         },
         {
+            "id": "Nerissa",
+            "pfp": "images/pfp/hololive/nerissa.png",
+            "details": {
+                "cm": 175,
+                "ft": "5'9\"",
+                "weight": 56.6,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "21/11",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "HoloAdvent",
+                "status": "Singing or at Culvers!",
+                "personality": [ "airhead", "girlfailure" ],
+                "hobbies": [ "Singing", "Looking at women", "Looking at Shiori", "Listening to Music", "Being with family" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Ice Cream", "Cake", "Pie", "Cupcakes", "Cookies", "Candy", "Chocolates", "Brownies", "Soda", "Energy Drinks", "Water", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Elizabeth",
             "pfp": "images/pfp/hololive/elizabeth.png",
             "details": {
