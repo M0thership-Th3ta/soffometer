@@ -810,6 +810,31 @@
             }
         },
         {
+            "id": "Sana",
+            "pfp": "images/pfp/hololive/sana.png",
+            "details": {
+                "cm": 169,
+                "ft": "5'7\"",
+                "weight": 52.7,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 13800000000,
+                "birthday": "10/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "HoloCouncil",
+                "status": "Overlooking Earth from a safe distance, but always willing to say hi!! :D",
+                "personality": [ "airhead" ],
+                "hobbies": [ "Drawing", "Observing Space", "Observing Earth", "Being with friends", "Exploring Space" ],
+                "favorite_foods": [ "Bread", "Pastries", "Cake", "Cupcakes", "Pie", "Brownies", "Chocolates", "Candy", "Cookies", "Milk", "Milkshakes", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Shiori",
             "pfp": "images/pfp/hololive/shiori.png",
             "details": {
