@@ -22,6 +22,17 @@
           "content": "Just adding another message to see if it properly sorts the posts from newest to oldest."
         }
       ]
+    },
+    {
+      "id": "Reine",
+      "posts": [
+        {
+          "type": "image",
+          "title": "Got propperly stuffed with burgers today~ 100% worth it!",
+          "date": "2025-05-24",
+          "source": "images/posts/burger2.jpeg"
+        }
+      ]
     }
   ],
   "indie_vtubers": [
