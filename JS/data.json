@@ -1301,6 +1301,30 @@
             }
         },
         {
+            "id": "Hazumi",
+            "pfp": "images/pfp/indie_vtubers/hazumi.png",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 52.1,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": 20,
+                "birthday": "7/6/2001",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Probably playing Valo",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Gaming (particularly shooters)", "Singing", "Collecting Swords", "Drawing" ],
+                "favorite_foods": [ "Meat", "Burgers", "BBQ", "Fried Chicken", "Cake", "Cupcakes", "Muffins", "Chocolates", "Brownies", "Water", "Wine", "Beer", "Sake", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Juniper",
             "pfp": "images/pfp/indie_vtubers/juniper.png",
             "details": {
