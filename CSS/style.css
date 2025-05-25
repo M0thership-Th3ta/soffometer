@@ -371,15 +371,16 @@ div .user-info-subsection {
     .character-selection,
     .food-selection,
     .food-order-list,
-    .order-information {
+    .order-information,
+    .user-info {
         width: 90vw;
     }
 
-    header, .menu {
+    header, .menu, .member-main, .user-info {
         flex-direction: column;
     }
 
-    .menu {
+    .menu, .user-info {
         height: auto;
     }
 
@@ -403,5 +404,10 @@ div .user-info-subsection {
 
     .title {
         order: 0;
+    }
+
+    .post-image {
+        width: 85vw;
+        height: 85vw;
     }
 }
