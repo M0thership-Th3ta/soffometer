@@ -1541,6 +1541,30 @@
             }
         },
         {
+            "id": "Sansinjin",
+            "pfp": "images/pfp/indie_vtubers/sansinjin.png",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 52.1,
+                "body_artist": "cakecatboy",
+                "obese_artist": "plumpknight",
+                "age": "Unknown",
+                "birthday": "8/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "high",
+                "gender": "Female",
+                "status": "Working out",
+                "personality": [ "fit", "motherly" ],
+                "hobbies": [ "Working out", "Taking care of kids", "Gardening" ],
+                "favorite_foods": [ "Burgers", "Fries", "Cheese", "Pizza", "Meat", "BBQ", "Ice Cream", "Cookies", "Chocolate", "Water", "Soda", "Sake", "Wine", "Beer", "Smoothies" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Vacation Gains", "Office Job", "Hypnotism", "Coercion", "Crushing", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Saruei",
             "pfp": "images/pfp/indie_vtubers/saruei.png",
             "details": {
@@ -1681,6 +1705,30 @@
                 "hobbies": [ "Adventuring", "Singing", "Dancing", "Streaming" ],
                 "favorite_foods": [ "Pastries", "Home-cooked Meals", "Meat", "Cake", "Pie", "Cupcakes", "Water", "Milk", "Beer", "Sake" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Taece",
+            "pfp": "images/pfp/indie_vtubers/taece.png",
+            "details": {
+                "cm": 150,
+                "ft": "4'11\"",
+                "weight": 41.6,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "8/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Looking at art!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Looking at art", "Making art", "Streaming" ],
+                "favorite_foods": [ "Sweets", "Candy", "Mochi", "Chocolates", "Muffins", "Cupcakes", "Croissants", "Soda", "Smoothies" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
