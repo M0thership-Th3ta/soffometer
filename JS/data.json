@@ -1036,6 +1036,30 @@
     ],
     "indie_vtubers": [
         {
+            "id": "Andou",
+            "pfp": "images/pfp/indie_vtubers/andou.png",
+            "details": {
+                "cm": 170,
+                "ft": "5'7\"",
+                "weight": 101.1,
+                "body_artist": "orristerioso",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "3/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Dreaming of Donuts",
+                "personality": [ "hungry", "retro" ],
+                "hobbies": [ "Online Shopping", "Streaming", "Gaming", "Pulling Pranks", "Motivating People" ],
+                "favorite_foods": [ "Donuts", "Cake", "Pie", "Burgers", "Fries", "Pizza", "Ice Cream", "Chocolate", "Cupcakes", "Brownies", "Muffins", "Waffles", "Pancakes", "Candy", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Artemis",
             "pfp": "images/pfp/indie_vtubers/artemis.png",
             "details": {
