@@ -196,7 +196,12 @@
         "name": "Pepperoni Pizza - 1 slice",
         "calories": 313,
         "serving_size": 111
-        }
+        },
+      {
+        "name": "Pizza Rolls - 1 roll",
+        "calories": 35,
+        "serving_size": 14
+      }
     ],
   "Snacks": [
       {
