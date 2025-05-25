@@ -534,6 +534,30 @@
     ],
     "girls_frontline": [
         {
+            "id": "Makiatto",
+            "pfp": "images/pfp/girls_frontline/makiatto.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": 40,
+                "birthday": "2/6/1982",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Not keeping close track of your exact location, heartrate and temperature.",
+                "personality": [ "motivated", "psychotic" ],
+                "hobbies": [ "Stalking", "Keeping tabs", "Learning information", "Training her shooting" ],
+                "favorite_foods": [ "Pastries", "Chocolates", "Cake", "Cupcakes", "Sweets", "Brownies", "Donuts", "Coffee", "Iced Coffee." ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Sabrina",
             "pfp": "images/pfp/girls_frontline/sabrina.png",
             "details": {
