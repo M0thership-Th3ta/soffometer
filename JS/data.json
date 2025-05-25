@@ -530,6 +530,30 @@
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Hugs", "Immobility", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers"],
                 "pregnant": false
             }
+        },
+        {
+            "id": "Lisa",
+            "pfp": "images/pfp/genshin/lisa.png",
+            "details": {
+                "cm": 180,
+                "ft": "5'11\"",
+                "weight": 59.8,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 32,
+                "birthday": "9/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Taking care of my library, feel free to take a book for yourself~ Or should I keep you entertained~?",
+                "personality": [ "motherly", "flirty" ],
+                "hobbies": [ "Reading", "Drinking Tea", "Lounging" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Muffins", "Cookies", "Chocolates", "Tea", "Milk", "Smoothies", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
         }
     ],
     "girls_frontline": [
@@ -1417,6 +1441,31 @@
                 "hobbies": [ "Reading", "ASMR", "Taking care of animals" ],
                 "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Pancakes", "Water", "Milkshakes" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Mariya",
+            "pfp": "images/pfp/indie_vtubers/mariya.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 47.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 6669,
+                "birthday": "9/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "V4Mirai",
+                "status": "Singing for you!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Singing", "Looking at girls", "Gushing over girls" ],
+                "favorite_foods": [ "Sweets", "Cake", "Pie", "Pastries", "Chocolates", "Cupcakes", "Muffins", "Cookies", "Donuts", "Candy", "Fruit", "Soda", "Iced Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
