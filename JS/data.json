@@ -276,6 +276,31 @@
             }
         },
         {
+            "id": "Shoukaku",
+            "pfp": "images/pfp/azur_lane/shoukaku.png",
+            "details": {
+                "cm": 153,
+                "ft": "5'0\"",
+                "weight": 43.2,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 80,
+                "birthday": "1/6/1939",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Sakura Empire",
+                "status": "Looking at the swans in the lake.",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Showing off her skills", "Playing flute", "Training", "Spending time with her sister" ],
+                "favorite_foods": [ "Ramen", "Sushi", "Meat", "BBQ", "Fried Chicken", "Cake", "Pie", "Chocolates", "Tea", "Sake", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Taihou",
             "pfp": "images/pfp/azur_lane/taihou.png",
             "details": {
@@ -1199,6 +1224,30 @@
                 "hobbies": [ "Gaming", "Reading", "Listening to Music", "Looking at Cats", "Petting Cats", "Playing with Cats" ],
                 "favorite_foods": [ "Snacks", "Candy", "Ramen", "Cherries", "Nectarines", "Take-Out", "Doordash", "Pizza", "Energy Drinks", "Soda", "Coffee" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Immobility", "Hypnotism", "Corruption", "Coercion", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Juniper",
+            "pfp": "images/pfp/indie_vtubers/juniper.png",
+            "details": {
+                "cm": 173,
+                "ft": "5'8\"",
+                "weight": 55.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 200,
+                "birthday": "2/6/1799",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Working out or chasing bugs.",
+                "personality": [ "sarcastic", "cool" ],
+                "hobbies": [ "Finding bugs", "Drawing", "Working out", "Gaming", "Hanging out with friends." ],
+                "favorite_foods": [ "Meat", "BBQ", "Burgers", "Pizza", "Cake", "Cupcakes", "Cookies", "Soda", "Energy Drinks", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
