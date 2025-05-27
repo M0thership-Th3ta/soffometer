@@ -151,6 +151,31 @@
             }
         },
         {
+            "id": "Formidable",
+            "pfp": "images/pfp/azur_lane/formidable.png",
+            "details": {
+                "cm": 158,
+                "ft": "5'2\"",
+                "weight": 46.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 80,
+                "birthday": "17/8/1939",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Royal Navy",
+                "status": "Cleaning up after you~~",
+                "personality": [ "sarcastic", "girlfailure" ],
+                "hobbies": [ "Dressing up", "Lazing", "Shopping", "Snacking" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Muffins", "Sweets", "Chocolates", "Brownies", "Fruit", "Tea", "Smoothies", "Iced Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Hermione",
             "pfp": "images/pfp/azur_lane/hermione.png",
             "details": {
