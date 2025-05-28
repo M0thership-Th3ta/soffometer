@@ -833,6 +833,31 @@
             }
         },
         {
+            "id": "Botan",
+            "pfp": "images/pfp/hololive/botan.png",
+            "details": {
+                "cm": 166,
+                "ft": "5'5\"",
+                "weight": 50.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "plumpknight",
+                "age": "Unknown",
+                "birthday": "8/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Hololive JP Gen 5",
+                "status": "Playing a shooter probably",
+                "personality": [ "motivated", "cool" ],
+                "hobbies": [ "Gaming (particularly shooters)", "Collecting Guns", "Cooking" ],
+                "favorite_foods": [ "Burgers", "Fries", "Ramen", "Pizza", "Cake", "Muffins", "Cookies", "Candy", "Chocolate", "Energy Drinks", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers", "Fast Food Employment" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Chloe",
             "pfp": "images/pfp/hololive/chloe.png",
             "details": {
