@@ -135,6 +135,11 @@
   ],
   "Meat": [
     {
+      "name": "Korean Barbeque Shotgun Shells - 1 shell",
+      "calories": 342,
+      "serving_size": 210
+    },
+    {
       "name": "Roast Chicken - 1 chicken",
       "calories": 1430,
       "serving_size": 598
