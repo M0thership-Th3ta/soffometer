@@ -758,6 +758,31 @@
             }
         },
         {
+            "id": "Marine",
+            "pfp": "images/pfp/hololive/marine.png",
+            "details": {
+                "cm": 150,
+                "ft": "4'11\"",
+                "weight": 41.6,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 35,
+                "birthday": "30/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive JP Gen 3",
+                "status": "Doing Lewd Stuff probably~",
+                "personality": [ "flirty", "girlfailure" ],
+                "hobbies": [ "Lewd Stuff", "Singing", "Dancing", "Pole-dancing", "Masturbating" ],
+                "favorite_foods": [ "Ramen", "Burgers", "Fries", "Cake", "Pie", "Pastries", "Donuts", "Fruit", "Muffins", "Chocolate", "Strawberries", "Beer", "Wine", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers", "Belly Fucking", "Trophee Wife", "Office Job" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Watame",
             "pfp": "images/pfp/hololive/watame.png",
             "details": {
