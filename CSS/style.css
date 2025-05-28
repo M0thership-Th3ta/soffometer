@@ -363,6 +363,21 @@ div .user-info-subsection {
     display: none;
 }
 
+#map {
+    height: 640px;
+}
+
+.custom-tile {
+    padding: 10px; /* Add padding around the tiles */
+    box-sizing: border-box; /* Ensure padding doesn't affect tile size */
+}
+
+.link-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
 @media (max-width: 800px) {
     .member-gallery,
     .index-text,
