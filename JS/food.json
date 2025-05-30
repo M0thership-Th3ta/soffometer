@@ -74,9 +74,29 @@
       "serving_size": 50
     },
     {
+      "name": "Chocolate Chip Cookies - 1 cookie",
+      "calories": 148,
+      "serving_size": 30
+    },
+    {
       "name": "Glazed Donut - 1 donut",
       "calories": 269,
       "serving_size": 64
+    },
+    {
+      "name": "Shiori's Donuts - 1 donut",
+      "calories": 1275,
+      "serving_size": 219
+    },
+    {
+      "name": "Shiori's Eclairs - 1 eclair",
+      "calories": 1372,
+      "serving_size": 277
+    },
+    {
+      "name": "American Pancake - 1 pancake",
+      "calories": 91,
+      "serving_size": 40
     }
   ],
   "Drinks": [
