@@ -209,8 +209,13 @@
     },
     {
       "name": "Shiori's Donuts - 1 donut",
-      "calories": 1153,
-      "serving_size": 158
+      "calories": 1275,
+      "serving_size": 219
+    },
+    {
+      "name": "Shiori's Breakfast Donuts - 1 donut",
+      "calories": 1791,
+      "serving_size": 364
     },
     {
       "name": "Shiori's Eclairs - 1 eclair",
