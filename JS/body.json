@@ -257,6 +257,92 @@
       "img": "images/body/CCB/CCB20.png"
     }
   ],
+  "adiposesaleswoman": [
+    {
+      "size": 0,
+      "img": "images/body/ASW/ASW0.jpeg"
+    },
+    {
+      "size": 1,
+      "img": "images/body/ASW/ASW1.jpg"
+    },
+    {
+      "size": 2,
+      "img": "images/body/ASW/ASW2.jpg"
+    },
+    {
+      "size": 3,
+      "img": "images/body/ASW/ASW3.jpeg"
+    },
+    {
+      "size": 4,
+      "img": "images/body/ASW/ASW4.jpg"
+    },
+    {
+      "size": 5,
+      "img": "images/body/ASW/ASW5.jpg"
+    },
+    {
+      "size": 6,
+      "img": "images/body/ASW/ASW6.jpg"
+    },
+    {
+      "size": 7,
+      "img": "images/body/ASW/ASW7.jpg"
+    },
+    {
+      "size": 8,
+      "img": "images/body/ASW/ASW8.jpg"
+    },
+    {
+      "size": 9,
+      "img": "images/body/ASW/ASW9.jpeg"
+    },
+    {
+      "size": 10,
+      "img": "images/body/ASW/ASW10.jpg"
+    },
+    {
+      "size": 11,
+      "img": "images/body/ASW/ASW10.jpeg"
+    },
+    {
+      "size": 12,
+      "img": "images/body/ASW/ASW12.jpg"
+    },
+    {
+      "size": 13,
+      "img": "images/body/ASW/ASW13.jpg"
+    },
+    {
+      "size": 14,
+      "img": "images/body/ASW/ASW14.jpg"
+    },
+    {
+      "size": 15,
+      "img": "images/body/ASW/ASW15.jpeg"
+    },
+    {
+      "size": 16,
+      "img": "images/body/ASW/ASW16.jpeg"
+    },
+    {
+      "size": 17,
+      "img": "images/body/ASW/ASW17.jpeg"
+    },
+    {
+      "size": 18,
+      "img": "images/body/ASW/ASW10.jpeg"
+    },
+    {
+      "size": 19,
+      "img": "images/body/ASW/ASW19.jpg"
+    },
+    {
+      "size": 20,
+      "img": "images/body/ASW/ASW20.jpg"
+    }
+  ],
   "betterwithsalt": [
     {
       "size": 21,
