@@ -112,6 +112,8 @@ function memberListLoading(data){
             age = 50; // Default to 50 if no member is selected
         }
     });
+    // Populate the heaviest list
+    populateHeaviestList(data);
 }
 
 function calculateDaysToBirthday(member) {
@@ -173,6 +175,46 @@ function calculateDaysToBirthday(member) {
 function calculateBMR(Weight, CM, Age){
     BMR = Number(((9.247 * Weight) + (3.098 * CM) - (4.330 * Age) + 447.593).toFixed(0));
     mealCalories = Number(((BMR + 1000) / 5).toFixed(0));
+}
+
+function populateHeaviestList(data) {
+    const heaviestList = document.querySelector("#heaviest-list");
+    if (!heaviestList) return;
+
+    // Flatten all members into a single array
+    const allMembers = Object.values(data).flat();
+
+    // Calculate BMI for each member and attach level
+    const membersWithBMI = allMembers.map(member => {
+        const { weight, cm, level = 0 } = member.details || {};
+        let bmi = null;
+        if (weight && cm) {
+            const m = cm / 100;
+            bmi = weight / (m * m);
+        }
+        return {
+            ...member,
+            bmi,
+            level: Number(level) || 0
+        };
+    });
+
+    // Sort by level (desc), then BMI (desc)
+    membersWithBMI.sort((a, b) => {
+        if (b.level !== a.level) return b.level - a.level;
+        return (b.bmi || 0) - (a.bmi || 0);
+    });
+
+    // Take top 10
+    const top10 = membersWithBMI.slice(0, 10);
+
+    // Populate the list
+    heaviestList.innerHTML = "";
+    top10.forEach((member, idx) => {
+        const li = document.createElement("li");
+        li.textContent = `${idx + 1}. ${member.name || member.id} - Level: ${member.level}, BMI: ${member.bmi ? member.bmi.toFixed(1) : "N/A"}`;
+        heaviestList.appendChild(li);
+    });
 }
 
 function calculateWeightChange(inputCalories) {
