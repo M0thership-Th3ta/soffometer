@@ -359,18 +359,46 @@
       "img": "images/body/DWF/DWF0.png"
     },
     {
-      "size": 22,
+      "size": 23,
       "img": ""
     }
   ],
   "educabezon": [
     {
       "size": 21,
-      "img": "images/body/ECB/ECB0.png"
+      "img": "images/body/ECB/ECB21.png"
     },
     {
-      "size": 22,
-      "img": ""
+      "size": 23,
+      "img": "images/body/ECB/ECB23.png"
+    },
+    {
+      "size": 25,
+      "img": "images/body/ECB/ECB25.png"
+    },
+    {
+      "size": 27,
+      "img": "images/body/ECB/ECB27.png"
+    },
+    {
+      "size": 29,
+      "img": "images/body/ECB/ECB29.png"
+    },
+    {
+      "size": 31,
+      "img": "images/body/ECB/ECB31.png"
+    },
+    {
+      "size": 33,
+      "img": "images/body/ECB/ECB33.png"
+    },
+    {
+      "size": 35,
+      "img": "images/body/ECB/ECB35.png"
+    },
+    {
+      "size": 45,
+      "img": "images/body/ECB/ECB45.png"
     }
   ],
   "plumpknight": [
