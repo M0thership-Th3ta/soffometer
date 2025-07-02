@@ -858,6 +858,31 @@
             }
         },
         {
+            "id": "Lui",
+            "pfp": "images/pfp/hololive/lui.png",
+            "details": {
+                "cm": 161,
+                "ft": "5'3\"",
+                "weight": 47.9,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "11/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "HoloX",
+                "status": "Doing some protective work",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Leading", "Doing administrative Work", "Handling relationships" ],
+                "favorite_foods": [ "Pastries", "Home-Cooked Meals", "Snacks", "Ramen", "Candy", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Crushing", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Chloe",
             "pfp": "images/pfp/hololive/chloe.png",
             "details": {
