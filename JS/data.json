@@ -1739,6 +1739,31 @@
             }
         },
         {
+            "id": "Rosedoodle",
+            "pfp": "images/pfp/indie_vtubers/rosedoodle.png",
+            "details": {
+                "cm": 156,
+                "ft": "5'1\"",
+                "weight": 44.9,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "12/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Vchiban",
+                "status": "Drawing or hanging with my gang!",
+                "personality": [ "cool", "girlfailure" ],
+                "hobbies": [ "Drawing", "Hanging out with friends", "Caring for animals" ],
+                "favorite_foods": [ "Snacks", "Fast Food", "Burgers", "Candy", "Pastries", "Donuts", "Cake", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Sansinjin",
             "pfp": "images/pfp/indie_vtubers/sansinjin.png",
             "details": {
