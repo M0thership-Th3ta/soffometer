@@ -359,8 +359,12 @@
       "img": "images/body/DWF/DWF21.png"
     },
     {
-      "size": 23,
-      "img": ""
+      "size": 30,
+      "img": "images/body/DWF/DWF30.png"
+    },
+    {
+      "size": 36,
+      "img": "images/body/DWF/DWF36.png"
     }
   ],
   "educabezon": [
