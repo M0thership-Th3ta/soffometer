@@ -401,6 +401,31 @@
             }
         },
         {
+            "id": "Royal Fortune",
+            "pfp": "images/pfp/azur_lane/royal_fortune.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 47.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 300,
+                "birthday": "2/7/1720",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Tempesta",
+                "status": "Yo~ho!!",
+                "personality": [ "airhead", "flirty" ],
+                "hobbies": [ "Looting", "Sailing", "Stealing", "Piracy" ],
+                "favorite_foods": [ "Fruit", "Cake", "Pie", "Meat", "Burgers", "Tea", "Beer", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "São Martinho",
             "pfp": "images/pfp/azur_lane/sao_martinho.png",
             "details": {
@@ -1434,13 +1459,13 @@
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
-                "weight": 47.3,
+                "weight": 116.7,
                 "body_artist": "kipteitei",
                 "obese_artist": "davielwithfries",
                 "age": "Unknown",
                 "birthday": "26/6",
                 "level": 0,
-                "stuffings": 0,
+                "stuffings": 1,
                 "diet": "medium",
                 "exercise": "none",
                 "gender": "Female",
@@ -1497,6 +1522,30 @@
                 "hobbies": [ "Drawing", "Creating", "Looking at art", "Spreading chaos", "playing chaotic games", "Pulling pranks" ],
                 "favorite_foods": [ "Pasta", "Pizza", "Ramen", "Mochi", "Pastries", "Cake", "Pie", "Cupcakes", "Coffee", "Water", "Soda", "Milk", "Energy Drinks" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Echo",
+            "pfp": "images/pfp/indie_vtubers/echo.png",
+            "details": {
+                "cm": 153,
+                "ft": "5'0\"",
+                "weight": 43.2,
+                "body_artist": "orristerioso",
+                "obese_artist": "plumpknight",
+                "age": "Unknown",
+                "birthday": "1/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Looking at bugs!",
+                "personality": [ "airhead", "psychotic" ],
+                "hobbies": [ "Looking at bugs", "Drawing", "Gaming" ],
+                "favorite_foods": [ "Gummy Worms", "Candy", "Fruit", "Jelly", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Cuddling", "Hugs", "Immobility", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
@@ -1958,6 +2007,30 @@
                 "hobbies": [ "Taking care of kids", "Helping kids study", "Working with kids", "Singing" ],
                 "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Pancakes", "Brownies", "Chocolates", "Donuts", "Candy", "Cookies", "Chips", "Soda", "Milkshakes", "Tea", "Wine", "Liqour" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Pumpkin",
+            "pfp": "images/pfp/indie_vtubers/pumpkin.png",
+            "details": {
+                "cm": 140,
+                "ft": "4'7\"",
+                "weight": 36.2,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": 90,
+                "birthday": "1/7/1931",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Here in Cartoon Civilization, nobody jumps for the beef",
+                "personality": [ "retro" ],
+                "hobbies": [ "Watching Cartoons", "Drawing", "Dancing", "Comedy" ],
+                "favorite_foods": [ "Burgers", "Pizza", "Fries", "Meat", "Cake", "Pie", "Donuts", "Candy", "Chocolate", "Soda", "Coffee" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
@@ -2682,6 +2755,31 @@
                 "hobbies": [ "Learning things", "Observing bugs", "Learning about adult things" ],
                 "favorite_foods": [ "Cookies", "Pie", "Cupcakes", "Donuts", "Candy", "Chocolate", "Water", "Soda" ],
                 "kinks": [ "Stuffing", "Weight gain", "Burping", "Affection", "Cuddling", "Hugs", "Kisses", "Immobility", "Vacation Gains", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Rapi",
+            "pfp": "images/pfp/nikke/rapi.png",
+            "details": {
+                "cm": 159,
+                "ft": "5'3\"",
+                "weight": 46.7,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "1/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "high",
+                "gender": "Female",
+                "group": "Counters",
+                "status": "Awaiting your orders",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Serving you", "Awaiting orders", "Helping others" ],
+                "favorite_foods": [ "Home-Cooked Meals", "Protein", "Rations", "Water" ],
+                "kinks": [ "Stuffing", "Weight gain", "Burping", "Affection", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Trophee Wife", "Vacation Gains", "Office Job", "Coercion", "Crushing", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
