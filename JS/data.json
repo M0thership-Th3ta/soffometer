@@ -376,6 +376,31 @@
             }
         },
         {
+            "id": "São Martinho",
+            "pfp": "images/pfp/azur_lane/sao_martinho.png",
+            "details": {
+                "cm": 163,
+                "ft": "5'4\"",
+                "weight": 49.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 450,
+                "birthday": "16/6/1540",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "high",
+                "gender": "Female",
+                "group": "Tempesta",
+                "status": "Exploring",
+                "personality": [ "motivated", "fit" ],
+                "hobbies": [ "Working out", "Sparring", "Exploring", "Looting" ],
+                "favorite_foods": [ "Fruit", "Protein", "Water", "Wine" ],
+                "kinks": [ "Stuffing", "Weight gain", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Crushing", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Algérie",
             "pfp": "images/pfp/azur_lane/algerie.png",
             "details": {
@@ -804,6 +829,31 @@
                 "hobbies": [ "Singing", "Dancing", "Snacking", "Stealing Snacks" ],
                 "favorite_foods": [ "Chips", "Burgers", "Fries", "Pizza", "Hot Dogs", "Candy", "Chocolates", "Cookies", "Soda", "Iced Tea", "Milkshakes" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Coco",
+            "pfp": "images/pfp/hololive/coco.png",
+            "details": {
+                "cm": 180,
+                "ft": "5'11\"",
+                "weight": 59.8,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "17/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive JP Gen 4",
+                "status": "Good Morning Motherfucker!",
+                "personality": [ "sarcastic", "motivated" ],
+                "hobbies": [ "Gaming", "Memeing", "Playing pranks" ],
+                "favorite_foods": [ "Protein", "Burgers", "Pizza", "Ice Cream", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
@@ -1932,6 +1982,31 @@
             }
         },
         {
+            "id": "Snoozy",
+            "pfp": "images/pfp/indie_vtubers/snoozy.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "16/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "SVA",
+                "status": "Napping or Jamming",
+                "personality": [ "sleepy", "girlfailure" ],
+                "hobbies": [ "Napping", "Gaming", "Playing with her cats" ],
+                "favorite_foods": [ "Snacks", "Fast Food", "Burgers", "Fries", "Pizza", "Hot Dogs", "Cake", "Pie", "Donuts", "Brownies", "Chocolate", "Salmon", "Tuna", "Candy", "Cupcakes", "Ice Cream", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Spite",
             "pfp": "images/pfp/indie_vtubers/spite.png",
             "details": {
@@ -2208,6 +2283,31 @@
             }
         },
         {
+            "id": "Finana",
+            "pfp": "images/pfp/nijisanji/finana.png",
+            "details": {
+                "cm": 140,
+                "ft": "4'7\"",
+                "weight": 36.2,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "17/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji EN Gen 1 - LazuLight",
+                "status": "Chilling",
+                "personality": [ "sarcastic", "girlfailure" ],
+                "hobbies": [ "Pulling pranks", "Gaming", "Drawing", "Singing" ],
+                "favorite_foods": [ "Snacks", "Fast Food", "Burgers", "Fries. Hot Dogs", "Candy", "Chocolate", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Scarle",
             "pfp": "images/pfp/nijisanji/scarle.png",
             "details": {
@@ -2331,6 +2431,31 @@
                 "hobbies": [ "Gaming", "Playing BOOM", "Running BOOM on everything" ],
                 "favorite_foods": [ "Snacks", "Fast Food", "Burgers", "Fries", "Pizza", "Pizza Rolls", "Hot Dogs", "Chicken Nuggets", "Soda", "Energy Drinks" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Modernia",
+            "pfp": "images/pfp/nikke/modernia.png",
+            "details": {
+                "cm": 162,
+                "ft": "5'4\"",
+                "weight": 48.5,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "17/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Heretic - Pilgrim",
+                "status": "Learning from you!",
+                "personality": [ "airhead" ],
+                "hobbies": [ "Learning things", "Observing bugs", "Learning about adult things" ],
+                "favorite_foods": [ "Cookies", "Pie", "Cupcakes", "Donuts", "Candy", "Chocolate", "Water", "Soda" ],
+                "kinks": [ "Stuffing", "Weight gain", "Burping", "Affection", "Cuddling", "Hugs", "Kisses", "Immobility", "Vacation Gains", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
