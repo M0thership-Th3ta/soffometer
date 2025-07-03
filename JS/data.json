@@ -1715,6 +1715,30 @@
             }
         },
         {
+            "id": "Nyanners",
+            "pfp": "images/pfp/indie_vtubers/nyanners.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 47.3,
+                "body_artist": "orristerioso",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "14/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Woah, what was that?",
+                "personality": [ "airhead", "girlfailure" ],
+                "hobbies": [ "Gaming", "Memeing", "Finding weird shit", "Looking at seal videos" ],
+                "favorite_foods": [ "Fast Food", "Burgers", "Pizza", "Pie", "Cake", "Donuts", "Candy", "Brownies", "Chocolate. Banana", "Coffee", "Soda", "Energy Drinks", "Vodka", "Beer" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Ookamin",
             "pfp": "images/pfp/indie_vtubers/ookamin.png",
             "details": {
@@ -1880,6 +1904,30 @@
                 "hobbies": [ "Streaming", "Singing", "Gaming", "Cuddling" ],
                 "favorite_foods": [ "Burgers", "Pizza", "Fast Food", "Cake", "Cupcakes", "Chocolate", "Brownies", "Water", "Milkshakes", "Soda", "Energy Drinks" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "SkyAboveMe",
+            "pfp": "images/pfp/indie_vtubers/sky.png",
+            "details": {
+                "cm": 157,
+                "ft": "5'2\"",
+                "weight": 45.5,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "16/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Drawing or snacking on cookies",
+                "personality": [ "girlfailure", "hungry" ],
+                "hobbies": [ "Drawing", "Napping", "Looking at girls" ],
+                "favorite_foods": [ "Cookies", "Pastries", "Cake", "Pie", "Brownies", "Donuts", "Chocolate", "Iced Coffee", "Boba Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
@@ -2262,6 +2310,31 @@
             }
         },
         {
+            "id": "Elegg",
+            "pfp": "images/pfp/nikke/elegg.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 57.5,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "14/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Electric Shock - Missilis Industry",
+                "status": "Playing BOOM!",
+                "personality": [ "retro", "airhead" ],
+                "hobbies": [ "Gaming", "Playing BOOM", "Running BOOM on everything" ],
+                "favorite_foods": [ "Snacks", "Fast Food", "Burgers", "Fries", "Pizza", "Pizza Rolls", "Hot Dogs", "Chicken Nuggets", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Rupee",
             "pfp": "images/pfp/nikke/rupee.png",
             "details": {
@@ -2387,6 +2460,33 @@
                 "hobbies": ["Causing chaos", "Stealing stuff", "Adventuring", "Using people for her own gain"],
                 "favorite_foods": ["Snacks", "Pastries", "Meat", "Fruits", "Brownies", "Cake", "Cookies", "Candy", "Chocolate", "Cupcakes", "Water", "Milk", "Smoothies", "Juice"],
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Body worship", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Fast Food Employment", "Vacation Gains", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers"],
+                "pregnant": false
+            }
+        }
+    ],
+    "synthwave": [
+        {
+            "id": "Rosalina",
+            "pfp": "images/pfp/synthwave/rosalina.png",
+            "details": {
+                "cm": 226,
+                "ft": "7'5\"",
+                "weight": 94.3,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "15/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Super Mario Galaxy",
+                "status": "Looking up at the stars",
+                "personality": [ "motherly" ],
+                "hobbies": [ "Stargazing", "Reading", "Writing", "Motorcycling", "Playing acoustic guitar" ],
+                "favorite_foods": [ "Pastries", "Cupcakes", "Pie", "Cake", "Brownies", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Cuddling", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Vacation Gains", "Hypnotism", "Coercion", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         }
