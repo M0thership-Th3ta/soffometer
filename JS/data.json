@@ -2686,6 +2686,31 @@
             }
         },
         {
+            "id": "Red Hood",
+            "pfp": "images/pfp/nikke/red_hood.png",
+            "details": {
+                "cm": 171,
+                "ft": "5'7\"",
+                "weight": 54,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "27/6",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Goddess - Pilgrim",
+                "status": "Defending you all the way! I got your back~<3",
+                "personality": [ "motivated", "airhead" ],
+                "hobbies": [ "Training her sniping. Dressing up", "Going on dates" ],
+                "favorite_foods": [ "Snacks", "Chips", "Candy", "Cake", "Pie", "Hot Dogs", "Burgers", "Soda", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Rupee",
             "pfp": "images/pfp/nikke/rupee.png",
             "details": {
