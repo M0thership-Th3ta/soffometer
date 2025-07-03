@@ -1502,6 +1502,30 @@
             }
         },
         {
+            "id": "Dokibird",
+            "pfp": "images/pfp/indie_vtubers/dokibird.png",
+            "details": {
+                "cm": 157,
+                "ft": "5'2\"",
+                "weight": 45.5,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "4/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Hardcore gaming",
+                "personality": [ "cool", "motivated" ],
+                "hobbies": [ "Gaming (particularly FPSes)", "Working for charity", "Collaborating" ],
+                "favorite_foods": [ "Snacks", "Pastries", "Chips", "Fries", "Candy", "Brownies", "Chocolate", "Cake", "Cupcakes", "Donuts", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "DyaRikku",
             "pfp": "images/pfp/indie_vtubers/dyarikku.png",
             "details": {
@@ -2931,6 +2955,31 @@
                 "hobbies": [ "Sparring", "Fighting", "Boxing", "Working out", "Barbequing" ],
                 "favorite_foods": [ "Protein", "Burgers", "Fried chicken", "Soda", "Water", "Milk" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Nora",
+            "pfp": "images/pfp/rwby/nora.png",
+            "details": {
+                "cm": 155,
+                "ft": "5'1\"",
+                "weight": 44.4,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": 20,
+                "birthday": "4/7/2002",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "JNPR",
+                "status": "HAMMERTIME!!!",
+                "personality": [ "airhead", "fit" ],
+                "hobbies": [ "Training", "Battling", "Making pancakes" ],
+                "favorite_foods": [ "Pancakes", "Pastries", "Cake", "Pie", "Cupcakes", "Brownies", "Burgers", "Meat", "Barbeque", "Pizza", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         }
