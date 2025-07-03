@@ -1575,6 +1575,30 @@
             }
         },
         {
+            "id": "Faelina",
+            "pfp": "images/pfp/indie_vtubers/faelina.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "2/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Looking at girls~",
+                "personality": [ "flirty", "airhead" ],
+                "hobbies": [ "Looking at women", "Dressing up sexy", "Reading books" ],
+                "favorite_foods": [ "Meat", "Pastries", "Burgers", "Pizza", "Hot Dogs", "Ice Cream", "Cake", "Pie", "Fruit", "Cupcakes", "Chocolate", "Candy", "Water", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "FeFe",
             "pfp": "images/pfp/indie_vtubers/fefe.png",
             "details": {
