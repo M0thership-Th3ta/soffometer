@@ -1008,6 +1008,31 @@
             }
         },
         {
+            "id": "Iofi",
+            "pfp": "images/pfp/hololive/iofi.png",
+            "details": {
+                "cm": 150,
+                "ft": "4'11\"",
+                "weight": 41.6,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "15/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive ID Gen 1",
+                "status": "Painting!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Painting", "Drawing", "Singing" ],
+                "favorite_foods": [ "Snacks", "Candy", "Chocolates", "Chips", "Cake", "Cupcakes", "Donuts", "Tea", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Reine",
             "pfp": "images/pfp/hololive/reine.png",
             "details": {
