@@ -2108,6 +2108,31 @@
             }
         },
         {
+            "id": "Poseidon",
+            "pfp": "images/pfp/indie_vtubers/poseidon.png",
+            "details": {
+                "cm": 180,
+                "ft": "5'11\"",
+                "weight": 59.8,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "12/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Mythos",
+                "status": "Playing Pokemon probably!",
+                "personality": [ "flirty", "airhead" ],
+                "hobbies": [ "Playing Pokemon", "Collecting TCG cards", "Lazing" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Donuts", "Cupcakes", "Muffins", "Fruit", "Burgers", "Fries", "Candy", "Soda", "Energy Drinks", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Pumpkin",
             "pfp": "images/pfp/indie_vtubers/pumpkin.png",
             "details": {
@@ -2729,6 +2754,31 @@
             }
         },
         {
+            "id": "Pomu",
+            "pfp": "images/pfp/nijisanji/pomu.png",
+            "details": {
+                "cm": 9,
+                "ft": "0'4\"",
+                "weight": 0.15,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "12/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "LazuLight",
+                "status": "Have you seen that ghost maid??",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Singing", "Streaming", "Gaming", "Looking at idols" ],
+                "favorite_foods": [ "Fruit", "Pastries", "Cake", "Pie", "Cupcakes", "Brownies", "Chocolate", "Candy", "Soda", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Scarle",
             "pfp": "images/pfp/nijisanji/scarle.png",
             "details": {
@@ -2927,6 +2977,31 @@
                 "hobbies": [ "Learning things", "Observing bugs", "Learning about adult things" ],
                 "favorite_foods": [ "Cookies", "Pie", "Cupcakes", "Donuts", "Candy", "Chocolate", "Water", "Soda" ],
                 "kinks": [ "Stuffing", "Weight gain", "Burping", "Affection", "Cuddling", "Hugs", "Kisses", "Immobility", "Vacation Gains", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Quency",
+            "pfp": "images/pfp/nikke/quency.png",
+            "details": {
+                "cm": 172,
+                "ft": "5'8\"",
+                "weight": 54.6,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "12/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Real Kindness - Missilis Industry",
+                "status": "Working on my escape plan~",
+                "personality": [ "psychotic", "airhead" ],
+                "hobbies": [ "Crime", "Escaping Prisons", "Hanging out with you~<3" ],
+                "favorite_foods": [ "Fast Food", "Burgers", "Fries", "Pizza", "Ice Cream", "Candy", "Chocolates", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
