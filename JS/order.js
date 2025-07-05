@@ -43,6 +43,12 @@ function memberListLoading(data){
     foodSelect.disabled = true;
     foodSubmissionButton.disabled = true;
 
+    // Add the "Favorites" tab at the top
+    const favoritesOption = document.createElement("option");
+    favoritesOption.value = "__favorites__";
+    favoritesOption.textContent = "★ Favorites";
+    idSelect.appendChild(favoritesOption);
+
     // Populate the ID dropdown
     Object.keys(data).forEach(id => {
         const option = document.createElement("option");
@@ -57,11 +63,21 @@ function memberListLoading(data){
         memberSelect.innerHTML = '<option value="">--Select a Member--</option>'; // Reset members
         memberSelect.disabled = !selectedId;
 
-        if (selectedId && data[selectedId]) {
+        // In the idSelect change event:
+        if (selectedId === "__favorites__") {
+            const favorites = JSON.parse(localStorage.getItem("favorites") || "[]");
+            favorites.forEach(fav => {
+                const option = document.createElement("option");
+                option.value = fav[1]; // memberId (name)
+                option.textContent = fav[1]; // Display name
+                option.setAttribute("data-selected-id", fav[0]); // selectedId
+                memberSelect.appendChild(option);
+            });
+        } else if (selectedId && data[selectedId]) {
             data[selectedId].forEach(member => {
                 const option = document.createElement("option");
                 option.value = member.id;
-                option.textContent = member.name || member.id; // Use name or ID as display text
+                option.textContent = member.name || member.id;
                 memberSelect.appendChild(option);
             });
         }
@@ -72,16 +88,19 @@ function memberListLoading(data){
         const selectedId = idSelect.value;
         const selectedMemberId = memberSelect.value;
 
-        if (selectedId && selectedMemberId) {
-            selectedMember = data[selectedId].find(member => member.id === selectedMemberId);
-            console.log("Selected Member:", selectedMember);
-
-            if (selectedMember && selectedMember.details) {
-                cm = selectedMember.details.cm || null;
-                stuffings = selectedMember.details.stuffings !== undefined ? selectedMember.details.stuffings : 0;
-            } else {
+        if (selectedId === "__favorites__") {
+            const favorites = JSON.parse(localStorage.getItem("favorites") || "[]");
+            const selectedOption = memberSelect.options[memberSelect.selectedIndex];
+            const favSelectedId = selectedOption.getAttribute("data-selected-id");
+            const fav = favorites.find(f => f[1] === selectedMemberId);
+            if (fav) {
+                selectedMember = { id: fav[1], name: fav[1], selectedId: fav[0], details: {} };
                 cm = null;
                 stuffings = 0;
+            } else {
+                selectedMember = null;
+                cm = null;
+                stuffings = null;
             }
 
             // Enable food-related elements
