@@ -93,30 +93,44 @@ function memberListLoading(data){
             const selectedOption = memberSelect.options[memberSelect.selectedIndex];
             const favSelectedId = selectedOption.getAttribute("data-selected-id");
             const fav = favorites.find(f => f[1] === selectedMemberId);
-            if (fav) {
-                selectedMember = { id: fav[1], name: fav[1], selectedId: fav[0], details: {} };
-                cm = null;
-                stuffings = 0;
+            if (fav && data[favSelectedId]) {
+                // Find the actual member object in data
+                const realMember = data[favSelectedId].find(member => member.id === fav[1]);
+                if (realMember) {
+                    selectedMember = { ...realMember, selectedId: favSelectedId };
+                    cm = realMember.details?.cm || null;
+                    stuffings = realMember.details?.stuffings !== undefined ? realMember.details.stuffings : 0;
+                } else {
+                    selectedMember = null;
+                    cm = null;
+                    stuffings = null;
+                }
             } else {
                 selectedMember = null;
                 cm = null;
                 stuffings = null;
             }
-
-            // Enable food-related elements
-            tagSelect.disabled = false;
-            foodSelect.disabled = false;
-            foodSubmissionButton.disabled = false;
+        } else if (selectedId && selectedMemberId) {
+            // Normal ID selection
+            selectedMember = data[selectedId].find(member => member.id === selectedMemberId);
+            if (selectedMember && selectedMember.details) {
+                cm = selectedMember.details.cm || null;
+                stuffings = selectedMember.details.stuffings !== undefined ? selectedMember.details.stuffings : 0;
+            } else {
+                cm = null;
+                stuffings = 0;
+            }
         } else {
             selectedMember = null;
             cm = null;
             stuffings = null;
-
-            // Disable food-related elements
-            tagSelect.disabled = true;
-            foodSelect.disabled = true;
-            foodSubmissionButton.disabled = true;
         }
+
+        // Enable or disable food-related elements
+        tagSelect.disabled = !selectedMember;
+        foodSelect.disabled = !selectedMember;
+        foodSubmissionButton.disabled = !selectedMember;
+
         updateTummySizeDisplay();
     });
 }
