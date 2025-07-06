@@ -265,7 +265,11 @@ function calculateWeightChange(inputCalories) {
 
         console.log("Weight Change:", weightChange);
 
-        weightCheck.textContent = `Weight change: ${weightChange} kg`;
+        // After calculating weightChange
+        const currentWeight = selectedMember?.details?.weight || 0;
+        const newWeight = (Number(currentWeight) + Number(weightChange)).toFixed(1);
+
+        weightCheck.textContent = `Weight change: ${weightChange} kg (New weight: ${newWeight} kg)`;
     } else {
         console.log("Invalid input or BMR not calculated.");
         weightCheck.textContent = "Invalid input or BMR not calculated.";
