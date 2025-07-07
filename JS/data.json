@@ -2648,6 +2648,31 @@
     ],
     "kipteitei": [
         {
+            "id": "Cindy",
+            "pfp": "images/pfp/kipteitei/cindy.png",
+            "details": {
+                "cm": 193,
+                "ft": "6'4\"",
+                "weight": 93,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "25/11",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Full Night Nanny",
+                "status": "Looking forward to seeing you~<3",
+                "personality": [ "hungry", "flirty" ],
+                "hobbies": [ "Babysitting", "Dressing up", "Kissing", "Having Sex" ],
+                "favorite_foods": [ "Fast Food", "Burgers", "Fries", "Pizza", "Hot Dogs", "Lasagna", "Cake", "Pie", "Candy", "Cookies", "Muffins", "Cupcakes", "Chips", "Soda", "Iced Coffee" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Grace",
             "pfp": "images/pfp/kipteitei/grace.png",
             "details": {
