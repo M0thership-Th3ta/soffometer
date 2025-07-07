@@ -2796,6 +2796,30 @@
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Messy", "Sweating", "Gain Multipliers", "Bimbofication" ],
                 "pregnant": false
             }
+        },
+        {
+            "id": "Smaugie",
+            "pfp": "images/pfp/lewdlemage/smaugie.png",
+            "details": {
+                "cm": 744,
+                "ft": "24'5\"",
+                "weight": 1381.1,
+                "body_artist": "cakecatboy",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "24/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "If I get stuck in a castle gate one more fuckin' time",
+                "personality": [ "hungry", "airhead" ],
+                "hobbies": [ "Lazing", "Getting spoiled", "Helping out mages" ],
+                "favorite_foods": [ "Meat", "Water" ],
+                "kinks": [ "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Immobility", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
         }
     ],
     "nijisanji": [
