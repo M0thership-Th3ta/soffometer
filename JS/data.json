@@ -176,6 +176,31 @@
             }
         },
         {
+            "id": "Dido",
+            "pfp": "images/pfp/azur_lane/dido.png",
+            "details": {
+                "cm": 156,
+                "ft": "5'1\"",
+                "weight": 44.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 80,
+                "birthday": "18/7/1939",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Royal Navy",
+                "status": "Eh~? You're looking at my profile? H~hi there!",
+                "personality": [ "girlfailure", "airhead" ],
+                "hobbies": [ "Cleaning", "Cooking", "Dressing up" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Muffins", "Brownies", "Cookies", "Cupcakes", "Scones", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Formidable",
             "pfp": "images/pfp/azur_lane/formidable.png",
             "details": {
@@ -1359,6 +1384,30 @@
             }
         },
         {
+            "id": "AnniePants",
+            "pfp": "images/pfp/indie_vtubers/anniepants.png",
+            "details": {
+                "cm": 153,
+                "ft": "5'0\"",
+                "weight": 43.2,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 22,
+                "birthday": "16/7/2002",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Dumb Puppy for you~<3",
+                "personality": [ "flirty", "airhead" ],
+                "hobbies": [ "Gaming", "Dressing up", "Lounging" ],
+                "favorite_foods": [ "Hamburgers", "Fast Food", "Pizza", "Hot Dogs", "Cake", "Pie", "Donuts", "Cupcakes", "Muffins", "Candy", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Artemis",
             "pfp": "images/pfp/indie_vtubers/artemis.png",
             "details": {
@@ -2475,6 +2524,30 @@
             }
         },
         {
+            "id": "Toma",
+            "pfp": "images/pfp/indie_vtubers/toma.png",
+            "details": {
+                "cm": 151,
+                "ft": "4'11\"",
+                "weight": 42.1,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "16/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "high",
+                "gender": "Female",
+                "status": "Boxing!",
+                "personality": [ "fit", "motivated" ],
+                "hobbies": [ "Working out", "Boxing", "Hanging out with friends" ],
+                "favorite_foods": [ "Protein", "Home-cooked Meals", "Barbeque", "Rice", "Water" ],
+                "kinks": [ "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Coercion", "Crushing", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Unou",
             "pfp": "images/pfp/indie_vtubers/unou.png",
             "details": {
@@ -2596,6 +2669,30 @@
                 "hobbies": [ "Management", "Looking good", "Snacking" ],
                 "favorite_foods": [ "Fast Food", "Big Meals", "Lobster", "Burgers", "Fries", "Barbeque", "Steak", "Cake", "Pie", "Donuts", "Brownies", "Cupcakes", "Cookies", "Candy", "Chocolates", "Pizza", "Pasta", "Soda", "Milkshakes", "Coffee" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Kat",
+            "pfp": "images/pfp/kipteitei/kat.png",
+            "details": {
+                "cm": 171,
+                "ft": "5'7\"",
+                "weight": 73,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 21,
+                "birthday": "19/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "What are you looking here for, My sister is right next to my profile. Go look at hers.",
+                "personality": [ "sarcastic", "hungry" ],
+                "hobbies": [ "Teasing her sister", "Feeding her sister", "Squishing tummies" ],
+                "favorite_foods": [ "Fast Food", "Burgers", "Fries", "Pizza", "Nuggets", "Seafood", "Cookies", "Cake", "Pie", "Candy", "Muffins", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
@@ -2951,6 +3048,31 @@
                 "hobbies": ["Baking", "Eating", "Cooking", "Snacking", "Taste-testing"],
                 "favorite_foods": ["Baked goods", "Sweets", "Snacks", "Bread", "Cake", "Pastries", "Donuts", "Crepes", "Pancakes", "Cookies", "Brownies", "Cupcakes", "Chocolate", "Candy", "Candy Bars", "Soda", "Milkshakes"],
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Hypnotism", "Bimbofication", "Trophee Wife", "Corruption", "Coercion", "Crushing", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers"],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Dorothy",
+            "pfp": "images/pfp/nikke/dorothy.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "16/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Inherit - Pilgrim",
+                "status": "How kind of you to check in~<3",
+                "personality": [ "psychotic" ],
+                "hobbies": [ "Stalking", "Battling", "Destroying" ],
+                "favorite_foods": [ "Home-Cooked Meals", "Pastries", "Cake", "Pie", "Muffins", "Candy", "Chocolates", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Hypnotism", "Coercion", "False Diet Advice", "Crushing", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
