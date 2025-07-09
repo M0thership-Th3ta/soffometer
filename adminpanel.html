@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin Panel</title>
-    <script src="JS/admincontrols.js" defer></script>
-    <script src="JS/jsoncreator.js" defer></script>
+    <script type="module" src="JS/admincontrols.js" defer></script>
+    <script type="module" src="JS/jsoncreator.js" defer></script>
     <link rel="stylesheet" href="CSS/style.css">
 </head>
 <body>
@@ -151,6 +151,19 @@
     <div id="json-output">
         <h2>JSON Output</h2>
         <pre id="json-display"></pre>
+    </div>
+
+    <div id="kinks-list">
+        <h2>Kinks Selector</h2>
+        <div>
+            <label for="member-kink-select">Select kink:</label>
+            <select id="member-kink-select">
+                <option value="">--Select a kink--</option>
+            </select>
+        </div>
+        <ul id="members-kinks-ul">
+            <!-- Kinks will be populated here -->
+        </ul>
     </div>
 </body>
 </html>

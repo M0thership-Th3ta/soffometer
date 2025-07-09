@@ -4,6 +4,8 @@ window.addEventListener('load', init);
 let weight, cm, age;
 let BMR, mealCalories;
 let selectedMember;
+import { defaultKinks } from './jsoncreator.js';
+let globalData = null;
 
 function init(){
     loadData("JS/data.json", memberListLoading);
@@ -42,6 +44,7 @@ function errorHandler(error){
 }
 
 function memberListLoading(data){
+    globalData = data;
     const idSelect = document.querySelector("#id-select");
     const memberSelect = document.querySelector("#member-select");
 
@@ -114,6 +117,16 @@ function memberListLoading(data){
     });
     // Populate the heaviest list
     populateHeaviestList(data);
+    populateKinkSelect();
+    const kinkSelect = document.getElementById('member-kink-select');
+    const membersList = document.getElementById('members-kinks-ul');
+    if (kinkSelect && membersList) {
+        kinkSelect.addEventListener('change', function() {
+            const selectedKink = this.value;
+            const members = listMembersWithKink(selectedKink);
+            membersList.innerHTML = members.map(name => `<li>${name}</li>`).join('');
+        });
+    }
 }
 
 function calculateDaysToBirthday(member) {
@@ -275,3 +288,40 @@ function calculateWeightChange(inputCalories) {
         weightCheck.textContent = "Invalid input or BMR not calculated.";
     }
 }
+
+function populateKinkSelect() {
+    const select = document.getElementById('member-kink-select');
+    if (!select) return;
+    select.innerHTML = '';
+    defaultKinks.forEach(kink => {
+        const option = document.createElement('option');
+        option.value = kink;
+        option.textContent = kink;
+        select.appendChild(option);
+    });
+}
+
+function listMembersWithKink(kink) {
+    const result = [];
+    if (!globalData) return result;
+    Object.values(globalData).forEach(group => {
+        group.forEach(member => {
+            if (member.details && Array.isArray(member.details.kinks) && member.details.kinks.includes(kink)) {
+                result.push(member.name || member.id);
+            }
+        });
+    });
+    return result;
+}
+
+// Populate on page load
+document.addEventListener('DOMContentLoaded', () => {
+    populateKinkSelect();
+    document.getElementById('member-kink-select').addEventListener('change', function() {
+        const selectedKink = this.value;
+        const members = listMembersWithKink(selectedKink);
+        // Display the result as you wish, e.g. in #member-list
+        const list = document.getElementById('members-kinks-ul');
+        list.innerHTML = members.map(name => `<li>${name}</li>`).join('');
+    });
+});
