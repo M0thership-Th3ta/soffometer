@@ -346,11 +346,23 @@
   "betterwithsalt": [
     {
       "size": 21,
-      "img": "images/body/BWS/BWS0.png"
+      "img": "images/body/BWS/BWS21.png"
     },
     {
-      "size": 22,
-      "img": ""
+      "size": 24,
+      "img": "images/body/BWS/BWS24.png"
+    },
+    {
+      "size": 27,
+      "img": "images/body/BWS/BWS27.png"
+    },
+    {
+      "size": 32,
+      "img": "images/body/BWS/BWS32.png"
+    },
+    {
+      "size": 36,
+      "img": "images/body/BWS/BWS36.png"
     }
   ],
   "davielwithfries": [
