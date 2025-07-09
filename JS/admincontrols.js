@@ -125,6 +125,18 @@ function memberListLoading(data){
             const selectedKink = this.value;
             const members = listMembersWithKink(selectedKink);
             membersList.innerHTML = members.map(name => `<li>${name}</li>`).join('');
+            addRandomPicker('random-kink-btn', 'members-kinks-ul', 'random-kink-result');
+        });
+    }
+    populateFoodSelect();
+    const foodSelect = document.getElementById('member-food-select');
+    const membersFoodList = document.getElementById('members-food-ul');
+    if (foodSelect && membersFoodList) {
+        foodSelect.addEventListener('change', function() {
+            const selectedFood = this.value;
+            const members = listMembersWithFood(selectedFood);
+            membersFoodList.innerHTML = members.map(name => `<li>${name}</li>`).join('');
+            addRandomPicker('random-food-btn', 'members-food-ul', 'random-food-result');
         });
     }
 }
@@ -325,3 +337,75 @@ document.addEventListener('DOMContentLoaded', () => {
         list.innerHTML = members.map(name => `<li>${name}</li>`).join('');
     });
 });
+
+function populateFoodSelect() {
+    const select = document.getElementById('member-food-select');
+    if (!select || !globalData) return;
+
+    // Collect all unique favorite foods
+    const foodSet = new Set();
+    Object.values(globalData).forEach(group => {
+        group.forEach(member => {
+            if (member.details && Array.isArray(member.details.favorite_foods)) {
+                member.details.favorite_foods.forEach(food => foodSet.add(food));
+            }
+        });
+    });
+
+    // Convert to array and sort alphabetically
+    const sortedFoods = Array.from(foodSet).sort((a, b) => a.localeCompare(b));
+
+    // Populate the select menu
+    select.innerHTML = '';
+    sortedFoods.forEach(food => {
+        const option = document.createElement('option');
+        option.value = food;
+        option.textContent = food;
+        select.appendChild(option);
+    });
+}
+
+function listMembersWithFood(food) {
+    const result = [];
+    if (!globalData) return result;
+    Object.values(globalData).forEach(group => {
+        group.forEach(member => {
+            if (
+                member.details &&
+                Array.isArray(member.details.favorite_foods) &&
+                member.details.favorite_foods.includes(food)
+            ) {
+                result.push(member.name || member.id);
+            }
+        });
+    });
+    return result;
+}
+
+function addRandomPicker(buttonId, listId, resultId) {
+    let button = document.getElementById(buttonId);
+    let result = document.getElementById(resultId);
+
+    if (!button) {
+        button = document.createElement('button');
+        button.id = buttonId;
+        button.textContent = 'Pick Random Member';
+        document.getElementById(listId).after(button);
+    }
+    if (!result) {
+        result = document.createElement('div');
+        result.id = resultId;
+        button.after(result);
+    }
+
+    button.onclick = function() {
+        const list = document.getElementById(listId);
+        const items = Array.from(list.querySelectorAll('li'));
+        if (items.length === 0) {
+            result.textContent = 'No members to pick from.';
+            return;
+        }
+        const randomItem = items[Math.floor(Math.random() * items.length)];
+        result.textContent = `Random member: ${randomItem.textContent}`;
+    };
+}
