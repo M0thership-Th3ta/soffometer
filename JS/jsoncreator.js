@@ -1,7 +1,7 @@
 window.addEventListener('load', init);
 
 // Globals
-export const defaultKinks = ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers"];
+export const defaultKinks = ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers"];
 
 function init() {
     console.log("Initializing application...");
@@ -81,7 +81,7 @@ function setupGenerateJsonButton(button, display, selectedPersonalities, selecte
         if (newMember) {
             console.log("Generated JSON object:", newMember);
             display.textContent = JSON.stringify(newMember, null, 2)
-                .replace(/\[\s+([^\]]+)\s+\]/g, (match, arrayContent) => {
+                .replace(/\[\s+([^\]]+)\s+]/g, (match, arrayContent) => {
                     return `[ ${arrayContent.trim().replace(/\s+/g, ' ')} ]`;
                 });
         } else {
