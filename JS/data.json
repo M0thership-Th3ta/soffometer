@@ -3500,6 +3500,30 @@
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
+        },
+        {
+            "id": "Zelda",
+            "pfp": "images/pfp/scene/zelda.png",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 52.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "18/3",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Exploring!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Exploring", "Cooking", "Taking care of her people." ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Chocolates", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "Crushing", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
         }
     ],
     "synthwave": [
