@@ -3576,6 +3576,31 @@
             }
         },
         {
+            "id": "Peach",
+            "pfp": "images/pfp/synthwave/peach.png",
+            "details": {
+                "cm": 186,
+                "ft": "6'1\"",
+                "weight": 63.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "6/11",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Super Mario",
+                "status": "Please come to the castle~<3",
+                "personality": [ "airhead", "flirty" ],
+                "hobbies": [ "Dressing up", "Having Tea Parties", "Making sure her kingdom is ruled properly" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Muffins", "Cookies", "Fruit", "Ice Cream. Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Rosalina",
             "pfp": "images/pfp/synthwave/rosalina.png",
             "details": {
