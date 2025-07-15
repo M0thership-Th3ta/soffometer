@@ -3576,6 +3576,31 @@
             }
         },
         {
+            "id": "Palutena",
+            "pfp": "images/pfp/synthwave/palutena.png",
+            "details": {
+                "cm": 176,
+                "ft": "5'9\"",
+                "weight": 57.2,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "29/1",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Kid Icarus",
+                "status": "Come lay down with me~",
+                "personality": [ "sleepy", "motherly" ],
+                "hobbies": [ "Lazing", "Getting pampered and spoiled", "Napping" ],
+                "favorite_foods": [ "Fast Food", "Burgers", "Fries", "Hot Dogs", "Sushi", "Cake", "Pie", "Chips", "Candy", "Cookies", "Muffins", "Brownies", "Chocolates", "Pizza", "Soda", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Peach",
             "pfp": "images/pfp/synthwave/peach.png",
             "details": {
