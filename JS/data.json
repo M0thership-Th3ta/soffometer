@@ -580,6 +580,30 @@
     ],
     "frutiger_aero": [
         {
+            "id": "Frankie",
+            "pfp": "images/pfp/frutiger_aero/frankie.png",
+            "details": {
+                "cm": 172,
+                "ft": "5'8\"",
+                "weight": 54.6,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 35,
+                "birthday": "25/7/1985",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Willing to hang out of you've got cookies~<3",
+                "personality": [ "sarcastic", "hungry" ],
+                "hobbies": [ "Helping people", "Listening to music", "Reading comics" ],
+                "favorite_foods": [ "Cookies", "Pastries", "Cake", "Pie", "Chocolates", "Candy", "Soda", "Iced Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Kitty",
             "pfp": "images/pfp/frutiger_aero/kitty.png",
             "details": {
@@ -3479,6 +3503,30 @@
         }
     ],
     "synthwave": [
+        {
+            "id": "Grace",
+            "pfp": "images/pfp/synthwave/grace.jpg",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 52.1,
+                "body_artist": "cakecatboy",
+                "obese_artist": "plumpknight",
+                "age": 20,
+                "birthday": "4/3/2002",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Wanna listen to Nirvana with me?",
+                "personality": [ "cool" ],
+                "hobbies": [ "Playing guitar", "Listening to Music", "Composing new songs" ],
+                "favorite_foods": [ "Snacks", "Burgers", "Hotdogs", "Candy", "Cookies", "Chocolates", "Soda" ],
+                "kinks": [ "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Coercion", "Crushing", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
         {
             "id": "Rosalina",
             "pfp": "images/pfp/synthwave/rosalina.png",
