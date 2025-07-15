@@ -3452,6 +3452,30 @@
                 "kinks": ["Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Body worship", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Fast Food Employment", "Vacation Gains", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers"],
                 "pregnant": false
             }
+        },
+        {
+            "id": "Sarah",
+            "pfp": "images/pfp/scene/sarah.png",
+            "details": {
+                "cm": 158,
+                "ft": "5'2\"",
+                "weight": 62.3,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": 20,
+                "birthday": "2/1",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Wanna watch anime with me~?",
+                "personality": [ "airhead" ],
+                "hobbies": [ "Watching anime", "Eating Sushi", "Reading Doujinshi", "Attending cons" ],
+                "favorite_foods": [ "Sushi", "Ramen", "Mochi", "Parfait", "Soju", "Sake" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
         }
     ],
     "synthwave": [
