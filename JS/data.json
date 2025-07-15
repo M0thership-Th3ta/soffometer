@@ -2696,6 +2696,31 @@
     ],
     "kipteitei": [
         {
+            "id": "Aika",
+            "pfp": "images/pfp/kipteitei/aika.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 89.5,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 19,
+                "birthday": "25/11/2004",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "One Serving Choice!",
+                "status": "Snacking or at church!",
+                "personality": [ "hungry", "airhead" ],
+                "hobbies": [ "Doing church service", "Eating", "Playing Pokemon" ],
+                "favorite_foods": [ "Burgers", "Fries", "Chicken", "Pizza", "Hot Dogs", "Cake", "Pie", "Parfait", "Donuts", "Muffins", "Brownies", "Chocolates", "Candy", "Cookies", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Cindy",
             "pfp": "images/pfp/kipteitei/cindy.png",
             "details": {
