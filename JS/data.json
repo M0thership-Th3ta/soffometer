@@ -3504,6 +3504,30 @@
     ],
     "synthwave": [
         {
+            "id": "Emilia",
+            "pfp": "images/pfp/synthwave/emilia.png",
+            "details": {
+                "cm": 145,
+                "ft": "4'9\"",
+                "weight": 38.8,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": 20,
+                "birthday": "10/2/2003",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "You're looking pretty yummy~",
+                "personality": [ "hungry", "airhead" ],
+                "hobbies": [ "Eating", "Drinking", "Lazing" ],
+                "favorite_foods": [ "Anything" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Cheerleading", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Grace",
             "pfp": "images/pfp/synthwave/grace.jpg",
             "details": {
