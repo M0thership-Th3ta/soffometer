@@ -409,12 +409,24 @@
       "img": "images/body/ECB/ECB33.png"
     },
     {
-      "size": 35,
-      "img": "images/body/ECB/ECB35.png"
+      "size": 36,
+      "img": "images/body/ECB/ECB36.png"
+    },
+    {
+      "size": 39,
+      "img": "images/body/ECB/ECB39.png"
     },
     {
       "size": 45,
       "img": "images/body/ECB/ECB45.png"
+    },
+    {
+      "size": 72,
+      "img": "images/body/ECB/ECB72.png"
+    },
+    {
+      "size": 100,
+      "img": "images/body/ECB/ECB100.png"
     }
   ],
   "plumpknight": [
