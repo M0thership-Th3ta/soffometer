@@ -37,6 +37,17 @@
   ],
   "indie_vtubers": [
     {
+      "id": "Matara",
+      "posts": [
+        {
+          "type": "image",
+          "title": "These go so hard when you're reading tea",
+          "date": "2025-07-22",
+          "source": "images/posts/pizza_rolls.jpg"
+        }
+      ]
+    },
+    {
       "id": "Mint",
       "posts": [
         {
