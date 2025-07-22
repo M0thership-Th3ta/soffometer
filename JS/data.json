@@ -529,6 +529,30 @@
     ],
     "fire_emblem": [
         {
+            "id": "Ninian",
+            "pfp": "images/pfp/fire_emblem/ninian.png",
+            "details": {
+                "cm": 158,
+                "ft": "5'2\"",
+                "weight": 46.1,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": 39,
+                "birthday": "1/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Dancing or Tailoring",
+                "personality": [ "motherly" ],
+                "hobbies": [ "Dancing", "Tailoring", "Singing" ],
+                "favorite_foods": [ "Cake", "Pie", "Brownies", "Cookies", "Chocolates", "Muffins", "Cupcakes", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Camilla",
             "pfp": "images/pfp/fire_emblem/camilla.png",
             "details": {
@@ -549,6 +573,31 @@
                 "hobbies": [ "Taking care of others", "Cooking", "Baking", "Reading", "Dressing up" ],
                 "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Brownies", "Protein", "Water", "Wine" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Dorothea",
+            "pfp": "images/pfp/fire_emblem/dorothea.png",
+            "details": {
+                "cm": 170,
+                "ft": "5'7\"",
+                "weight": 53.4,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "educabezon",
+                "age": 21,
+                "birthday": "29/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Black Eagles",
+                "status": "Listening to Opera",
+                "personality": [ "flirty", "airhead" ],
+                "hobbies": [ "Making clothes", "Listening to Opera", "Being around high-class individuals" ],
+                "favorite_foods": [ "Cake", "Pie", "Brownies", "Cookies", "Cupcakes", "Muffins", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
