@@ -37,6 +37,17 @@
   ],
   "indie_vtubers": [
     {
+      "id": "Artemis",
+      "posts": [
+        {
+          "type": "image",
+          "title": "I get the appeal now.",
+          "date": "2025-07-22",
+          "source": "images/posts/pizza_rolls.jpg"
+        }
+      ]
+    },
+    {
       "id": "Matara",
       "posts": [
         {
