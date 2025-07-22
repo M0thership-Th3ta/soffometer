@@ -1770,6 +1770,30 @@
             }
         },
         {
+            "id": "GEEGA",
+            "pfp": "images/pfp/indie_vtubers/geega.png",
+            "details": {
+                "cm": 147,
+                "ft": "4'10\"",
+                "weight": 39.9,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "adiposesaleswoman",
+                "age": 876,
+                "birthday": "20/8/1147",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Working on my redebuts",
+                "personality": [ "motivated", "fit" ],
+                "hobbies": [ "Gaming", "Sacrificing people", "Emitting radiation" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Ice Cream", "Donuts", "Cake", "Pie", "Brownies", "Cookies", "Candy", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Immobility", "Cosplay", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Grimmi",
             "pfp": "images/pfp/indie_vtubers/grimmi.png",
             "details": {
@@ -1815,6 +1839,30 @@
                 "hobbies": [ "Gaming (particularly shooters)", "Singing", "Collecting Swords", "Drawing" ],
                 "favorite_foods": [ "Meat", "Burgers", "BBQ", "Fried Chicken", "Cake", "Cupcakes", "Muffins", "Chocolates", "Brownies", "Water", "Wine", "Beer", "Sake", "Liquor" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Ironmouse",
+            "pfp": "images/pfp/indie_vtubers/ironmouse.png",
+            "details": {
+                "cm": 147,
+                "ft": "4'10\"",
+                "weight": 39.9,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": 6669,
+                "birthday": "11/1",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Recovering",
+                "personality": [ "motivated", "sarcastic" ],
+                "hobbies": [ "Streaming", "Singing", "Charity Work" ],
+                "favorite_foods": [ "Candy", "Chocolate", "Cake", "Cupcakes", "Cookies", "Mochi", "Tea", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
@@ -1911,6 +1959,30 @@
                 "hobbies": [ "Working Out", "Taking care of", "Planning", "Organizing", "Management plants", "" ],
                 "favorite_foods": [ "Protein", "Vegetables", "Water" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Kson",
+            "pfp": "images/pfp/indie_vtubers/kson.png",
+            "details": {
+                "cm": 189,
+                "ft": "6'2\"",
+                "weight": 66,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "1/11",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Putting motherfuckers on blast!",
+                "personality": [ "motivated", "fit" ],
+                "hobbies": [ "Gaming", "Streaming", "Helping people out" ],
+                "favorite_foods": [ "Pizza", "Burgers", "Fries", "Protein", "Hot Dogs", "Barbeque", "Tacos", "Ramen", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
@@ -2592,6 +2664,30 @@
                 "hobbies": [ "Watching horror movies", "Playing horror games", "Practicing politeness" ],
                 "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Brownies", "Waffles", "Pancakes", "Fruit", "Tea" ],
                 "kinks": [ "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Veibae",
+            "pfp": "images/pfp/indie_vtubers/vei.png",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 52.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "10/12",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Watching food videos",
+                "personality": [ "girlfailure", "hungry" ],
+                "hobbies": [ "Drinking", "Snacking", "Hanging out with friends" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Cake", "Pie", "Waffles", "Pancakes", "Cookies", "Chips", "Candies", "Hot Dogs", "Brownies", "Chocolates", "Donuts", "Ice Cream", "Soda", "Energy Drinks", "Beer", "Liquor", "Spirits" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
