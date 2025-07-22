@@ -2621,7 +2621,7 @@
         },
         {
             "id": "Zentreya",
-            "pfp": "images/pfp/indie_vtuber/zentreya.png",
+            "pfp": "images/pfp/indie_vtubers/zentreya.png",
             "details": {
                 "cm": 177,
                 "ft": "5'10\"",
@@ -3727,6 +3727,30 @@
         }
     ],
     "vshojo": [
+        {
+            "id": "Froot",
+            "pfp": "images/pfp/vshojo/froot.png",
+            "details": {
+                "cm": 155,
+                "ft": "5'1\"",
+                "weight": 45,
+                "body_artist": "orristerioso",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "22/10",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Preparing my return~!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Drawing", "Singing", "Hanging out with friends." ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Scones", "Brownies", "Cookies", "Candy", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
         {
             "id": "Hime",
             "pfp": "images/pfp/vshojo/hime.png",
