@@ -438,5 +438,15 @@
       "size": 42,
       "img": "images/body/PK/PK42.png"
     }
+  ],
+  "instantgirl": [
+    {
+      "size": 0,
+      "img": "images/body/IG/IG0.png"
+    },
+    {
+      "size": 18,
+      "img": "images/body/IG/IG18.png"
+    }
   ]
 }
