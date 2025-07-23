@@ -503,6 +503,30 @@
     ],
     "dragon_maid": [
         {
+            "id": "Elma",
+            "pfp": "images/pfp/dragon_maid/elma.png",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 52.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "8/2",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "At work probably",
+                "personality": [ "sarcastic", "hungry" ],
+                "hobbies": [ "Working", "Snacking", "Teasing Tohru" ],
+                "favorite_foods": [ "Pastries", "Cookies", "Cake", "Pie", "Brownies", "Cupcakes", "Muffins", "Candy", "Burgers", "Meat", "Soda", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Lucoa",
             "pfp": "images/pfp/dragon_maid/lucoa.png",
             "details": {
