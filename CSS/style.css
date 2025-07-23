@@ -364,6 +364,14 @@ div .user-info-subsection {
     font-size: 14px;
 }
 
+#member-favorite-foods {
+    width: 600px; /* Adjust as needed */
+    height: 80px; /* Optional: makes it taller */
+    resize: none;
+    overflow: auto;   /* Shows scrollbars if needed */
+    white-space: pre-wrap; /* Ensures text wraps */
+}
+
 .victory {
     animation: borderColorChange 2s ease-in-out infinite;
 }
