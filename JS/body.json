@@ -448,5 +448,11 @@
       "size": 18,
       "img": "images/body/IG/IG18.png"
     }
+  ],
+  "lewdlemage": [
+    {
+      "size": 0,
+      "img": "images/body/LM/LM0.png"
+    }
   ]
 }
