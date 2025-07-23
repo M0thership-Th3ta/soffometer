@@ -525,6 +525,30 @@
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
+        },
+        {
+            "id": "Tohru",
+            "pfp": "images/pfp/dragon_maid/tohru.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "14/11",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Cooking for you~<3",
+                "personality": [ "motivated", "flirty" ],
+                "hobbies": [ "Cooking", "Cleaning", "Taking care of others" ],
+                "favorite_foods": [ "Protein", "Burgers", "Pizza", "Meat", "Barbeque", "Crepes", "Parfait", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
         }
     ],
     "fire_emblem": [
@@ -1864,6 +1888,30 @@
                 "hobbies": [ "Gaming", "Reading", "Listening to Music", "Looking at Cats", "Petting Cats", "Playing with Cats" ],
                 "favorite_foods": [ "Snacks", "Candy", "Ramen", "Cherries", "Nectarines", "Take-Out", "Doordash", "Pizza", "Energy Drinks", "Soda", "Coffee" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Immobility", "Hypnotism", "Corruption", "Coercion", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Haruka",
+            "pfp": "images/pfp/indie_vtubers/haruka.png",
+            "details": {
+                "cm": 163,
+                "ft": "5'4\"",
+                "weight": 49.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 30,
+                "birthday": "12/3/1995",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Hanging out with Zen",
+                "personality": [ "motherly", "girlfailure" ],
+                "hobbies": [ "Hanging out with friends", "Looking at fanart", "Comfy streams" ],
+                "favorite_foods": [ "Burgers", "Fries", "Cake", "Pie", "Brownies", "Chocolates", "Candy", "Cookies", "Waffles", "Soda", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
@@ -3990,30 +4038,6 @@
                 "hobbies": [ "Drawing", "Singing", "Hanging out with friends." ],
                 "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Scones", "Brownies", "Cookies", "Candy", "Tea" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
-                "pregnant": false
-            }
-        },
-        {
-            "id": "Haruka",
-            "pfp": "images/pfp/vshojo/haruka.png",
-            "details": {
-                "cm": 163,
-                "ft": "5'4\"",
-                "weight": 49.1,
-                "body_artist": "kipteitei",
-                "obese_artist": "educabezon",
-                "age": 30,
-                "birthday": "12/3/1995",
-                "level": 0,
-                "stuffings": 0,
-                "diet": "low",
-                "exercise": "none",
-                "gender": "Female",
-                "status": "Hanging out with Zen",
-                "personality": [ "motherly", "girlfailure" ],
-                "hobbies": [ "Hanging out with friends", "Looking at fanart", "Comfy streams" ],
-                "favorite_foods": [ "Burgers", "Fries", "Cake", "Pie", "Brownies", "Chocolates", "Candy", "Cookies", "Waffles", "Soda", "Tea" ],
-                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         }
