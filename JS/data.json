@@ -2981,6 +2981,78 @@
     ],
     "instant_girl": [
         {
+            "id": "Angel",
+            "pfp": "images/pfp/instant_girl/angel.png",
+            "details": {
+                "cm": 167,
+                "ft": "5'6\"",
+                "weight": 69.6,
+                "body_artist": "instantgirl",
+                "obese_artist": "instantgirl",
+                "age": "Unknown",
+                "birthday": "28/2",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Praying for you~!",
+                "personality": [ "hungry", "motherly" ],
+                "hobbies": [ "Doing good", "Praying", "Snacking" ],
+                "favorite_foods": [ "Pancakes", "Cake", "Pie", "Muffins", "Cupcakes", "Cookies", "Water", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Cuddling", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Cheerleading", "Trophee Wife", "Vacation Gains", "Coercion", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Devil",
+            "pfp": "images/pfp/instant_girl/devil.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 68,
+                "body_artist": "instantgirl",
+                "obese_artist": "instantgirl",
+                "age": "Unknown",
+                "birthday": "2/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Am I corrupting you~? Good~",
+                "personality": [ "hungry", "girlfailure" ],
+                "hobbies": [ "Snacking", "Making you worship her", "Dressing up" ],
+                "favorite_foods": [ "Candy", "Cookies", "Burgers", "Fries", "Chips", "Soda", "Energy Drinks", "Wine", "Spirits" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Chloe",
+            "pfp": "images/pfp/instant_girl/chloe.png",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 70.5,
+                "body_artist": "instantgirl",
+                "obese_artist": "instantgirl",
+                "age": 20,
+                "birthday": "25/11/2001",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Sleeping in~",
+                "personality": [ "hungry", "sleepy" ],
+                "hobbies": [ "Snacking", "Napping", "Hanging out with friends." ],
+                "favorite_foods": [ "Cookies", "Fruit", "Cake", "Pie", "Pizza", "Fast Food", "Donuts", "Muffins", "Cupcakes", "Candy", "Milk", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Bimbofication", "Cheerleading", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Iggy",
             "pfp": "images/pfp/instant_girl/iggy.png",
             "details": {
@@ -3025,6 +3097,78 @@
                 "hobbies": [ "Shopping", "Snacking", "Sunbathing", "Yoga" ],
                 "favorite_foods": [ "Chips", "Donuts", "Pastries", "Brownies", "Cake", "Pie", "Cupcakes", "Eclairs", "Candy", "Chocolates", "Milkshakes", "Coffee", "Iced Coffee" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Lilac",
+            "pfp": "images/pfp/instant_girl/lilac.png",
+            "details": {
+                "cm": 155,
+                "ft": "5'1\"",
+                "weight": 60,
+                "body_artist": "instantgirl",
+                "obese_artist": "instantgirl",
+                "age": 20,
+                "birthday": "22/4/1994",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Resting and waiting for the next school year~",
+                "personality": [ "motivated", "hungry" ],
+                "hobbies": [ "Teaching", "Researching", "Resting" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Muffins", "Cheese Ice Cream", "Energy Drinks", "Coffee" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Cuddling", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers", "Body worship" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Vicky",
+            "pfp": "images/pfp/instant_girl/vicky.png",
+            "details": {
+                "cm": 190,
+                "ft": "6'3\"",
+                "weight": 90.1,
+                "body_artist": "instantgirl",
+                "obese_artist": "instantgirl",
+                "age": 20,
+                "birthday": "13/3/2003",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Coffee and Cake doesn't judge me like other's would.",
+                "personality": [ "hungry", "sarcastic" ],
+                "hobbies": [ "Dressing up", "Doing make-up. Shopping", "Clubbing" ],
+                "favorite_foods": [ "Desserts", "Cake", "Pie", "Donuts", "Muffins", "Cupcakes", "Cookies", "Parfait", "Ice Cream", "Milkshakes", "Coffee", "Wine", "Shots" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Body worship", "Immobility", "Cosplay", "Bimbofication", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Rikki",
+            "pfp": "images/pfp/instant_girl/rikki.png",
+            "details": {
+                "cm": 148,
+                "ft": "4'10\"",
+                "weight": 54.7,
+                "body_artist": "instantgirl",
+                "obese_artist": "instantgirl",
+                "age": 20,
+                "birthday": "20/4/2004",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Gaming!",
+                "personality": [ "hungry", "retro" ],
+                "hobbies": [ "Gaming", "Streaming", "Snacking" ],
+                "favorite_foods": [ "Snacks", "Cookies", "Candy", "Chips Fast Food", "Burgers", "Pizza", "Hot Dogs", "Soda", "Energy Drinks", "Coffee" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         }
