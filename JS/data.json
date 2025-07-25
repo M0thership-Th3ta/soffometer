@@ -1350,6 +1350,31 @@
             }
         },
         {
+            "id": "IRyS",
+            "pfp": "images/pfp/hololive/irys.png",
+            "details": {
+                "cm": 166,
+                "ft": "5'5\"",
+                "weight": 50.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "7/3",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Project: HOPE",
+                "status": "Singing~",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Singing", "Performing", "Traveling" ],
+                "favorite_foods": [ "Ramen", "Mochi", "Pastries", "Cake", "Pie", "Donuts", "Muffins", "Brownies", "Chocolates", "Cookies", "Candy", "Fruit", "Soda", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Kronii",
             "pfp": "images/pfp/hololive/kronii.png",
             "details": {
