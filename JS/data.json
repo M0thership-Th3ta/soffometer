@@ -1175,6 +1175,31 @@
             }
         },
         {
+            "id": "Moona",
+            "pfp": "images/pfp/hololive/moona.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "15/2",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive ID Gen 1",
+                "status": "Thinking about burgers",
+                "personality": [ "flirty", "hungry" ],
+                "hobbies": [ "Dressing up", "Snacking", "Hanging out" ],
+                "favorite_foods": [ "Burgers", "Fries", "Cake", "Pie", "Donuts", "Muffins", "Cupcakes", "Waffles", "Pancakes", "Ice Cream", "Parfait", "Cookies", "Chips", "Pizza", "Fried Chicken", "Cupcakes", "Chocolates", "Brownies", "Iced Tea", "Coffee", "Soda", "Beer", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Iofi",
             "pfp": "images/pfp/hololive/iofi.png",
             "details": {
