@@ -1175,6 +1175,31 @@
             }
         },
         {
+            "id": "Risu",
+            "pfp": "images/pfp/hololive/risu.png",
+            "details": {
+                "cm": 153,
+                "ft": "5'0\"",
+                "weight": 43.2,
+                "body_artist": "orristerioso",
+                "obese_artist": "plumpknight",
+                "age": 18,
+                "birthday": "15/1/2003",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive ID Gen 1",
+                "status": "Hi there~!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Hanging out with friends", "Pulling pranks", "Laughing" ],
+                "favorite_foods": [ "Nuts", "Cake", "Pie", "Donuts", "Cookies", "Pastries", "Tea", "Milkshakes" ],
+                "kinks": [ "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Moona",
             "pfp": "images/pfp/hololive/moona.png",
             "details": {
