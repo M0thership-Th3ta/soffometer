@@ -1425,6 +1425,31 @@
             }
         },
         {
+            "id": "Fauna",
+            "pfp": "images/pfp/hololive/fauna.png",
+            "details": {
+                "cm": 164,
+                "ft": "5'5\"",
+                "weight": 49.7,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": 4500000000,
+                "birthday": "21/3",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "HoloCouncil",
+                "status": "Hehe~ How kind of you to check in on me~",
+                "personality": [ "motherly", "flirty" ],
+                "hobbies": [ "Taking care of animals", "Taking care of plants", "Doing ASMR", "Drinking Tea with friends." ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Vegetables", "Fruit", "Muffins", "Cupcakes", "Donuts", "Brownies", "Cookies", "Tea", "Iced Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Shiori",
             "pfp": "images/pfp/hololive/shiori.png",
             "details": {
