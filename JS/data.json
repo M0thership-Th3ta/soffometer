@@ -980,13 +980,13 @@
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
-                "weight": 74.1,
+                "weight": 75,
                 "body_artist": "adiposesaleswoman",
                 "obese_artist": "educabezon",
                 "age": 25,
                 "birthday": "20/8/1996",
                 "level": 0,
-                "stuffings": 0,
+                "stuffings": 1,
                 "diet": "medium",
                 "exercise": "none",
                 "gender": "Female",
@@ -1860,6 +1860,30 @@
                 "hobbies": [ "Licking people", "Sex", "Exploring Kinks" ],
                 "favorite_foods": [ "Burgers", "Pizza", "Fast Food", "Cake", "Pie", "BBQ", "Muffins", "Cupcakes", "Chocolates", "Strawberries", "Chocolate Strawberries", "Soda", "Milk", "Milkshakes", "Beer", "Liquor" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Froot",
+            "pfp": "images/pfp/indie_vtubers/froot.png",
+            "details": {
+                "cm": 155,
+                "ft": "5'1\"",
+                "weight": 45,
+                "body_artist": "orristerioso",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "22/10",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Preparing my return~!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Drawing", "Singing", "Hanging out with friends." ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Scones", "Brownies", "Cookies", "Candy", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
@@ -4346,32 +4370,6 @@
                 "hobbies": [ "Helping people with their smallest pleasures", "Praying", "Working out", "Stuffing herself" ],
                 "favorite_foods": [ "Protein", "Home-Cooked Meals", "Vegetables", "Fruit", "Cake", "Cupcakes", "Water", "Wine" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
-                "pregnant": false
-            }
-        }
-    ],
-    "vshojo": [
-        {
-            "id": "Froot",
-            "pfp": "images/pfp/vshojo/froot.png",
-            "details": {
-                "cm": 155,
-                "ft": "5'1\"",
-                "weight": 45,
-                "body_artist": "orristerioso",
-                "obese_artist": "betterwithsalt",
-                "age": "Unknown",
-                "birthday": "22/10",
-                "level": 0,
-                "stuffings": 0,
-                "diet": "low",
-                "exercise": "none",
-                "gender": "Female",
-                "status": "Preparing my return~!",
-                "personality": [ "motivated" ],
-                "hobbies": [ "Drawing", "Singing", "Hanging out with friends." ],
-                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cupcakes", "Scones", "Brownies", "Cookies", "Candy", "Tea" ],
-                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         }
