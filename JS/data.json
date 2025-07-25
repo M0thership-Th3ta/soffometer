@@ -2665,6 +2665,30 @@
             }
         },
         {
+            "id": "Nimi",
+            "pfp": "images/pfp/indie_vtubers/nimi.png",
+            "details": {
+                "cm": 158,
+                "ft": "5'2\"",
+                "weight": 46.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "10/10",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Are you here to give me your dreams~?",
+                "personality": [ "motherly" ],
+                "hobbies": [ "Streaming", "ASMR", "Gaming" ],
+                "favorite_foods": [ "Dreams", "Cake", "Pie", "Donuts", "Muffins", "Parfait", "Cookies", "Chocolates", "Brownies", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Nyanners",
             "pfp": "images/pfp/indie_vtubers/nyanners.png",
             "details": {
