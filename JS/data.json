@@ -1400,6 +1400,31 @@
             }
         },
         {
+            "id": "Bae",
+            "pfp": "images/pfp/hololive/bae.png",
+            "details": {
+                "cm": 149,
+                "ft": "4'11\"",
+                "weight": 41,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "29/2",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "high",
+                "gender": "Female",
+                "group": "HoloCouncil",
+                "status": "Hanging out with my wives!",
+                "personality": [ "fit" ],
+                "hobbies": [ "Running", "Gambling", "Causing Chaos" ],
+                "favorite_foods": [ "Burgers", "Fries", "Donuts", "Cake", "Soda", "Energy Drinks" ],
+                "kinks": [ "Stuffing", "Burping", "Affection", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Sana",
             "pfp": "images/pfp/hololive/sana.png",
             "details": {
