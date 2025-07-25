@@ -1300,6 +1300,31 @@
             }
         },
         {
+            "id": "Amelia",
+            "pfp": "images/pfp/hololive/amelia.png",
+            "details": {
+                "cm": 150,
+                "ft": "4'11\"",
+                "weight": 41.6,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "6/1",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "HoloMyth",
+                "status": "Hanging out with Gura!",
+                "personality": [ "motivated", "sarcastic" ],
+                "hobbies": [ "Investigation Work", "Pranking People", "Singing" ],
+                "favorite_foods": [ "Bread", "Pastries", "Cake", "Cookies", "Candy", "Donuts", "Cupcakes", "Muffins", "Tea", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Gura",
             "pfp": "images/pfp/hololive/gura.png",
             "details": {
