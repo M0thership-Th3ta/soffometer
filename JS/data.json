@@ -3869,6 +3869,31 @@
             }
         },
         {
+            "id": "Himawari",
+            "pfp": "images/pfp/nijisanji/himawari.png",
+            "details": {
+                "cm": 153,
+                "ft": "5'0\"",
+                "weight": 43.2,
+                "body_artist": "orristerioso",
+                "obese_artist": "plumpknight",
+                "age": "Unknown",
+                "birthday": "10/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji JP",
+                "status": "Gaming!",
+                "personality": [ "motivated", "hungry" ],
+                "hobbies": [ "Gaming", "Snacking", "Playing with cats" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Snacks", "Pastries", "Cake", "Pie", "Chocolates", "Chips", "Cookies", "Donuts", "Brownies", "Waffles", "Pancakes", "Fried Chicken", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Lize",
             "pfp": "images/pfp/nijisanji/lize.png",
             "details": {
@@ -3915,6 +3940,31 @@
                 "hobbies": [ "Drawing", "Playing horror games", "Reading horror novella" ],
                 "favorite_foods": [ "Pastries", "Burgers", "Cake", "Pie", "Cupcakes", "Candy", "Chocolates", "Brownies", "Tea", "Soda" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Saku",
+            "pfp": "images/pfp/nijisanji/saku.png",
+            "details": {
+                "cm": 148,
+                "ft": "4'10\"",
+                "weight": 40.5,
+                "body_artist": "orristerioso",
+                "obese_artist": "plumpknight",
+                "age": "Unknown",
+                "birthday": "11/11",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji JP",
+                "status": "Gaming!",
+                "personality": [ "retro", "hungry" ],
+                "hobbies": [ "Gaming", "Looking at videos", "Snacking" ],
+                "favorite_foods": [ "Cake", "Pie", "Pastries", "Fried Chicken", "Fries", "Pizza", "Cookies", "Chips", "Chocolates", "Brownies", "Muffins", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Immobility", "Cosplay", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
