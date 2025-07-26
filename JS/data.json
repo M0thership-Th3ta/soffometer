@@ -3844,6 +3844,31 @@
             }
         },
         {
+            "id": "Dola",
+            "pfp": "images/pfp/nijisanji/dola.png",
+            "details": {
+                "cm": 170,
+                "ft": "5'7\"",
+                "weight": 53.4,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 350,
+                "birthday": "19/8/1667",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji JP",
+                "status": "Adding to my hoard",
+                "personality": [ "hungry" ],
+                "hobbies": [ "Hoarding items", "Playing Minecraft", "Learning about Human Tech" ],
+                "favorite_foods": [ "Burgers", "Meat", "Pizza", "Barbeque", "Fried Chicken", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Lize",
             "pfp": "images/pfp/nijisanji/lize.png",
             "details": {
