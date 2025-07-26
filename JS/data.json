@@ -4019,6 +4019,31 @@
             }
         },
         {
+            "id": "Mika",
+            "pfp": "images/pfp/nijisanji/mika.png",
+            "details": {
+                "cm": 155,
+                "ft": "5'1\"",
+                "weight": 44.4,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "1/4",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji ID",
+                "status": "Gaming!",
+                "personality": [ "cool", "girlfailure" ],
+                "hobbies": [ "Gaming", "Hanging out with friends", "Pranking" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cookies", "Chocolates", "Brownies", "Candy", "Fried Chicken", "Burgers", "Fries", "Chips", "Soda", "Energy Drinks", "Milkshakes", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Bimbofication", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Nara",
             "pfp": "images/pfp/nijisanji/nara.png",
             "details": {
