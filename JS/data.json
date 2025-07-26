@@ -3819,6 +3819,31 @@
     ],
     "nijisanji": [
         {
+            "id": "Ange",
+            "pfp": "images/pfp/nijisanji/ange.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 47.3,
+                "body_artist": "orristerioso",
+                "obese_artist": "educabezon",
+                "age": 25,
+                "birthday": "30/9/1997",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji JP",
+                "status": "Doing alchemy!",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Doing alchemy", "Testing new potions on herself and others", "Gaming" ],
+                "favorite_foods": [ "Cake", "Pie", "Mochi", "Cupcakes", "Brownies", "Chocolates", "Parfait", "Pancakes", "Potions", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Lize",
             "pfp": "images/pfp/nijisanji/lize.png",
             "details": {
