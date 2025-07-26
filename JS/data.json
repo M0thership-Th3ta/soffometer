@@ -3994,6 +3994,31 @@
             }
         },
         {
+            "id": "Sara",
+            "pfp": "images/pfp/nijisanji/sara.png",
+            "details": {
+                "cm": 155,
+                "ft": "5'1\"",
+                "weight": 44.4,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "7/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji JP",
+                "status": "Hanging out with Haato",
+                "personality": [ "cool", "airhead" ],
+                "hobbies": [ "Learning about new cultures", "Hanging out with friends", "Looking at Hololive streams" ],
+                "favorite_foods": [ "Burgers", "Fries", "Chips", "Cookies", "Cake", "Candy", "Pizza", "Tacos", "Waffles", "Pancakes", "Chocolates", "Brownies", "Mochi", "Ramen", "Sushi", "Soda", "Milkshakes", "Beer", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Finana",
             "pfp": "images/pfp/nijisanji/finana.png",
             "details": {
