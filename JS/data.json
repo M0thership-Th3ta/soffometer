@@ -1,6 +1,31 @@
 {
     "azur_lane": [
         {
+            "id": "Hwah Jah",
+            "pfp": "images/pfp/azur_lane/hwah_jah.png",
+            "details": {
+                "cm": 163,
+                "ft": "5'4\"",
+                "weight": 49.1,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": 120,
+                "birthday": "29/7/1900",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Dragon Empery",
+                "status": "Come enjoy some sweets with me~",
+                "personality": [ "motherly", "hungry" ],
+                "hobbies": [ "Learning", "Trying new things", "Lounging", "Snacking" ],
+                "favorite_foods": [ "Cake", "Pie", "Fruit", "Muffins", "Desserts", "Chocolate", "Brownies", "Cookies", "Pancakes", "Waffles", "Mochi", "Tea", "Boba Tea", "Wine", "Champagne" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Bremerton",
             "pfp": "images/pfp/azur_lane/bremerton.png",
             "details": {
