@@ -1050,6 +1050,31 @@
             }
         },
         {
+            "id": "Fubuki",
+            "pfp": "images/pfp/hololive/fubuki.png",
+            "details": {
+                "cm": 155,
+                "ft": "5'1\"",
+                "weight": 44.4,
+                "body_artist": "cakecatboy",
+                "obese_artist": "plumpknight",
+                "age": 20,
+                "birthday": "5/10/1999",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive GAMERS",
+                "status": "Gaming Burger Foxo!!",
+                "personality": [ "motivated", "hungry" ],
+                "hobbies": [ "Gaming", "Singing", "Dancing", "Leading" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pasta", "Pizza", "Ramen", "Udon", "Sushi", "Mochi", "Sweets", "Pastries", "Cake", "Pie", "Donuts", "Muffins", "Water", "Soda", "Sake" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Mio",
             "pfp": "images/pfp/hololive/mio.png",
             "details": {
@@ -1071,6 +1096,31 @@
                 "hobbies": [ "Reading fortunes", "Gardening", "Taking care of her shrines", "Watching over her local forests", "gaming" ],
                 "favorite_foods": [ "Ramen", "Miso Soup", "Meat", "Burgers", "Cake", "Cupcakes", "Cookies", "Chocolates", "Pastries", "Brownies", "Parfait", "Tea", "Iced Tea", "Sake", "Wine" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Korone",
+            "pfp": "images/pfp/hololive/korone.png",
+            "details": {
+                "cm": 156,
+                "ft": "5'1\"",
+                "weight": 44.9,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "1/10",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Hololive GAMERS",
+                "status": "Yubi Yubi!",
+                "personality": [ "motivated", "retro" ],
+                "hobbies": [ "Gaming", "Baking", "Boxing" ],
+                "favorite_foods": [ "Bread", "Cake", "Pie", "Fruit", "Muffins", "Cupcakes", "Brownies", "Pastries", "Desserts", "Cookies", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Coercion", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
