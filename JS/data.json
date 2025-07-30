@@ -4169,6 +4169,56 @@
             }
         },
         {
+            "id": "Petra",
+            "pfp": "images/pfp/nijisanji/petra.png",
+            "details": {
+                "cm": 152,
+                "ft": "5'0\"",
+                "weight": 42.9,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "4/12",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji EN Gen 2 - OBSYDIA",
+                "status": "Probably drawing",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Drawing", "Visiting Cafe's", "Being with friends" ],
+                "favorite_foods": [ "Desserts", "Ice Cream", "Cake", "Pie", "Donuts", "Muffins", "Cupcakes", "Brownies", "Chocolates", "Fruit", "Milkshakes", "Tea", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Affection", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Vacation Gains", "Office Job", "Coercion", "False Diet Advice", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Selen",
+            "pfp": "images/pfp/nijisanji/selen.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 47.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "30/11",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji EN Gen 2 - OBSYDIA",
+                "status": "Gaming!",
+                "personality": [ "cool", "motivated" ],
+                "hobbies": [ "Gaming", "Doing something competatively", "Pulling pranks", "Charity work" ],
+                "favorite_foods": [ "Burgers", "Fries", "Chips", "Pizza", "Candy", "Fried Chicken", "Cookies", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Bimbofication", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Scarle",
             "pfp": "images/pfp/nijisanji/scarle.png",
             "details": {
