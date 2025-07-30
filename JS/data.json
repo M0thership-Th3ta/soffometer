@@ -1100,6 +1100,31 @@
             }
         },
         {
+            "id": "Okayu",
+            "pfp": "images/pfp/hololive/okayu.png",
+            "details": {
+                "cm": 152,
+                "ft": "5'0\"",
+                "weight": 42.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": 20,
+                "birthday": "22/2/2003",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive GAMERS",
+                "status": "Mogu Mogu~",
+                "personality": [ "flirty", "hungry" ],
+                "hobbies": [ "Flirting", "Lazing", "Snacking" ],
+                "favorite_foods": [ "Sushi", "Ramen", "Udon", "Pastries", "Candy", "Cookies", "Chips", "Cake", "Pie", "Bread", "Donuts", "Muffins", "Cupcakes", "Chocolates", "Brownies", "Desserts", "Pastries", "Soda", "Milk", "Milkshakes", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Korone",
             "pfp": "images/pfp/hololive/korone.png",
             "details": {
