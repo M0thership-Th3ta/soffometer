@@ -1175,6 +1175,31 @@
             }
         },
         {
+            "id": "Noel",
+            "pfp": "images/pfp/hololive/noel.png",
+            "details": {
+                "cm": 158,
+                "ft": "5'2\"",
+                "weight": 46.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 20,
+                "birthday": "24/11/2000",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive JP Gen 3",
+                "status": "With Flare~!",
+                "personality": [ "airhead", "hungry" ],
+                "hobbies": [ "Eating", "Going out with friends", "Hanging out with her girlfriend" ],
+                "favorite_foods": [ "Ramen", "Udon", "Fish", "Fried Fish", "Sushi", "Burgers", "Fries", "Pizza", "Fast Food", "Desserts", "Pastries", "Cake", "Pie", "Muffins", "Cupcakes", "Chocolates", "Brownies", "Donuts", "Parfait", "Pancakes", "Soda", "Beer", "Sake", "Wine", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Marine",
             "pfp": "images/pfp/hololive/marine.png",
             "details": {
