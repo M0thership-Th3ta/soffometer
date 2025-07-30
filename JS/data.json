@@ -4219,6 +4219,31 @@
             }
         },
         {
+            "id": "Millie",
+            "pfp": "images/pfp/nijisanji/millie.png",
+            "details": {
+                "cm": 150,
+                "ft": "4'11\"",
+                "weight": 41.6,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": 500,
+                "birthday": "12/12/1521",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji EN Gen 3 - Ethyria",
+                "status": "With my gang!!",
+                "personality": [ "sarcastic", "girlfailure" ],
+                "hobbies": [ "Bringing chaos", "Spreading romance", "Snacking" ],
+                "favorite_foods": [ "Snacks", "Cookies", "Cake", "Chips", "Candy", "Chocolate", "Fries", "Fried Chicken", "Burgers", "Pizza", "Soda", "Energy Drinks", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Immobility", "Cosplay", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Enna",
             "pfp": "images/pfp/nijisanji/enna.png",
             "details": {
