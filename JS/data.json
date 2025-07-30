@@ -1125,6 +1125,31 @@
             }
         },
         {
+            "id": "Kanata",
+            "pfp": "images/pfp/hololive/kanata.png",
+            "details": {
+                "cm": 149,
+                "ft": "4'11\"",
+                "weight": 41,
+                "body_artist": "orristerioso",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "22/4",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Hololive JP Gen 4",
+                "status": "Singing!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Singing", "Streaming", "Working out" ],
+                "favorite_foods": [ "Protein", "Cake", "Pie", "Donuts", "Cupcakes", "Chocolates", "Fried Chicken", "Pizza", "Iced Tea", "Water" ],
+                "kinks": [ "Stuffing", "Weight gain", "Affection", "Cuddling", "Hugs", "Kisses", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Coercion", "Crushing", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Coco",
             "pfp": "images/pfp/hololive/coco.png",
             "details": {
