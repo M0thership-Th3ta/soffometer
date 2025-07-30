@@ -2771,6 +2771,30 @@
             }
         },
         {
+            "id": "Megalodon",
+            "pfp": "images/pfp/indie_vtubers/megalodon.png",
+            "details": {
+                "cm": 290,
+                "ft": "9'6\"",
+                "weight": 155.2,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "25/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Hi there~!",
+                "personality": [ "motivated", "flirty" ],
+                "hobbies": [ "Making Friends", "Flirting", "Singing" ],
+                "favorite_foods": [ "Meat", "Cheese", "Burgers", "Fries", "Cake", "Pie", "Butter", "Muffins", "Cookies", "Chips", "Ice Cream", "Milkshakes", "Milk" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Melody",
             "pfp": "images/pfp/indie_vtubers/melody.png",
             "details": {
