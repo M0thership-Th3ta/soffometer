@@ -451,6 +451,31 @@
             }
         },
         {
+            "id": "Vittorio Veneto",
+            "pfp": "images/pfp/azur_lane/vittorio.png",
+            "details": {
+                "cm": 161,
+                "ft": "5'3\"",
+                "weight": 47.9,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": 85,
+                "birthday": "25/7/1937",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Sardegna Empire",
+                "status": "Come enjoy Italy!",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Leisure", "Sunbathing", "Traveling" ],
+                "favorite_foods": [ "Pasta", "Pizza", "Pastries", "Cake", "Cookies", "Sweets", "Chocolate", "Coffee", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Coercion", "False Diet Advice", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Mary Celeste",
             "pfp": "images/pfp/azur_lane/mary_celeste.png",
             "details": {
