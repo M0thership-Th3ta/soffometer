@@ -4294,6 +4294,31 @@
             }
         },
         {
+            "id": "Nina",
+            "pfp": "images/pfp/nijisanji/nina.png",
+            "details": {
+                "cm": 174,
+                "ft": "5'9\"",
+                "weight": 55.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 30,
+                "birthday": "22/11/1993",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji EN Gen 3 - Ethyria",
+                "status": "Hey darling~",
+                "personality": [ "motherly", "flirty" ],
+                "hobbies": [ "Doting on others", "Taking care of others", "Drinking" ],
+                "favorite_foods": [ "Cake", "Pie", "Fish", "Ramen", "Muffins", "Donuts", "Fruit", "Chocolates", "Brownies", "Wine", "Sake", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Scarle",
             "pfp": "images/pfp/nijisanji/scarle.png",
             "details": {
