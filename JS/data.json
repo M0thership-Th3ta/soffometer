@@ -4770,6 +4770,31 @@
             }
         },
         {
+            "id": "Noise",
+            "pfp": "images/pfp/nikke/noise.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "29/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Tetra Line - Prima Donna",
+                "status": "I'm trying my best!",
+                "personality": [ "girlfailure" ],
+                "hobbies": [ "Singing", "Learning", "Trying her best" ],
+                "favorite_foods": [ "Cake", "Pie", "Fruit", "Brownies", "Chocolates", "Muffins", "Cupcakes", "Cookies", "Milkshakes", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Affection", "Cuddling", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Quency",
             "pfp": "images/pfp/nikke/quency.png",
             "details": {
