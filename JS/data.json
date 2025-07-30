@@ -151,6 +151,31 @@
             }
         },
         {
+            "id": "Kronshtadt",
+            "pfp": "images/pfp/azur_lane/kronshtadt.png",
+            "details": {
+                "cm": 166,
+                "ft": "5'5\"",
+                "weight": 50.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 75,
+                "birthday": "29/7/1944",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "high",
+                "gender": "Female",
+                "group": "Northern Parliament",
+                "status": "Are you here to bow down to me~?",
+                "personality": [ "motivated", "fit" ],
+                "hobbies": [ "Working out", "Providing Authority", "Leading" ],
+                "favorite_foods": [ "Meat", "Protein", "Burgers", "Borscht", "Donuts", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Ark Royal",
             "pfp": "images/pfp/azur_lane/ark_royal.png",
             "details": {
