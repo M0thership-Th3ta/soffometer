@@ -4269,6 +4269,31 @@
             }
         },
         {
+            "id": "Reimu",
+            "pfp": "images/pfp/nijisanji/reimu.png",
+            "details": {
+                "cm": 155,
+                "ft": "5'1\"",
+                "weight": 44.4,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "2/11",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji EN Gen 3 - Ethyria",
+                "status": "Singing or Gaming~",
+                "personality": [ "motherly" ],
+                "hobbies": [ "Singing", "Cooking", "Gaming" ],
+                "favorite_foods": [ "Home-Cooked Meals", "Pizza", "Ramen", "Cake", "Cookies", "Brownies", "Chocolates", "Cupcakes", "Tea", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Scarle",
             "pfp": "images/pfp/nijisanji/scarle.png",
             "details": {
