@@ -2069,6 +2069,30 @@
             }
         },
         {
+            "id": "Clover",
+            "pfp": "images/pfp/indie_vtubers/clover.png",
+            "details": {
+                "cm": 163,
+                "ft": "5'4\"",
+                "weight": 49.1,
+                "body_artist": "orristerioso",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "29/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Taking care of my plants",
+                "personality": [ "motherly", "sleepy" ],
+                "hobbies": [ "Taking care of plants", "Smoking weed", "Eating" ],
+                "favorite_foods": [ "Burgers", "Fries", "Fried Chicken", "Pizza", "Hot Dogs", "Tacos", "Sushi", "Burritos", "Cake", "Pie", "Cookies", "Chips", "Candy", "Chocolate", "Brownies", "Donuts", "Muffins", "Pancakes", "Ice Cream", "Soda", "Energy Drinks", "Milkshakes", "Beer", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Cuddling", "Belly Fucking", "Hugs", "Immobility", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Cottontail",
             "pfp": "images/pfp/indie_vtubers/cottontail.png",
             "details": {
