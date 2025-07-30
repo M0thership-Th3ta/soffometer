@@ -1225,6 +1225,31 @@
             }
         },
         {
+            "id": "Polka",
+            "pfp": "images/pfp/hololive/polka.png",
+            "details": {
+                "cm": 153,
+                "ft": "5'0\"",
+                "weight": 43.2,
+                "body_artist": "cakecatboy",
+                "obese_artist": "plumpknight",
+                "age": "Unknown",
+                "birthday": "30/1",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive JP Gen 5",
+                "status": "Hehehehe~",
+                "personality": [ "airhead", "girlfailure" ],
+                "hobbies": [ "Singing", "Putting on a show", "Pulling pranks" ],
+                "favorite_foods": [ "Cake", "Pie", "Whipped Cream", "Donuts", "Muffins", "Cupcakes", "Chocolates", "Brownies", "Candy", "Cookies", "Soda", "Beer", "Sake", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Lui",
             "pfp": "images/pfp/hololive/lui.png",
             "details": {
