@@ -4442,6 +4442,31 @@
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
+        },
+        {
+            "id": "Victoria",
+            "pfp": "images/pfp/nijisanji/victoria.png",
+            "details": {
+                "cm": 157,
+                "ft": "5'2\"",
+                "weight": 45.5,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "18/3",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji EN Gen 9 - TTT",
+                "status": "Relaxing now that it's over.",
+                "personality": [ "sleepy" ],
+                "hobbies": [ "Staying up late", "Napping", "Snacking" ],
+                "favorite_foods": [ "Sweets", "Desserts", "Candy", "Cake", "Pie", "Chocolates", "Brownies", "Muffins", "Donuts", "Cookies", "Cupcakes", "Fruit", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
         }
     ],
     "nikke": [
