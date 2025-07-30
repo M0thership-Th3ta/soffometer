@@ -4219,6 +4219,31 @@
             }
         },
         {
+            "id": "Enna",
+            "pfp": "images/pfp/nijisanji/enna.png",
+            "details": {
+                "cm": 145,
+                "ft": "4'9\"",
+                "weight": 38.8,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "20/2",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "low",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji EN Gen 3 - Ethyria",
+                "status": "Drinking tea with friends!",
+                "personality": [ "motherly", "girlfailure" ],
+                "hobbies": [ "Hanging out with friends", "Drinking Tea", "Baking", "Cooking" ],
+                "favorite_foods": [ "Cake", "Pie", "Desserts", "Cookies", "Cupcakes", "Muffins", "Waffles", "Chocolates", "Brownies", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Slob", "Messy", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Scarle",
             "pfp": "images/pfp/nijisanji/scarle.png",
             "details": {
