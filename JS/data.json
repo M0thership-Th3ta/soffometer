@@ -4319,6 +4319,31 @@
             }
         },
         {
+            "id": "Maria",
+            "pfp": "images/pfp/nijisanji/maria.png",
+            "details": {
+                "cm": 152,
+                "ft": "5'0\"",
+                "weight": 42.9,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "7/12",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji EN Gen 6 - ILUNA",
+                "status": "Watching anime probably!",
+                "personality": [ "cool", "girlfailure" ],
+                "hobbies": [ "Watching anime", "Gaming", "Singing" ],
+                "favorite_foods": [ "Ramen", "Mochi", "Sushi", "Fish", "Cake", "Pie", "Parfait", "Crepes", "Pancakes", "Muffins", "Cookies", "Candy", "Fries", "Burgers", "Fried Chicken", "Soda", "Tea", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Scarle",
             "pfp": "images/pfp/nijisanji/scarle.png",
             "details": {
