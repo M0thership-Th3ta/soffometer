@@ -4144,6 +4144,31 @@
             }
         },
         {
+            "id": "Rosemi",
+            "pfp": "images/pfp/nijisanji/rosemi.png",
+            "details": {
+                "cm": 150,
+                "ft": "4'11\"",
+                "weight": 41.6,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "16/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Nijisanji EN Gen 2 - OBSYDIA",
+                "status": "Looking at girls~",
+                "personality": [ "flirty", "girlfailure" ],
+                "hobbies": [ "Flirting", "Hanging out", "Pulling harmless pranks" ],
+                "favorite_foods": [ "Cake", "Fruit", "Muffins", "Cupcakes", "Donuts", "Cookies", "Chips", "Candy", "Chocolates", "Brownies", "Tea", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Scarle",
             "pfp": "images/pfp/nijisanji/scarle.png",
             "details": {
