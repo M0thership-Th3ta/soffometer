@@ -2239,6 +2239,30 @@
             }
         },
         {
+            "id": "Emma",
+            "pfp": "images/pfp/indie_vtubers/emma.png",
+            "details": {
+                "cm": 175,
+                "ft": "5'9\"",
+                "weight": 56.6,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "24/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Powering up!",
+                "personality": [ "motivated", "flirty" ],
+                "hobbies": [ "Looking at women", "Eating", "Being around friends" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Fried Chicken", "Fried Fish", "Cake", "Pie", "Cookies", "Candy", "Chocolate", "Brownies", "Soda", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Faelina",
             "pfp": "images/pfp/indie_vtubers/faelina.png",
             "details": {
@@ -3471,6 +3495,30 @@
                 "hobbies": [ "Drawing", "Snacking", "Streaming" ],
                 "favorite_foods": [ "Pastries", "Cake", "Pie", "Donuts", "Cupcakes", "Chocolates", "Candy", "Brownies", "Cookies", "Ice Cream", "Soda", "Milkshakes", "Iced Coffee", "Tea" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
+            "id": "Yuni",
+            "pfp": "images/pfp/indie_vtubers/yuniiho.png",
+            "details": {
+                "cm": 162,
+                "ft": "5'4\"",
+                "weight": 48.5,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "24/7",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Taking it easy and drawing~!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Drawing", "Cooking", "Taking care of herself" ],
+                "favorite_foods": [ "Pesto", "Cheese", "Pizza", "Pasta", "Pastries", "Cake", "Sweets", "Desserts", "Cookies", "Coffee" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
         },
