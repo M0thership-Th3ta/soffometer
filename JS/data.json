@@ -1175,6 +1175,31 @@
             }
         },
         {
+            "id": "Flare",
+            "pfp": "images/pfp/hololive/flare.png",
+            "details": {
+                "cm": 158,
+                "ft": "5'2\"",
+                "weight": 46.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 220,
+                "birthday": "2/4/1798",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive JP Gen 3",
+                "status": "With Noel~<3",
+                "personality": [ "motivated", "flirty" ],
+                "hobbies": [ "Hanging out with friends", "Being with Noel", "Flirting", "Archery" ],
+                "favorite_foods": [ "Dango", "Ramen", "Udon", "Protein", "Meat", "BBQ", "Fried Chicken", "Pizza", "Cake", "Pie", "Pastries", "Muffins", "Bread", "Fruit", "Water", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Noel",
             "pfp": "images/pfp/hololive/noel.png",
             "details": {
