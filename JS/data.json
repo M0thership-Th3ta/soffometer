@@ -1150,6 +1150,31 @@
             }
         },
         {
+            "id": "Koyori",
+            "pfp": "images/pfp/hololive/koyori.png",
+            "details": {
+                "cm": 153,
+                "ft": "5'0\"",
+                "weight": 43.2,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": 20,
+                "birthday": "15/3/2003",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "HoloX",
+                "status": "Experimenting!",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Alchemy", "Experimenting", "Testing on people" ],
+                "favorite_foods": [ "Fries", "Burgers", "Pizza", "Cake", "Pie", "Fruit", "Chocolates", "Brownies", "Candy Potions", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Chloe",
             "pfp": "images/pfp/hololive/chloe.png",
             "details": {
