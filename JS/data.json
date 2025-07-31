@@ -2447,6 +2447,30 @@
             }
         },
         {
+            "id": "Azura Dulait",
+            "pfp": "images/pfp/indie_vtubers/azura_dulait.png",
+            "details": {
+                "cm": 185,
+                "ft": "6'1\"",
+                "weight": 63.2,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "21/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Hey there darling~",
+                "personality": [ "flirty" ],
+                "hobbies": [ "Making babies", "Spreading fertility", "Snacking" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Fried Chicken", "Hot Dogs", "Desserts", "Pastries", "Cake", "Pie", "Fruits", "Chocolate", "Brownies", "Muffins", "Donuts", "Waffles", "Soda", "Wine", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Baeya",
             "pfp": "images/pfp/indie_vtubers/Baeya.png",
             "details": {
