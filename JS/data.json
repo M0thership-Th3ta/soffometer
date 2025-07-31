@@ -5658,6 +5658,31 @@
             }
         },
         {
+            "id": "Noir",
+            "pfp": "images/pfp/nikke/noir.png",
+            "details": {
+                "cm": 178,
+                "ft": "5'10\"",
+                "weight": 58.5,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "16/10",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "low",
+                "gender": "Genderless",
+                "group": "777 - Tetra Line",
+                "status": "Uhm.. I hope you enjoy the s-show~!",
+                "personality": [ "girlfailure", "hungry" ],
+                "hobbies": [ "Being with Blanc", "Performing", "Watching people enjoy their time" ],
+                "favorite_foods": [ "Pastries", "Fast Food", "Desserts", "Burgers", "Pizza", "Cake", "Pie", "Fruit", "Candy", "Cookies", "Donuts", "Muffins", "Chocolate", "Soda", "Wine", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Noise",
             "pfp": "images/pfp/nikke/noise.png",
             "details": {
