@@ -5608,6 +5608,31 @@
             }
         },
         {
+            "id": "Folkwang",
+            "pfp": "images/pfp/nikke/folkwang.png",
+            "details": {
+                "cm": 166,
+                "ft": "5'5\"",
+                "weight": 50.9,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "9/1",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Genderless",
+                "group": "Nepenthe - Tetra Line",
+                "status": "Wanna go out swimming with me?",
+                "personality": [ "fit", "motivated" ],
+                "hobbies": [ "Swimming", "Sporting", "Training others" ],
+                "favorite_foods": [ "Ice Cream", "Protein", "Meat", "Fried Chicken", "Water", "Energy Drinks" ],
+                "kinks": [ "Stuffing", "Weight gain", "Teasing", "Burping", "Body worship", "Cuddling", "Hugs", "Cheerleading", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers", "Cosplay" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Mihara",
             "pfp": "images/pfp/nikke/mihara.png",
             "details": {
