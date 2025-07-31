@@ -126,6 +126,31 @@
             }
         },
         {
+            "id": "Brünhilde",
+            "pfp": "images/pfp/azur_lane/bruenhilde.png",
+            "details": {
+                "cm": 180,
+                "ft": "5'11\"",
+                "weight": 59.8,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "betterwithsalt",
+                "age": 80,
+                "birthday": "23/8/1939",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Iron Blood",
+                "status": "Make sure you don't overwork yourself!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Administrative Work", "Strategy Games", "Archiving" ],
+                "favorite_foods": [ "Meat", "Protein", "Burgers", "Pie", "Pancakes", "Fruit", "Pastries", "Desserts", "Water", "Juice", "Beer", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Deutschland",
             "pfp": "images/pfp/azur_lane/deutschland.png",
             "details": {
