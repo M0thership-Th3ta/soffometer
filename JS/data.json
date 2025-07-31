@@ -3629,6 +3629,31 @@
             }
         },
         {
+            "id": "NOVAe",
+            "pfp": "images/pfp/indie_vtubers/novae",
+            "details": {
+                "cm": 163,
+                "ft": "5'4\"",
+                "weight": 49.1,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "30/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "V4Mirai",
+                "status": "Working in the lab",
+                "personality": [ "girlfailure", "psychotic" ],
+                "hobbies": [ "Discovering Things", "Working in the lab", "Alchemy" ],
+                "favorite_foods": [ "Fast Food", "Burgers", "Fries", "Pizza", "Fried Chicken", "Cake", "Pie", "Cookies", "Candy", "Waffles", "Chocolate", "Brownies", "Coffee", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Fast Food Employment", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Nyanners",
             "pfp": "images/pfp/indie_vtubers/nyanners.png",
             "details": {
