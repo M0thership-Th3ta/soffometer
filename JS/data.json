@@ -5783,6 +5783,31 @@
             }
         },
         {
+            "id": "Tia",
+            "pfp": "images/pfp/nikke/tia.png",
+            "details": {
+                "cm": 167,
+                "ft": "5'6\"",
+                "weight": 51.5,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "4/10",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Dazzling Pearl - Missilis Industry",
+                "status": "Probably baking something yummy~!",
+                "personality": [ "airhead", "hungry" ],
+                "hobbies": [ "Baking", "Snacking", "Being with Naga" ],
+                "favorite_foods": [ "Sweets", "Pastries", "Cake", "Pie", "Cookies", "Fruit", "Chocolate", "Brownies", "Cupcakes", "Muffins", "Donuts", "Candy", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Viper",
             "pfp": "images/pfp/nikke/viper.png",
             "details": {
