@@ -1125,6 +1125,31 @@
             }
         },
         {
+            "id": "Aqua",
+            "pfp": "images/pfp/hololive/aqua.png",
+            "details": {
+                "cm": 148,
+                "ft": "4'10\"",
+                "weight": 40.5,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": 20,
+                "birthday": "1/12/1997",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive JP Gen 2",
+                "status": "At your service~!",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Cleaning", "Looking at marine animals", "Looking at boats" ],
+                "favorite_foods": [ "Fish", "Fried Fish", "Sushi", "Udon", "Ramen", "Cake", "Pie", "Pastries", "Cupcakes", "Cookies", "Chocolates", "Brownies", "Desserts", "Ice Cream", "Parfait", "Tea", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Shion",
             "pfp": "images/pfp/hololive/shion.png",
             "details": {
