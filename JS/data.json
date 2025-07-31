@@ -4142,6 +4142,30 @@
             }
         },
         {
+            "id": "Vienna",
+            "pfp": "images/pfp/indie_vtubers/vienna.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 47.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "11/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Probably playing league",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Playing league", "Being in competitions", "Developing games" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Fried Chicken", "BBQ", "Desserts", "Pastries", "Fast Food", "Cake", "Pie", "Donuts", "Cookies", "Candy", "Chocolates", "Soda", "Energy Drinks", "Beer", "Wine", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Yuni",
             "pfp": "images/pfp/indie_vtubers/yuniiho.png",
             "details": {
