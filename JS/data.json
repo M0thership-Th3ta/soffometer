@@ -76,6 +76,31 @@
             }
         },
         {
+            "id": "Honolulu",
+            "pfp": "images/pfp/azur_lane/honolulu.png",
+            "details": {
+                "cm": 162,
+                "ft": "5'4\"",
+                "weight": 48.5,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 80,
+                "birthday": "26/8/1937",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Eagle Union",
+                "status": "Finally, I totally wasn't waiting on you or anything~ hmpf~",
+                "personality": [ "sarcastic", "girlfailure" ],
+                "hobbies": [ "Making sweets", "Winning competitions", "Being the best she could be" ],
+                "favorite_foods": [ "Pastries", "Desserts", "Cake", "Pie", "Fruit", "Cupcakes", "Muffins", "Chocolate", "Brownies", "Candy", "Cookies", "Donuts", "Soda", "Milkshakes" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Saint Louis",
             "pfp": "images/pfp/azur_lane/saint_louis.png",
             "details": {
