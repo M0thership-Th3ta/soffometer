@@ -2761,6 +2761,30 @@
             }
         },
         {
+            "id": "Emmallama",
+            "pfp": "images/pfp/indie_vtubers/emmallama.png",
+            "details": {
+                "cm": 185,
+                "ft": "6'1\"",
+                "weight": 63.2,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "plumpknight",
+                "age": "Unknown",
+                "birthday": "18/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Hiding under your bed~",
+                "personality": [ "flirty", "psychotic" ],
+                "hobbies": [ "Teasing people", "Scaring people", "Watching horror" ],
+                "favorite_foods": [ "Burgers", "Fries", "Cake", "Pie", "Fruit", "Chocolate", "Brownies", "Donuts", "Muffins", "Cookies", "Ice Cream", "Soda", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Faelina",
             "pfp": "images/pfp/indie_vtubers/faelina.png",
             "details": {
