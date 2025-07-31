@@ -5533,6 +5533,31 @@
             }
         },
         {
+            "id": "Cinderella",
+            "pfp": "images/pfp/nikke/cinderella.png",
+            "details": {
+                "cm": 164,
+                "ft": "5'5\"",
+                "weight": 49.7,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "5/3",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Old Tales - Pilgrim",
+                "status": "Taking care of myself",
+                "personality": [ "flirty", "psychotic" ],
+                "hobbies": [ "Brushing her hair", "Dressing up", "Doing make-up" ],
+                "favorite_foods": [ "Desserts", "Pastries", "Cake", "Pie", "Muffins", "Cupcakes", "Chocolate", "Brownies", "Tea" ],
+                "kinks": [ "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Coercion", "False Diet Advice", "Crushing", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Dorothy",
             "pfp": "images/pfp/nikke/dorothy.png",
             "details": {
