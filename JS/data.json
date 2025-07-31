@@ -3003,6 +3003,30 @@
             }
         },
         {
+            "id": "Inksie",
+            "pfp": "images/pfp/indie_vtubers/inksie.png",
+            "details": {
+                "cm": 167,
+                "ft": "5'6\"",
+                "weight": 51.5,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "educabezon",
+                "age": 20,
+                "birthday": "29/8/2001",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "I'm sorry if I piss you off today, I drank 2 white monsters and I let it create another.",
+                "personality": [ "airhead", "girlfailure" ],
+                "hobbies": [ "Snacking", "Making Pancakes", "Streaming and Recording" ],
+                "favorite_foods": [ "Pancakes", "Pastries", "Pasta", "Cookies", "Desserts", "Cake", "Pie", "Muffins", "Cupcakes", "Fruit", "Candy", "Ice Cream", "Soda", "Energy Drinks", "Beer", "Wine", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Ironmouse",
             "pfp": "images/pfp/indie_vtubers/ironmouse.png",
             "details": {
