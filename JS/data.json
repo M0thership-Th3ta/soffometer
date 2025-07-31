@@ -1050,6 +1050,31 @@
             }
         },
         {
+            "id": "Choco",
+            "pfp": "images/pfp/hololive/choco.png",
+            "details": {
+                "cm": 166,
+                "ft": "5'5\"",
+                "weight": 50.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "14/2",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive JP Gen 2",
+                "status": "Came here for a check up, honey~<3",
+                "personality": [ "flirty" ],
+                "hobbies": [ "Helping people in need", "Making NSFW content", "Snacking" ],
+                "favorite_foods": [ "Sweets", "Candy", "Chocolate", "Cookies", "Desserts", "Pastries", "Cake", "Pie", "Muffins", "Cupcakes", "Donuts", "Pancakes", "Fruit", "Strawberries", "Tea", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Fubuki",
             "pfp": "images/pfp/hololive/fubuki.png",
             "details": {
