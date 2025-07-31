@@ -5508,6 +5508,31 @@
             }
         },
         {
+            "id": "Brid",
+            "pfp": "images/pfp/nikke/brid.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 47.3,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "30/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Infinity Rail - Elysion",
+                "status": "Have a good day aboard the train!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Driving her Train", "Taking care of her Train", "Practicing her professionalism" ],
+                "favorite_foods": [ "Pastries", "Cake", "Pie", "Cookies", "Desserts", "Donuts", "Chocolate", "Brownies", "Coffee" ],
+                "kinks": [ "Stuffing", "Weight gain", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Coercion", "False Diet Advice", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Dorothy",
             "pfp": "images/pfp/nikke/dorothy.png",
             "details": {
