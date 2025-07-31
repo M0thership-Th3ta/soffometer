@@ -2931,6 +2931,30 @@
             }
         },
         {
+            "id": "Harper",
+            "pfp": "images/pfp/indie_vtubers/harper.png",
+            "details": {
+                "cm": 174,
+                "ft": "5'9\"",
+                "weight": 55.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "16/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Non-Binary",
+                "status": "Dancing!",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Dancing", "Voice Acting", "Streaming" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Cake", "Pie", "Pastries", "Muffins", "Donuts", "Cookies", "Soda", "Energy Drinks" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Haruka",
             "pfp": "images/pfp/indie_vtubers/haruka.png",
             "details": {
