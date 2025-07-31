@@ -26,6 +26,31 @@
             }
         },
         {
+            "id": "Anchorage",
+            "pfp": "images/pfp/azur_lane/anchorage.png",
+            "details": {
+                "cm": 155,
+                "ft": "5'1\"",
+                "weight": 44.4,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": 80,
+                "birthday": "16/8/1943",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Eagle Union",
+                "status": "Yaaay! Anchorage was waiting for you!",
+                "personality": [ "airhead", "sleepy" ],
+                "hobbies": [ "Napping", "Drawing", "Learning" ],
+                "favorite_foods": [ "Burgers", "Fries", "Chips", "Ice Cream", "Cake", "Fruit", "Desserts", "Donuts", "Candy", "Pizza", "Milk", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Cuddling", "Hugs", "Immobility", "Cheerleading", "Vacation Gains", "Hypnotism", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Bremerton",
             "pfp": "images/pfp/azur_lane/bremerton.png",
             "details": {
