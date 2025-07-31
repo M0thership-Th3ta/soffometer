@@ -1025,6 +1025,31 @@
             }
         },
         {
+            "id": "Haato/Haachama",
+            "pfp": "images/pfp/hololive/haato.png",
+            "details": {
+                "cm": 154,
+                "ft": "5'1\"",
+                "weight": 43.8,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": 25,
+                "birthday": "10/8/1998",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive JP Gen 1",
+                "status": "Haachama~chama!",
+                "personality": [ "sarcastic", "psychotic" ],
+                "hobbies": [ "Trying new things", "Scaring others", "Cooking" ],
+                "favorite_foods": [ "Home-Cooked Meals", "Burgers", "Pizza", "Ramen", "Pasta", "Pastries", "Cake", "Pie", "Cupcakes", "Brownies", "Cookies", "Chocolates", "Candy", "Water", "Tea", "Coffee", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "AkiRose",
             "pfp": "images/pfp/hololive/akirose.png",
             "details": {
