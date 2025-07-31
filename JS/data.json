@@ -1125,6 +1125,31 @@
             }
         },
         {
+            "id": "Shion",
+            "pfp": "images/pfp/hololive/shion.png",
+            "details": {
+                "cm": 145,
+                "ft": "4'9\"",
+                "weight": 38.8,
+                "body_artist": "orristerioso",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "8/12",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive JP Gen 2",
+                "status": "Being the best, obviously",
+                "personality": [ "sarcastic" ],
+                "hobbies": [ "Practicing Magic", "Alchemy", "Being the best" ],
+                "favorite_foods": [ "Snacks", "Chips", "Fries", "Cookies", "Candy", "Pastries", "Cake", "Pie", "Fruit", "Donuts", "Brownies", "Soda", "Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Fubuki",
             "pfp": "images/pfp/hololive/fubuki.png",
             "details": {
