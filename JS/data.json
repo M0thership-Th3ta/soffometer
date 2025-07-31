@@ -5633,6 +5633,31 @@
             }
         },
         {
+            "id": "Helm",
+            "pfp": "images/pfp/nikke/helm.png",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 52.1,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "27/4",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Aegis - Elysion",
+                "status": "The waves are my home turf!",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Going out at sea", "Leading", "Getting to know new people" ],
+                "favorite_foods": [ "Meat", "BBQ", "Fried Fish", "Fried Chicken", "Ice Cream", "Cake", "Pie", "Pastries", "Fruit", "Muffins", "Chocolate", "Brownies", "Coffee", "Tea" ],
+                "kinks": [ "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Mihara",
             "pfp": "images/pfp/nikke/mihara.png",
             "details": {
