@@ -3605,6 +3605,30 @@
             }
         },
         {
+            "id": "Nouvelle",
+            "pfp": "images/pfp/indie_vtubers/nouvelle.png",
+            "details": {
+                "cm": 157,
+                "ft": "5'2\"",
+                "weight": 45.5,
+                "body_artist": "cakecatboy",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "23/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Hey there darling~",
+                "personality": [ "flirty", "motherly" ],
+                "hobbies": [ "Holding tea parties", "Hanging out with friends", "Dressing up" ],
+                "favorite_foods": [ "Cake", "Pie", "Fruit", "Pastries", "Muffins", "Cupcakes", "Cookies", "Chocolate", "Brownies", "Tea", "Coffee", "Wine", "Whiskey", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Nyanners",
             "pfp": "images/pfp/indie_vtubers/nyanners.png",
             "details": {
