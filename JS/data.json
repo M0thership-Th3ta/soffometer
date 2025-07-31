@@ -2375,6 +2375,30 @@
             }
         },
         {
+            "id": "Arielle",
+            "pfp": "images/pfp/indie_vtubers/arielle.png",
+            "details": {
+                "cm": 166,
+                "ft": "5'5\"",
+                "weight": 50.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "18/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Hanging out with Zen",
+                "personality": [ "motivated", "flirty" ],
+                "hobbies": [ "Hanging out with friends", "Bringing chaos", "Laughing", "Looking good" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Fried Chicken", "Cake", "Cupcakes", "Muffins", "Donuts", "Chocolate", "Brownies", "Candy", "Cookies", "Desserts", "Soda", "Milkshakes", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Artemis",
             "pfp": "images/pfp/indie_vtubers/artemis.png",
             "details": {
