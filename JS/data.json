@@ -1000,6 +1000,31 @@
             }
         },
         {
+            "id": "Matsuri",
+            "pfp": "images/pfp/hololive/matsuri.png",
+            "details": {
+                "cm": 152,
+                "ft": "5'0\"",
+                "weight": 42.9,
+                "body_artist": "orristerioso",
+                "obese_artist": "betterwithsalt",
+                "age": 20,
+                "birthday": "22/7/2001",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Hololive JP Gen 1",
+                "status": "Looking at girls~",
+                "personality": [ "flirty", "girlfailure" ],
+                "hobbies": [ "Flirting", "Being loud", "Being God" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Fried Chicken", "Sushi", "Ramen", "Udon", "Pastries", "Cake", "Pie", "Desserts", "Muffins", "Mochi", "Chocolates", "Brownies", "Donuts", "Sweets", "Candy", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "AkiRose",
             "pfp": "images/pfp/hololive/akirose.png",
             "details": {
