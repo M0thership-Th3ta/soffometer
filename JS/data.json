@@ -2615,6 +2615,31 @@
             }
         },
         {
+            "id": "Dizzy",
+            "pfp": "images/pfp/indie_vtubers/dizzy.png",
+            "details": {
+                "cm": 155,
+                "ft": "5'1\"",
+                "weight": 44.4,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "12/8",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Phase-Connect",
+                "status": "Hi there~!",
+                "personality": [ "motivated", "girlfailure" ],
+                "hobbies": [ "Watching horror", "Cleaning up", "Swimming", "Hanging out with friends" ],
+                "favorite_foods": [ "Desserts", "Cake", "Pie", "Donuts", "Muffins", "Burgers", "Pizza", "Fried Chicken", "Ice Cream", "Fruit", "Soda", "Tea", "Beer", "Wine", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Dokibird",
             "pfp": "images/pfp/indie_vtubers/dokibird.png",
             "details": {
