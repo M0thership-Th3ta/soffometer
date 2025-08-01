@@ -5858,6 +5858,31 @@
             }
         },
         {
+            "id": "Moran",
+            "pfp": "images/pfp/nikke/moran.png",
+            "details": {
+                "cm": 163,
+                "ft": "5'4\"",
+                "weight": 49.1,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "20/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Underworld Queen - Tetra Line",
+                "status": "Are you here to trade?",
+                "personality": [ "motivated", "airhead" ],
+                "hobbies": [ "Business Dealings", "Hanging out with her friends", "Earning cash" ],
+                "favorite_foods": [ "Pastries", "Desserts", "Cake", "Pie", "Donuts", "Muffins", "Chocolate", "Brownies", "Fruit", "Cookies", "Candy", "Soda", "Tea", "Iced Tea", "Whiskey", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Noir",
             "pfp": "images/pfp/nikke/noir.png",
             "details": {
