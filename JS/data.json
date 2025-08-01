@@ -5758,6 +5758,31 @@
             }
         },
         {
+            "id": "Mary",
+            "pfp": "images/pfp/nikke/mary.png",
+            "details": {
+                "cm": 167,
+                "ft": "5'6\"",
+                "weight": 51.5,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "3/4",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Seraphim - Tetra Line",
+                "status": "Do you need a check-up, dear~?",
+                "personality": [ "motherly", "flirty" ],
+                "hobbies": [ "Healing people", "Taking care of people", "Doting on people" ],
+                "favorite_foods": [ "Desserts", "Pastries", "Cake", "Cookies", "Chocolates", "Brownies", "Parfait", "Waffles", "Ice Cream", "Tea", "Coffee" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Mihara",
             "pfp": "images/pfp/nikke/mihara.png",
             "details": {
