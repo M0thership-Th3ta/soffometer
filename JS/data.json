@@ -326,6 +326,31 @@
             }
         },
         {
+            "id": "Bellona",
+            "pfp": "images/pfp/azur_lane/bellona.png",
+            "details": {
+                "cm": 161,
+                "ft": "5'3\"",
+                "weight": 47.9,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": 80,
+                "birthday": "29/9/1942",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Royal Navy",
+                "status": "Working on retailoring clothes",
+                "personality": [ "motivated" ],
+                "hobbies": [ "Tailoring", "Fashion Designing", "Cleaning" ],
+                "favorite_foods": [ "Pastries", "Desserts", "Chocolate", "Cake", "Pie", "Brownies", "Muffins", "Scones", "Cookies", "Tea", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Humiliation", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Dido",
             "pfp": "images/pfp/azur_lane/dido.png",
             "details": {
