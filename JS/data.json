@@ -5933,6 +5933,31 @@
             }
         },
         {
+            "id": "Nihilister",
+            "pfp": "images/pfp/nikke/nihilister.png",
+            "details": {
+                "cm": 172,
+                "ft": "5'8\"",
+                "weight": 54.6,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "21/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Heretic - Pilgrim",
+                "status": "COME FIGHT ME!",
+                "personality": [ "fit", "airhead" ],
+                "hobbies": [ "Fighting", "Leading", "Making things explode" ],
+                "favorite_foods": [ "Meat", "Protein", "BBQ", "Fried Chicken", "Fried Fish", "Water", "Beer" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Body worship", "Sex", "Belly Fucking", "Immobility", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Noir",
             "pfp": "images/pfp/nikke/noir.png",
             "details": {
