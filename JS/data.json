@@ -4242,6 +4242,30 @@
             }
         },
         {
+            "id": "Skydarc",
+            "pfp": "images/pfp/indie_vtubers/skydarc.png",
+            "details": {
+                "cm": 169,
+                "ft": "5'7\"",
+                "weight": 52.7,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 30,
+                "birthday": "14/9/1989",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Hey there handsome~",
+                "personality": [ "flirty" ],
+                "hobbies": [ "Dressung up", "Having sex", "Cuddling" ],
+                "favorite_foods": [ "Fruit", "Chocolate", "Brownies", "Cake", "Pie", "Croissants", "Macarons", "Pastries", "Cookies", "Cheese", "Pain au Chocolat", "Tea", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Snoozy",
             "pfp": "images/pfp/indie_vtubers/snoozy.png",
             "details": {
