@@ -3320,6 +3320,30 @@
             }
         },
         {
+            "id": "Kisa",
+            "pfp": "images/pfp/indie_vtubers/kisa.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "8/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Save the Bees!",
+                "personality": [ "motivated", "psychotic" ],
+                "hobbies": [ "Gathering Honey", "Educating people", "Doing charity work" ],
+                "favorite_foods": [ "Candy", "Sweets", "Pastries", "Cake", "Pie", "Donuts", "Chocolate", "Brownies", "Cupcakes", "Desserts", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Kson",
             "pfp": "images/pfp/indie_vtubers/kson.png",
             "details": {
