@@ -3828,6 +3828,30 @@
             }
         },
         {
+            "id": "OBKatiekat",
+            "pfp": "images/pfp/indie_vtubers/katie.png",
+            "details": {
+                "cm": 159,
+                "ft": "5'3\"",
+                "weight": 46.7,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "9/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "status": "Rocking out or Working out",
+                "personality": [ "cool", "motivated" ],
+                "hobbies": [ "Playing guitar", "Singing", "Screaming", "Streaming" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Fried Chicken", "Cake", "Pie", "Ice Cream", "Fruit", "Donuts", "Cookies", "Chips", "Candy", "Chocolate", "Brownies", "Soda", "Energy Drinks", "Beer", "Vodka" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Ookamin",
             "pfp": "images/pfp/indie_vtubers/ookamin.png",
             "details": {
