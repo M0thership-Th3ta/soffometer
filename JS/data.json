@@ -5733,6 +5733,31 @@
             }
         },
         {
+            "id": "Marian",
+            "pfp": "images/pfp/nikke/marian.png",
+            "details": {
+                "cm": 162,
+                "ft": "5'4\"",
+                "weight": 48.5,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "25/1",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Silver Gun - Elysion",
+                "status": "Hi there~!",
+                "personality": [ "motherly" ],
+                "hobbies": [ "Serving a commander", "Protecting people", "Doing her best" ],
+                "favorite_foods": [ "Cake", "Fruit", "Desserts", "Donuts", "Muffins", "Candy", "Chocolate", "Brownies", "Cookies", "Tea", "Iced Tea", "Juice" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Hugs", "Kisses", "Trophee Wife", "Vacation Gains", "Office Job", "Coercion", "False Diet Advice", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Mihara",
             "pfp": "images/pfp/nikke/mihara.png",
             "details": {
