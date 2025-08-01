@@ -5908,6 +5908,31 @@
             }
         },
         {
+            "id": "Neve",
+            "pfp": "images/pfp/nikke/neve.png",
+            "details": {
+                "cm": 168,
+                "ft": "5'6\"",
+                "weight": 52.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "28/3",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Unlimited - Tetra Line",
+                "status": "Have you heard about Polar Bears~?",
+                "personality": [ "sleepy", "airhead" ],
+                "hobbies": [ "Learning about Polar Bears", "Sleeping", "Helping out people in need" ],
+                "favorite_foods": [ "Meat", "Protein", "Stew", "Home-Cooked Meals", "Burgers", "Pizza", "Fried Fish", "Fried Chicken", "BBQ", "Tea", "Juice", "Water" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers", "Cosplay" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Noir",
             "pfp": "images/pfp/nikke/noir.png",
             "details": {
