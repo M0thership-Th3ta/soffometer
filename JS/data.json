@@ -3778,6 +3778,30 @@
             }
         },
         {
+            "id": "Nekrolina",
+            "pfp": "images/pfp/indie_vtubers/nekrolina.png",
+            "details": {
+                "cm": 163,
+                "ft": "5'4\"",
+                "weight": 49.1,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "5/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Hi!!!",
+                "personality": [ "motivated", "airhead" ],
+                "hobbies": [ "Yapping", "Making friends", "Streaming" ],
+                "favorite_foods": [ "Pastries", "Desserts", "Cake", "Pie", "Cookies", "Candy", "Donuts", "Muffins", "Chocolate", "Brownies", "Soda" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Nimi",
             "pfp": "images/pfp/indie_vtubers/nimi.png",
             "details": {
