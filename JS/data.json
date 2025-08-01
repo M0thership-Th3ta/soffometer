@@ -5883,6 +5883,31 @@
             }
         },
         {
+            "id": "Naga",
+            "pfp": "images/pfp/nikke/naga.png",
+            "details": {
+                "cm": 169,
+                "ft": "5'7\"",
+                "weight": 52.7,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "12/10",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Dazzling Pearl - Missilis Industry",
+                "status": "With Tia!",
+                "personality": [ "sarcastic", "airhead" ],
+                "hobbies": [ "Hanging out with Tia", "Going shopping", "Accessorizing" ],
+                "favorite_foods": [ "Desserts", "Pastries", "Cake", "Pie", "Muffins", "Chocolate", "Brownies", "Cookies", "Candy", "Ice Cream", "Parfait", "Soda", "Iced Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Vacation Gains", "Hypnotism", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Noir",
             "pfp": "images/pfp/nikke/noir.png",
             "details": {
