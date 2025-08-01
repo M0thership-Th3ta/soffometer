@@ -626,6 +626,31 @@
             }
         },
         {
+            "id": "Aquila",
+            "pfp": "images/pfp/azur_lane/aquila.png",
+            "details": {
+                "cm": 159,
+                "ft": "5'3\"",
+                "weight": 46.7,
+                "body_artist": "cakecatboy",
+                "obese_artist": "betterwithsalt",
+                "age": 80,
+                "birthday": "8/9/1943",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Sardegna Empire",
+                "status": "How may I help you~?",
+                "personality": [ "motherly", "motivated" ],
+                "hobbies": [ "Helping people", "Learning new things", "Talking about Italy" ],
+                "favorite_foods": [ "Pasta", "Pizza", "Pastries", "Desserts", "Cake", "Pie", "Cookies", "Candy", "Chocolate", "Coffee", "Wine", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Vittorio Veneto",
             "pfp": "images/pfp/azur_lane/vittorio.png",
             "details": {
