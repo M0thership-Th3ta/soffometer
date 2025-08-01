@@ -5783,6 +5783,31 @@
             }
         },
         {
+            "id": "Mast",
+            "pfp": "images/pfp/nikke/mast.png",
+            "details": {
+                "cm": 160,
+                "ft": "5'3\"",
+                "weight": 47.3,
+                "body_artist": "kipteitei",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "29/3",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Aegis - Elysion",
+                "status": "Ahoy~!",
+                "personality": [ "motivated", "airhead" ],
+                "hobbies": [ "Reading Pirates Tales", "Making people happy", "Drinking" ],
+                "favorite_foods": [ "Desserts", "Pastries", "Chocolate", "Brownies", "Cake", "Pie", "Muffins", "Fruit", "Soda", "Beer", "Rum", "Whiskey", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Mihara",
             "pfp": "images/pfp/nikke/mihara.png",
             "details": {
