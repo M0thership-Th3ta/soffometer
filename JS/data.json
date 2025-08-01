@@ -4508,6 +4508,30 @@
             }
         },
         {
+            "id": "Wispluna",
+            "pfp": "images/pfp/indie_vtubers/wispluna.png",
+            "details": {
+                "cm": 152,
+                "ft": "5'0\"",
+                "weight": 42.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "11/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Probably listening to music",
+                "personality": [ "sarcastic", "flirty" ],
+                "hobbies": [ "Listening to metal", "Gaming", "Snacking" ],
+                "favorite_foods": [ "Snacks", "Cookies", "Cake", "Fruit", "Chocolate", "Brownies", "Burgers", "Pizza", "Fried Chicken", "Donuts", "Muffins", "Chips", "Ice Cream", "Soda", "Beer", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Yuni",
             "pfp": "images/pfp/indie_vtubers/yuniiho.png",
             "details": {
