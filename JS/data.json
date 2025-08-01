@@ -3706,6 +3706,30 @@
             }
         },
         {
+            "id": "Miss Lala",
+            "pfp": "images/pfp/indie_vtubers/miss_lala.png",
+            "details": {
+                "cm": 163,
+                "ft": "5'4\"",
+                "weight": 49.1,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 30,
+                "birthday": "15/9/1923",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Welcome to the diner!",
+                "personality": [ "motherly", "motivated" ],
+                "hobbies": [ "Cooking", "Serving", "Dancing" ],
+                "favorite_foods": [ "Pie", "Cake", "Fruit", "Burgers", "Fries", "Pizza", "Donuts", "Cookies", "Candy", "Soda", "Wine", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "MochiiMochii",
             "pfp": "images/pfp/indie_vtubers/mochiimochii.png",
             "details": {
