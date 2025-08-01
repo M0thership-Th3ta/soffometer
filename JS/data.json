@@ -2837,6 +2837,31 @@
             }
         },
         {
+            "id": "Ember",
+            "pfp": "images/pfp/indie_vtubers/ember.png",
+            "details": {
+                "cm": 161,
+                "ft": "5'3\"",
+                "weight": 47.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 20,
+                "birthday": "19/9/2003",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "Phase-Connect",
+                "status": "Wanna grab a burger with me~?",
+                "personality": [ "hungry", "girlfailure" ],
+                "hobbies": [ "Eating", "Cooking", "Baking" ],
+                "favorite_foods": [ "Burgers", "Fries", "Pizza", "Fried Chicken", "Fried Fish", "Nuggets", "Tacos", "Burritos", "Sushi", "Ramen", "Cake", "Pie", "Donuts", "Muffins", "Cupcakes", "Pastries", "Fast Food", "Desserts", "Pasta", "Meat", "BBQ", "Soda", "Energy Drinks", "Beer", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Emma",
             "pfp": "images/pfp/indie_vtubers/emma.png",
             "details": {
