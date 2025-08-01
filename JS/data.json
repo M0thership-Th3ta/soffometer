@@ -476,6 +476,31 @@
             }
         },
         {
+            "id": "Sirius",
+            "pfp": "images/pfp/azur_lane/sirius.png",
+            "details": {
+                "cm": 157,
+                "ft": "5'2\"",
+                "weight": 45.5,
+                "body_artist": "kipteitei",
+                "obese_artist": "educabezon",
+                "age": 80,
+                "birthday": "18/9/1940",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "group": "Royal Navy",
+                "status": "Awaiting your orders, master",
+                "personality": [ "sarcastic", "motivated" ],
+                "hobbies": [ "Cleaning", "Cooking", "Following orders" ],
+                "favorite_foods": [ "Desserts", "Pastries", "Cake", "Scones", "Sushi", "Ramen", "Udon", "Mochi", "Cupcakes", "Cookies", "Tea", "Sake", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Atago",
             "pfp": "images/pfp/azur_lane/atago.png",
             "details": {
