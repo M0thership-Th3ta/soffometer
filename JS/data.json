@@ -4484,6 +4484,30 @@
             }
         },
         {
+            "id": "Voraisha",
+            "pfp": "images/pfp/indie_vtubers/voraisha.png",
+            "details": {
+                "cm": 427,
+                "ft": "14'0\"",
+                "weight": 336.4,
+                "body_artist": "cakecatboy",
+                "obese_artist": "davielwithfries",
+                "age": "Unknown",
+                "birthday": "16/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "high",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "You're looking tasty~",
+                "personality": [ "hungry", "flirty" ],
+                "hobbies": [ "Eating people", "Stuffing herself", "Challenging herself" ],
+                "favorite_foods": [ "People", "Burgers", "Fries", "Meat", "Pizza", "Fried Chicken", "Hot Dogs", "Cake", "Donuts", "Fast Food", "Desserts", "Pastries", "Cookies", "Chips", "Soda", "Wine", "Beer", "Liquor" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Yuni",
             "pfp": "images/pfp/indie_vtubers/yuniiho.png",
             "details": {
