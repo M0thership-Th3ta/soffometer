@@ -5708,6 +5708,31 @@
             }
         },
         {
+            "id": "Maiden",
+            "pfp": "images/pfp/nikke/maiden.png",
+            "details": {
+                "cm": 165,
+                "ft": "5'5\"",
+                "weight": 50.3,
+                "body_artist": "cakecatboy",
+                "obese_artist": "educabezon",
+                "age": "Unknown",
+                "birthday": "10/10",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Genderless",
+                "group": "Extrinsic - Elysion",
+                "status": "Want to play FFXIV with me?",
+                "personality": [ "retro", "girlfailure" ],
+                "hobbies": [ "Gaming", "Socializing", "Chilling" ],
+                "favorite_foods": [ "Snacks", "Chips", "Cookies", "Nuggets", "Candy", "Brownies", "Oreos", "Donuts", "Cupcakes", "Chocolates", "Soda", "Iced Tea" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Mihara",
             "pfp": "images/pfp/nikke/mihara.png",
             "details": {
