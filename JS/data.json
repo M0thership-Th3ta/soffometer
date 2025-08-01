@@ -2959,6 +2959,30 @@
             }
         },
         {
+            "id": "Foxyevoxy",
+            "pfp": "images/pfp/indie_vtubers/foxyevoxy.png",
+            "details": {
+                "cm": 183,
+                "ft": "6'0\"",
+                "weight": 61.9,
+                "body_artist": "kipteitei",
+                "obese_artist": "betterwithsalt",
+                "age": "Unknown",
+                "birthday": "7/9",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "none",
+                "gender": "Female",
+                "status": "Bow down to your new commander~",
+                "personality": [ "motivated", "psychotic" ],
+                "hobbies": [ "Shooting", "Commandeering", "Snacking" ],
+                "favorite_foods": [ "Cheesecake", "Cake", "Pie", "Pastries", "Donuts", "Muffins", "Cookies", "Chocolate", "Soda", "Beer", "Liquor", "Whiskey" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Body worship", "Sex", "Pregnancy", "Belly Fucking", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+                "pregnant": false
+            }
+        },
+        {
             "id": "Froot",
             "pfp": "images/pfp/indie_vtubers/froot.png",
             "details": {
