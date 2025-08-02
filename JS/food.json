@@ -224,6 +224,11 @@
       "serving_size": 500
     },
     {
+      "name": "Monster Energy Drink 'H.O.T  T.O  G.O' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
       "name": "Monster Energy Drink 'Neon Lite' - 1 can",
       "calories": 12,
       "serving_size": 500
@@ -235,6 +240,11 @@
     },
     {
       "name": "Monster Energy Drink 'Ultra 50s Fantasia' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Ultra Fancy Fantastic' - 1 can",
       "calories": 12,
       "serving_size": 500
     },
