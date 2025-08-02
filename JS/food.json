@@ -199,12 +199,57 @@
   ],
   "Monster": [
     {
+      "name": "Monster Energy Drink 'Beach Vibes' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
       "name": "Monster Energy Drink 'Bimbo Juice' - 1 can",
       "calories": 12,
       "serving_size": 500
     },
     {
+      "name": "Monster Energy Drink 'Dairy Daiquiri' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Emo Gurl' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Flowery Kimono' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Neon Lite' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Sunset Sarsaparilla' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Ultra 50s Fantasia' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Ultra Geeky Grape' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
       "name": "Monster Energy Drink 'Ultra Strawberry Dreams' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Ultra Summer Sweetheart' - 1 can",
       "calories": 12,
       "serving_size": 500
     },
@@ -253,7 +298,7 @@
       "serving_size": 40
     }
   ],
-    "Pizza": [
+  "Pizza": [
         {
         "name": "Cheese Pizza - 1 slice",
         "calories": 213,
