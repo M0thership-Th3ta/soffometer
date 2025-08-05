@@ -185,6 +185,33 @@
       "serving_size": 396
     }
   ],
+  "Ice Cream": [
+    {
+      "name": "American Bunny Churro Dough Life - 1 cone",
+      "calories": 293,
+      "serving_size": 140
+    },
+    {
+      "name": "American Bunny Cookie Dough Life - 1 cone",
+      "calories": 293,
+      "serving_size": 140
+    },
+    {
+      "name": "American Bunny Double Cookie Crumble - 1 cone",
+      "calories": 337,
+      "serving_size": 140
+    },
+    {
+      "name": "American Bunny Chubby Hubby - 1 cone",
+      "calories": 408,
+      "serving_size": 140
+    },
+    {
+      "name": "American Bunny Chubby Hubby - 1 gallon",
+      "calories": 21750,
+      "serving_size": 3785
+    }
+  ],
   "Meat": [
     {
       "name": "Korean Barbeque Shotgun Shells - 1 shell",
