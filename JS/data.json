@@ -6602,7 +6602,7 @@
     "rwby": [
         {
             "id": "Blake",
-            "pfp": "images/pfp/rwby/blake.png",
+            "pfp": "../images/pfp/rwby/blake.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -6627,7 +6627,7 @@
         },
         {
             "id": "Yang",
-            "pfp": "images/pfp/rwby/yang.png",
+            "pfp": "../images/pfp/rwby/yang.png",
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
@@ -6652,7 +6652,7 @@
         },
         {
             "id": "Nora",
-            "pfp": "images/pfp/rwby/nora.png",
+            "pfp": "../images/pfp/rwby/nora.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
