@@ -6754,7 +6754,7 @@
     "synthwave": [
         {
             "id": "Emilia",
-            "pfp": "images/pfp/synthwave/emilia.png",
+            "pfp": "../images/pfp/synthwave/emilia.png",
             "details": {
                 "cm": 145,
                 "ft": "4'9\"",
@@ -6778,7 +6778,7 @@
         },
         {
             "id": "Ganyu",
-            "pfp": "images/pfp/synthwave/ganyu.png",
+            "pfp": "../images/pfp/synthwave/ganyu.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -6803,7 +6803,7 @@
         },
         {
             "id": "Grace",
-            "pfp": "images/pfp/synthwave/grace.jpg",
+            "pfp": "../images/pfp/synthwave/grace.jpg",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -6827,7 +6827,7 @@
         },
         {
             "id": "Palutena",
-            "pfp": "images/pfp/synthwave/palutena.png",
+            "pfp": "../images/pfp/synthwave/palutena.png",
             "details": {
                 "cm": 176,
                 "ft": "5'9\"",
@@ -6852,7 +6852,7 @@
         },
         {
             "id": "Peach",
-            "pfp": "images/pfp/synthwave/peach.png",
+            "pfp": "../images/pfp/synthwave/peach.png",
             "details": {
                 "cm": 186,
                 "ft": "6'1\"",
@@ -6877,7 +6877,7 @@
         },
         {
             "id": "Rosalina",
-            "pfp": "images/pfp/synthwave/rosalina.png",
+            "pfp": "../images/pfp/synthwave/rosalina.png",
             "details": {
                 "cm": 226,
                 "ft": "7'5\"",
@@ -6902,7 +6902,7 @@
         },
         {
             "id": "Sarahy",
-            "pfp": "images/pfp/synthwave/sarahy.png",
+            "pfp": "../images/pfp/synthwave/sarahy.png",
             "details": {
                 "cm": 193,
                 "ft": "6'4\"",
