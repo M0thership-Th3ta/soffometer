@@ -8,7 +8,7 @@ import { defaultKinks } from './jsoncreator.js';
 let globalData = null;
 
 function init(){
-    loadData("JS/data.json", memberListLoading);
+    loadData("../JS/data.json", memberListLoading);
 
     // Add event listener for ingested calories input
     const ingestedCaloriesInput = document.querySelector("#ingested-calories");
