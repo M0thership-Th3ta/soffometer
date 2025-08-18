@@ -2,7 +2,7 @@
     "azur_lane": [
         {
             "id": "Hwah Jah",
-            "pfp": "images/pfp/azur_lane/hwah_jah.png",
+            "pfp": "../images/pfp/azur_lane/hwah_jah.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -27,7 +27,7 @@
         },
         {
             "id": "Anchorage",
-            "pfp": "images/pfp/azur_lane/anchorage.png",
+            "pfp": "../images/pfp/azur_lane/anchorage.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -52,7 +52,7 @@
         },
         {
             "id": "Bremerton",
-            "pfp": "images/pfp/azur_lane/bremerton.png",
+            "pfp": "../images/pfp/azur_lane/bremerton.png",
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
@@ -77,7 +77,7 @@
         },
         {
             "id": "Honolulu",
-            "pfp": "images/pfp/azur_lane/honolulu.png",
+            "pfp": "../images/pfp/azur_lane/honolulu.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -102,7 +102,7 @@
         },
         {
             "id": "Saint Louis",
-            "pfp": "images/pfp/azur_lane/saint_louis.png",
+            "pfp": "../images/pfp/azur_lane/saint_louis.png",
             "details": {
                 "cm": 167,
                 "ft": "5'6\"",
@@ -127,7 +127,7 @@
         },
         {
             "id": "Ägir",
-            "pfp": "images/pfp/azur_lane/aegir.png",
+            "pfp": "../images/pfp/azur_lane/aegir.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -152,7 +152,7 @@
         },
         {
             "id": "Brünhilde",
-            "pfp": "images/pfp/azur_lane/bruenhilde.png",
+            "pfp": "../images/pfp/azur_lane/bruenhilde.png",
             "details": {
                 "cm": 180,
                 "ft": "5'11\"",
@@ -177,7 +177,7 @@
         },
         {
             "id": "Deutschland",
-            "pfp": "images/pfp/azur_lane/deutschland.png",
+            "pfp": "../images/pfp/azur_lane/deutschland.png",
             "details": {
                 "cm": 147,
                 "ft": "4'10\"",
@@ -202,7 +202,7 @@
         },
         {
             "id": "Emden",
-            "pfp": "images/pfp/azur_lane/emden.png",
+            "pfp": "../images/pfp/azur_lane/emden.png",
             "details": {
                 "cm": 164,
                 "ft": "5'5\"",
@@ -227,7 +227,7 @@
         },
         {
             "id": "Roon",
-            "pfp": "images/pfp/azur_lane/roon.png",
+            "pfp": "../images/pfp/azur_lane/roon.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -252,7 +252,7 @@
         },
         {
             "id": "Yorck",
-            "pfp": "images/pfp/azur_lane/yorck.png",
+            "pfp": "../images/pfp/azur_lane/yorck.png",
             "details": {
                 "cm": 150,
                 "ft": "4'11\"",
@@ -277,7 +277,7 @@
         },
         {
             "id": "Kronshtadt",
-            "pfp": "images/pfp/azur_lane/kronshtadt.png",
+            "pfp": "../images/pfp/azur_lane/kronshtadt.png",
             "details": {
                 "cm": 166,
                 "ft": "5'5\"",
@@ -302,7 +302,7 @@
         },
         {
             "id": "Ark Royal",
-            "pfp": "images/pfp/azur_lane/ark_royal.png",
+            "pfp": "../images/pfp/azur_lane/ark_royal.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -327,7 +327,7 @@
         },
         {
             "id": "Bellona",
-            "pfp": "images/pfp/azur_lane/bellona.png",
+            "pfp": "../images/pfp/azur_lane/bellona.png",
             "details": {
                 "cm": 161,
                 "ft": "5'3\"",
@@ -352,7 +352,7 @@
         },
         {
             "id": "Charybdis",
-            "pfp": "images/pfp/azur_lane/charybdis.png",
+            "pfp": "../images/pfp/azur_lane/charybdis.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -377,7 +377,7 @@
         },
         {
             "id": "Dido",
-            "pfp": "images/pfp/azur_lane/dido.png",
+            "pfp": "../images/pfp/azur_lane/dido.png",
             "details": {
                 "cm": 156,
                 "ft": "5'1\"",
@@ -402,7 +402,7 @@
         },
         {
             "id": "Formidable",
-            "pfp": "images/pfp/azur_lane/formidable.png",
+            "pfp": "../images/pfp/azur_lane/formidable.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -427,7 +427,7 @@
         },
         {
             "id": "Hermione",
-            "pfp": "images/pfp/azur_lane/hermione.png",
+            "pfp": "../images/pfp/azur_lane/hermione.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -452,7 +452,7 @@
         },
         {
             "id": "Revenge",
-            "pfp": "images/pfp/azur_lane/revenge.png",
+            "pfp": "../images/pfp/azur_lane/revenge.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -477,7 +477,7 @@
         },
         {
             "id": "Sirius",
-            "pfp": "images/pfp/azur_lane/sirius.png",
+            "pfp": "../images/pfp/azur_lane/sirius.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -502,7 +502,7 @@
         },
         {
             "id": "Atago",
-            "pfp": "images/pfp/azur_lane/atago.png",
+            "pfp": "../images/pfp/azur_lane/atago.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -527,7 +527,7 @@
         },
         {
             "id": "Musashi",
-            "pfp": "images/pfp/azur_lane/musashi.png",
+            "pfp": "../images/pfp/azur_lane/musashi.png",
             "details": {
                 "cm": 200,
                 "ft": "6'7\"",
@@ -552,7 +552,7 @@
         },
         {
             "id": "Shinano",
-            "pfp": "images/pfp/azur_lane/shinano.png",
+            "pfp": "../images/pfp/azur_lane/shinano.png",
             "details": {
                 "cm": 200,
                 "ft": "6'7\"",
@@ -577,7 +577,7 @@
         },
         {
             "id": "Shoukaku",
-            "pfp": "images/pfp/azur_lane/shoukaku.png",
+            "pfp": "../images/pfp/azur_lane/shoukaku.png",
             "details": {
                 "cm": 153,
                 "ft": "5'0\"",
@@ -602,7 +602,7 @@
         },
         {
             "id": "Taihou",
-            "pfp": "images/pfp/azur_lane/taihou.png",
+            "pfp": "../images/pfp/azur_lane/taihou.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -627,7 +627,7 @@
         },
         {
             "id": "Aquila",
-            "pfp": "images/pfp/azur_lane/aquila.png",
+            "pfp": "../images/pfp/azur_lane/aquila.png",
             "details": {
                 "cm": 159,
                 "ft": "5'3\"",
@@ -652,7 +652,7 @@
         },
         {
             "id": "Vittorio Veneto",
-            "pfp": "images/pfp/azur_lane/vittorio.png",
+            "pfp": "../images/pfp/azur_lane/vittorio.png",
             "details": {
                 "cm": 161,
                 "ft": "5'3\"",
@@ -677,7 +677,7 @@
         },
         {
             "id": "Mary Celeste",
-            "pfp": "images/pfp/azur_lane/mary_celeste.png",
+            "pfp": "../images/pfp/azur_lane/mary_celeste.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -702,7 +702,7 @@
         },
         {
             "id": "Royal Fortune",
-            "pfp": "images/pfp/azur_lane/royal_fortune.png",
+            "pfp": "../images/pfp/azur_lane/royal_fortune.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -727,7 +727,7 @@
         },
         {
             "id": "São Martinho",
-            "pfp": "images/pfp/azur_lane/sao_martinho.png",
+            "pfp": "../images/pfp/azur_lane/sao_martinho.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -752,7 +752,7 @@
         },
         {
             "id": "Algérie",
-            "pfp": "images/pfp/azur_lane/algerie.png",
+            "pfp": "../images/pfp/azur_lane/algerie.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
