@@ -10,8 +10,8 @@ function init(){
     const orderButton = document.querySelector("#order");
     document.getElementById("change-modes").addEventListener("click", toggleModes);
 
-    loadData("JS/data.json", memberListLoading);
-    loadData("JS/food.json", foodLoading);
+    loadData("../JS/data.json", memberListLoading);
+    loadData("../JS/food.json", foodLoading);
     addFoodToOrder();
     orderButton.addEventListener("click", createOrder);
 }
