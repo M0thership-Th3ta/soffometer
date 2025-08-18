@@ -24,10 +24,10 @@ function init(){
 
     elements.pageTitle.innerText = member;
 
-    loadData("JS/data.json", dataLoading);
-    loadData("JS/posts.json", postsLoading);
-    loadData("JS/body.json", bodyLoading);
-    loadData("JS/mood.json", moodLoading);
+    loadData("../JS/data.json", dataLoading);
+    loadData("../JS/posts.json", postsLoading);
+    loadData("../JS/body.json", bodyLoading);
+    loadData("../JS/mood.json", moodLoading);
 }
 
 function loadData(url, successHandler){

@@ -15,7 +15,7 @@ function init() {
         zoomControl: false,
     });
 
-    L.tileLayer('images/posts/mint_easter.png', {
+    L.tileLayer('../images/posts/mint_easter.png', {
         tileSize: 2048,
         noWrap: true,
         maxZoom: 0,
