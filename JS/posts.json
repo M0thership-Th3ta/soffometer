@@ -13,7 +13,7 @@
           "type": "image",
           "title": "Testing the image option",
           "date": "2025-04-14",
-          "source": "images/posts/suisei_burger.jpeg"
+          "source": "../images/posts/suisei_burger.jpeg"
         },
         {
           "type": "text",
@@ -30,7 +30,7 @@
           "type": "image",
           "title": "Got propperly stuffed with burgers today~ 100% worth it!",
           "date": "2025-05-24",
-          "source": "images/posts/burger2.jpeg"
+          "source": "../images/posts/burger2.jpeg"
         }
       ]
     }
@@ -43,7 +43,7 @@
           "type": "image",
           "title": "I get the appeal now.",
           "date": "2025-07-22",
-          "source": "images/posts/pizza_rolls.jpg"
+          "source": "../images/posts/pizza_rolls.jpg"
         }
       ]
     },
@@ -54,7 +54,7 @@
           "type": "image",
           "title": "These go so hard when you're reading tea",
           "date": "2025-07-22",
-          "source": "images/posts/pizza_rolls.jpg"
+          "source": "../images/posts/pizza_rolls.jpg"
         }
       ]
     },
@@ -65,13 +65,13 @@
           "type": "image",
           "title": "Happy 4/20!",
           "date": "2025-04-20",
-          "source": "images/posts/mint_420.jpg"
+          "source": "../images/posts/mint_420.jpg"
         },
         {
           "type": "image",
           "title": "Happy Easter!",
           "date": "2025-04-21",
-          "source": "images/posts/mint_easter.png"
+          "source": "../images/posts/mint_easter.png"
         },
         {
           "type": "text",
@@ -100,7 +100,7 @@
           "type": "image",
           "title": "So yummy!",
           "date": "2025-05-28",
-          "source": "images/posts/BBQshells.png"
+          "source": "../images/posts/BBQshells.png"
         }
       ]
     }
