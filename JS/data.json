@@ -6679,7 +6679,7 @@
     "scene": [
         {
             "id": "Midna",
-            "pfp": "images/pfp/scene/midna.png",
+            "pfp": "../images/pfp/scene/midna.png",
             "details": {
                 "cm": 84,
                 "ft": "2'9\"",
@@ -6704,7 +6704,7 @@
         },
         {
             "id": "Sarah",
-            "pfp": "images/pfp/scene/sarah.png",
+            "pfp": "../images/pfp/scene/sarah.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -6728,7 +6728,7 @@
         },
         {
             "id": "Zelda",
-            "pfp": "images/pfp/scene/zelda.png",
+            "pfp": "../images/pfp/scene/zelda.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
