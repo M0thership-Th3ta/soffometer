@@ -2,457 +2,457 @@
   "kipteitei": [
     {
       "size": 0,
-      "img": "images/body/KTT/KTT0.jpg"
+      "img": "../images/body/KTT/KTT0.jpg"
     },
     {
       "size": 1,
-      "img": "images/body/KTT/KTT1.jpg"
+      "img": "../images/body/KTT/KTT1.jpg"
     },
     {
       "size": 2,
-      "img": "images/body/KTT/KTT2.jpg"
+      "img": "../images/body/KTT/KTT2.jpg"
     },
     {
       "size": 3,
-      "img": "images/body/KTT/KTT3.jpg"
+      "img": "../images/body/KTT/KTT3.jpg"
     },
     {
       "size": 4,
-      "img": "images/body/KTT/KTT4.jpg"
+      "img": "../images/body/KTT/KTT4.jpg"
     },
     {
       "size": 5,
-      "img": "images/body/KTT/KTT5.jpg"
+      "img": "../images/body/KTT/KTT5.jpg"
     },
     {
       "size": 6,
-      "img": "images/body/KTT/KTT6.jpg"
+      "img": "../images/body/KTT/KTT6.jpg"
     },
     {
       "size": 7,
-      "img": "images/body/KTT/KTT7.jpg"
+      "img": "../images/body/KTT/KTT7.jpg"
     },
     {
       "size": 8,
-      "img": "images/body/KTT/KTT8.jpg"
+      "img": "../images/body/KTT/KTT8.jpg"
     },
     {
       "size": 9,
-      "img": "images/body/KTT/KTT9.jpg"
+      "img": "../images/body/KTT/KTT9.jpg"
     },
     {
       "size": 10,
-      "img": "images/body/KTT/KTT10.jpg"
+      "img": "../images/body/KTT/KTT10.jpg"
     },
     {
       "size": 11,
-      "img": "images/body/KTT/KTT11.jpg"
+      "img": "../images/body/KTT/KTT11.jpg"
     },
     {
       "size": 12,
-      "img": "images/body/KTT/KTT12.jpg"
+      "img": "../images/body/KTT/KTT12.jpg"
     },
     {
       "size": 13,
-      "img": "images/body/KTT/KTT13.jpg"
+      "img": "../images/body/KTT/KTT13.jpg"
     },
     {
       "size": 14,
-      "img": "images/body/KTT/KTT14.jpg"
+      "img": "../images/body/KTT/KTT14.jpg"
     },
     {
       "size": 15,
-      "img": "images/body/KTT/KTT15.jpg"
+      "img": "../images/body/KTT/KTT15.jpg"
     },
     {
       "size": 16,
-      "img": "images/body/KTT/KTT16.jpg"
+      "img": "../images/body/KTT/KTT16.jpg"
     },
     {
       "size": 17,
-      "img": "images/body/KTT/KTT17.jpg"
+      "img": "../images/body/KTT/KTT17.jpg"
     },
     {
       "size": 18,
-      "img": "images/body/KTT/KTT18.jpg"
+      "img": "../images/body/KTT/KTT18.jpg"
     },
     {
       "size": 19,
-      "img": "images/body/KTT/KTT19.jpg"
+      "img": "../images/body/KTT/KTT19.jpg"
     },
     {
       "size": 20,
-      "img": "images/body/KTT/KTT20.jpg"
+      "img": "../images/body/KTT/KTT20.jpg"
     }
   ],
   "orristerioso": [
     {
       "size": 0,
-      "img": "images/body/OR/OR0.png"
+      "img": "../images/body/OR/OR0.png"
     },
     {
       "size": 1,
-      "img": "images/body/OR/OR1.png"
+      "img": "../images/body/OR/OR1.png"
     },
     {
       "size": 2,
-      "img": "images/body/OR/OR2.png"
+      "img": "../images/body/OR/OR2.png"
     },
     {
       "size": 3,
-      "img": "images/body/OR/OR3.png"
+      "img": "../images/body/OR/OR3.png"
     },
     {
       "size": 4,
-      "img": "images/body/OR/OR4.png"
+      "img": "../images/body/OR/OR4.png"
     },
     {
       "size": 5,
-      "img": "images/body/OR/OR5.png"
+      "img": "../images/body/OR/OR5.png"
     },
     {
       "size": 6,
-      "img": "images/body/OR/OR6.png"
+      "img": "../images/body/OR/OR6.png"
     },
     {
       "size": 7,
-      "img": "images/body/OR/OR7.png"
+      "img": "../images/body/OR/OR7.png"
     },
     {
       "size": 8,
-      "img": "images/body/OR/OR8.png"
+      "img": "../images/body/OR/OR8.png"
     },
     {
       "size": 9,
-      "img": "images/body/OR/OR9.png"
+      "img": "../images/body/OR/OR9.png"
     },
     {
       "size": 10,
-      "img": "images/body/OR/OR10.png"
+      "img": "../images/body/OR/OR10.png"
     },
     {
       "size": 11,
-      "img": "images/body/OR/OR11.png"
+      "img": "../images/body/OR/OR11.png"
     },
     {
       "size": 12,
-      "img": "images/body/OR/OR12.png"
+      "img": "../images/body/OR/OR12.png"
     },
     {
       "size": 13,
-      "img": "images/body/OR/OR13.png"
+      "img": "../images/body/OR/OR13.png"
     },
     {
       "size": 14,
-      "img": "images/body/OR/OR14.png"
+      "img": "../images/body/OR/OR14.png"
     },
     {
       "size": 15,
-      "img": "images/body/OR/OR15.png"
+      "img": "../images/body/OR/OR15.png"
     },
     {
       "size": 16,
-      "img": "images/body/OR/OR16.png"
+      "img": "../images/body/OR/OR16.png"
     },
     {
       "size": 17,
-      "img": "images/body/OR/OR17.png"
+      "img": "../images/body/OR/OR17.png"
     },
     {
       "size": 18,
-      "img": "images/body/OR/OR18.png"
+      "img": "../images/body/OR/OR18.png"
     },
     {
       "size": 19,
-      "img": "images/body/OR/OR19.jpg"
+      "img": "../images/body/OR/OR19.jpg"
     },
     {
       "size": 20,
-      "img": "images/body/OR/OR20.png"
+      "img": "../images/body/OR/OR20.png"
     }
   ],
   "cakecatboy": [
     {
       "size": 0,
-      "img": "images/body/CCB/CCB0.png"
+      "img": "../images/body/CCB/CCB0.png"
     },
     {
       "size": 1,
-      "img": "images/body/CCB/CCB1.png"
+      "img": "../images/body/CCB/CCB1.png"
     },
     {
       "size": 2,
-      "img": "images/body/CCB/CCB2.png"
+      "img": "../images/body/CCB/CCB2.png"
     },
     {
       "size": 3,
-      "img": "images/body/CCB/CCB3.png"
+      "img": "../images/body/CCB/CCB3.png"
     },
     {
       "size": 4,
-      "img": "images/body/CCB/CCB4.jpg"
+      "img": "../images/body/CCB/CCB4.jpg"
     },
     {
       "size": 5,
-      "img": "images/body/CCB/CCB5.png"
+      "img": "../images/body/CCB/CCB5.png"
     },
     {
       "size": 6,
-      "img": "images/body/CCB/CCB6.png"
+      "img": "../images/body/CCB/CCB6.png"
     },
     {
       "size": 7,
-      "img": "images/body/CCB/CCB7.png"
+      "img": "../images/body/CCB/CCB7.png"
     },
     {
       "size": 8,
-      "img": "images/body/CCB/CCB8.jpg"
+      "img": "../images/body/CCB/CCB8.jpg"
     },
     {
       "size": 9,
-      "img": "images/body/CCB/CCB9.jpg"
+      "img": "../images/body/CCB/CCB9.jpg"
     },
     {
       "size": 10,
-      "img": "images/body/CCB/CCB10.png"
+      "img": "../images/body/CCB/CCB10.png"
     },
     {
       "size": 11,
-      "img": "images/body/CCB/CCB11.jpg"
+      "img": "../images/body/CCB/CCB11.jpg"
     },
     {
       "size": 12,
-      "img": "images/body/CCB/CCB12.jpg"
+      "img": "../images/body/CCB/CCB12.jpg"
     },
     {
       "size": 13,
-      "img": "images/body/CCB/CCB13.png"
+      "img": "../images/body/CCB/CCB13.png"
     },
     {
       "size": 14,
-      "img": "images/body/CCB/CCB14.png"
+      "img": "../images/body/CCB/CCB14.png"
     },
     {
       "size": 15,
-      "img": "images/body/CCB/CCB15.png"
+      "img": "../images/body/CCB/CCB15.png"
     },
     {
       "size": 16,
-      "img": "images/body/CCB/CCB16.png"
+      "img": "../images/body/CCB/CCB16.png"
     },
     {
       "size": 17,
-      "img": "images/body/CCB/CCB17.jpeg"
+      "img": "../images/body/CCB/CCB17.jpeg"
     },
     {
       "size": 18,
-      "img": "images/body/CCB/CCB18.png"
+      "img": "../images/body/CCB/CCB18.png"
     },
     {
       "size": 19,
-      "img": "images/body/CCB/CCB19.png"
+      "img": "../images/body/CCB/CCB19.png"
     },
     {
       "size": 20,
-      "img": "images/body/CCB/CCB20.png"
+      "img": "../images/body/CCB/CCB20.png"
     }
   ],
   "adiposesaleswoman": [
     {
       "size": 0,
-      "img": "images/body/ASW/ASW0.jpeg"
+      "img": "../images/body/ASW/ASW0.jpeg"
     },
     {
       "size": 1,
-      "img": "images/body/ASW/ASW1.jpg"
+      "img": "../images/body/ASW/ASW1.jpg"
     },
     {
       "size": 2,
-      "img": "images/body/ASW/ASW2.jpg"
+      "img": "../images/body/ASW/ASW2.jpg"
     },
     {
       "size": 3,
-      "img": "images/body/ASW/ASW3.jpeg"
+      "img": "../images/body/ASW/ASW3.jpeg"
     },
     {
       "size": 4,
-      "img": "images/body/ASW/ASW4.jpg"
+      "img": "../images/body/ASW/ASW4.jpg"
     },
     {
       "size": 5,
-      "img": "images/body/ASW/ASW5.jpg"
+      "img": "../images/body/ASW/ASW5.jpg"
     },
     {
       "size": 6,
-      "img": "images/body/ASW/ASW6.jpg"
+      "img": "../images/body/ASW/ASW6.jpg"
     },
     {
       "size": 7,
-      "img": "images/body/ASW/ASW7.jpg"
+      "img": "../images/body/ASW/ASW7.jpg"
     },
     {
       "size": 8,
-      "img": "images/body/ASW/ASW8.jpg"
+      "img": "../images/body/ASW/ASW8.jpg"
     },
     {
       "size": 9,
-      "img": "images/body/ASW/ASW9.jpeg"
+      "img": "../images/body/ASW/ASW9.jpeg"
     },
     {
       "size": 10,
-      "img": "images/body/ASW/ASW10.jpg"
+      "img": "../images/body/ASW/ASW10.jpg"
     },
     {
       "size": 11,
-      "img": "images/body/ASW/ASW11.jpeg"
+      "img": "../images/body/ASW/ASW11.jpeg"
     },
     {
       "size": 12,
-      "img": "images/body/ASW/ASW12.jpg"
+      "img": "../images/body/ASW/ASW12.jpg"
     },
     {
       "size": 13,
-      "img": "images/body/ASW/ASW13.jpg"
+      "img": "../images/body/ASW/ASW13.jpg"
     },
     {
       "size": 14,
-      "img": "images/body/ASW/ASW14.jpg"
+      "img": "../images/body/ASW/ASW14.jpg"
     },
     {
       "size": 15,
-      "img": "images/body/ASW/ASW15.jpeg"
+      "img": "../images/body/ASW/ASW15.jpeg"
     },
     {
       "size": 16,
-      "img": "images/body/ASW/ASW16.jpeg"
+      "img": "../images/body/ASW/ASW16.jpeg"
     },
     {
       "size": 17,
-      "img": "images/body/ASW/ASW17.jpeg"
+      "img": "../images/body/ASW/ASW17.jpeg"
     },
     {
       "size": 18,
-      "img": "images/body/ASW/ASW18.jpeg"
+      "img": "../images/body/ASW/ASW18.jpeg"
     },
     {
       "size": 19,
-      "img": "images/body/ASW/ASW19.jpg"
+      "img": "../images/body/ASW/ASW19.jpg"
     },
     {
       "size": 20,
-      "img": "images/body/ASW/ASW20.jpg"
+      "img": "../images/body/ASW/ASW20.jpg"
     }
   ],
   "betterwithsalt": [
     {
       "size": 21,
-      "img": "images/body/BWS/BWS21.png"
+      "img": "../images/body/BWS/BWS21.png"
     },
     {
       "size": 24,
-      "img": "images/body/BWS/BWS24.png"
+      "img": "../images/body/BWS/BWS24.png"
     },
     {
       "size": 27,
-      "img": "images/body/BWS/BWS27.png"
+      "img": "../images/body/BWS/BWS27.png"
     },
     {
       "size": 32,
-      "img": "images/body/BWS/BWS32.png"
+      "img": "../images/body/BWS/BWS32.png"
     },
     {
       "size": 36,
-      "img": "images/body/BWS/BWS36.png"
+      "img": "../images/body/BWS/BWS36.png"
     }
   ],
   "davielwithfries": [
     {
       "size": 21,
-      "img": "images/body/DWF/DWF21.png"
+      "img": "../images/body/DWF/DWF21.png"
     },
     {
       "size": 30,
-      "img": "images/body/DWF/DWF30.png"
+      "img": "../images/body/DWF/DWF30.png"
     },
     {
       "size": 36,
-      "img": "images/body/DWF/DWF36.png"
+      "img": "../images/body/DWF/DWF36.png"
     }
   ],
   "educabezon": [
     {
       "size": 21,
-      "img": "images/body/ECB/ECB21.png"
+      "img": "../images/body/ECB/ECB21.png"
     },
     {
       "size": 23,
-      "img": "images/body/ECB/ECB23.png"
+      "img": "../images/body/ECB/ECB23.png"
     },
     {
       "size": 25,
-      "img": "images/body/ECB/ECB25.png"
+      "img": "../images/body/ECB/ECB25.png"
     },
     {
       "size": 27,
-      "img": "images/body/ECB/ECB27.png"
+      "img": "../images/body/ECB/ECB27.png"
     },
     {
       "size": 29,
-      "img": "images/body/ECB/ECB29.png"
+      "img": "../images/body/ECB/ECB29.png"
     },
     {
       "size": 31,
-      "img": "images/body/ECB/ECB31.png"
+      "img": "../images/body/ECB/ECB31.png"
     },
     {
       "size": 33,
-      "img": "images/body/ECB/ECB33.png"
+      "img": "../images/body/ECB/ECB33.png"
     },
     {
       "size": 36,
-      "img": "images/body/ECB/ECB36.png"
+      "img": "../images/body/ECB/ECB36.png"
     },
     {
       "size": 39,
-      "img": "images/body/ECB/ECB39.png"
+      "img": "../images/body/ECB/ECB39.png"
     },
     {
       "size": 45,
-      "img": "images/body/ECB/ECB45.png"
+      "img": "../images/body/ECB/ECB45.png"
     },
     {
       "size": 72,
-      "img": "images/body/ECB/ECB72.png"
+      "img": "../images/body/ECB/ECB72.png"
     },
     {
       "size": 100,
-      "img": "images/body/ECB/ECB100.png"
+      "img": "../images/body/ECB/ECB100.png"
     }
   ],
   "plumpknight": [
     {
       "size": 21,
-      "img": "images/body/PK/PK21.png"
+      "img": "../images/body/PK/PK21.png"
     },
     {
       "size": 42,
-      "img": "images/body/PK/PK42.png"
+      "img": "../images/body/PK/PK42.png"
     }
   ],
   "instantgirl": [
     {
       "size": 0,
-      "img": "images/body/IG/IG0.png"
+      "img": "../images/body/IG/IG0.png"
     },
     {
       "size": 18,
-      "img": "images/body/IG/IG18.png"
+      "img": "../images/body/IG/IG18.png"
     }
   ],
   "lewdlemage": [
     {
       "size": 0,
-      "img": "images/body/LM/LM0.png"
+      "img": "../images/body/LM/LM0.png"
     }
   ]
 }
