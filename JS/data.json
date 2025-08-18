@@ -1901,7 +1901,7 @@
         },
         {
             "id": "Reine",
-            "pfp": "images/pfp/hololive/reine.png",
+            "pfp": "../images/pfp/hololive/reine.png",
             "details": {
                 "cm": 172,
                 "ft": "5'8\"",
@@ -1926,7 +1926,7 @@
         },
         {
             "id": "Calliope",
-            "pfp": "images/pfp/hololive/calliope.png",
+            "pfp": "../images/pfp/hololive/calliope.png",
             "details": {
                 "cm": 167,
                 "ft": "5'6\"",
@@ -1951,7 +1951,7 @@
         },
         {
             "id": "Kiara",
-            "pfp": "images/pfp/hololive/kiara.png",
+            "pfp": "../images/pfp/hololive/kiara.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -1976,7 +1976,7 @@
         },
         {
             "id": "Ina",
-            "pfp": "images/pfp/hololive/ina.png",
+            "pfp": "../images/pfp/hololive/ina.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -2001,7 +2001,7 @@
         },
         {
             "id": "Amelia",
-            "pfp": "images/pfp/hololive/amelia.png",
+            "pfp": "../images/pfp/hololive/amelia.png",
             "details": {
                 "cm": 150,
                 "ft": "4'11\"",
@@ -2026,7 +2026,7 @@
         },
         {
             "id": "Gura",
-            "pfp": "images/pfp/hololive/gura.png",
+            "pfp": "../images/pfp/hololive/gura.png",
             "details": {
                 "cm": 141,
                 "ft": "4'8\"",
@@ -2051,7 +2051,7 @@
         },
         {
             "id": "IRyS",
-            "pfp": "images/pfp/hololive/irys.png",
+            "pfp": "../images/pfp/hololive/irys.png",
             "details": {
                 "cm": 166,
                 "ft": "5'5\"",
@@ -2076,7 +2076,7 @@
         },
         {
             "id": "Kronii",
-            "pfp": "images/pfp/hololive/kronii.png",
+            "pfp": "../images/pfp/hololive/kronii.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -2101,7 +2101,7 @@
         },
         {
             "id": "Bae",
-            "pfp": "images/pfp/hololive/bae.png",
+            "pfp": "../images/pfp/hololive/bae.png",
             "details": {
                 "cm": 149,
                 "ft": "4'11\"",
@@ -2126,7 +2126,7 @@
         },
         {
             "id": "Sana",
-            "pfp": "images/pfp/hololive/sana.png",
+            "pfp": "../images/pfp/hololive/sana.png",
             "details": {
                 "cm": 169,
                 "ft": "5'7\"",
@@ -2151,7 +2151,7 @@
         },
         {
             "id": "Fauna",
-            "pfp": "images/pfp/hololive/fauna.png",
+            "pfp": "../images/pfp/hololive/fauna.png",
             "details": {
                 "cm": 164,
                 "ft": "5'5\"",
@@ -2176,7 +2176,7 @@
         },
         {
             "id": "Shiori",
-            "pfp": "images/pfp/hololive/shiori.png",
+            "pfp": "../images/pfp/hololive/shiori.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -2201,7 +2201,7 @@
         },
         {
             "id": "Nerissa",
-            "pfp": "images/pfp/hololive/nerissa.png",
+            "pfp": "../images/pfp/hololive/nerissa.png",
             "details": {
                 "cm": 175,
                 "ft": "5'9\"",
@@ -2226,7 +2226,7 @@
         },
         {
             "id": "Fuwawa",
-            "pfp": "images/pfp/hololive/fuwawa.png",
+            "pfp": "../images/pfp/hololive/fuwawa.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -2251,7 +2251,7 @@
         },
         {
             "id": "Mococo",
-            "pfp": "images/pfp/hololive/mococo.png",
+            "pfp": "../images/pfp/hololive/mococo.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -2276,7 +2276,7 @@
         },
         {
             "id": "Elizabeth",
-            "pfp": "images/pfp/hololive/elizabeth.png",
+            "pfp": "../images/pfp/hololive/elizabeth.png",
             "details": {
                 "cm": 171,
                 "ft": "5'7\"",
@@ -2301,7 +2301,7 @@
         },
         {
             "id": "Raora",
-            "pfp": "images/pfp/hololive/raora.png",
+            "pfp": "../images/pfp/hololive/raora.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",

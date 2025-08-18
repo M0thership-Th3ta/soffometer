@@ -111,7 +111,7 @@ function createCards(data){
             localStorage.setItem("menu", selectedMenu);
         });
 
-        memberLink.setAttribute("href", "member.html")
+        memberLink.setAttribute("href", "pages/member.html")
         memberLink.append(memberArticle)
         memberMenu.append(memberLink)
     }
@@ -167,7 +167,7 @@ function createFavoriteCards(data){
                 localStorage.setItem("menu", menu);
             });
 
-            memberLink.setAttribute("href", "member.html")
+            memberLink.setAttribute("href", "pages/member.html")
             memberLink.append(memberArticle)
             favoriteMenu.append(memberLink)
         }
