@@ -953,7 +953,7 @@
     "frutiger_aero": [
         {
             "id": "Frankie",
-            "pfp": "images/pfp/frutiger_aero/frankie.png",
+            "pfp": "../images/pfp/frutiger_aero/frankie.png",
             "details": {
                 "cm": 172,
                 "ft": "5'8\"",
@@ -977,7 +977,7 @@
         },
         {
             "id": "Kitty",
-            "pfp": "images/pfp/frutiger_aero/kitty.png",
+            "pfp": "../images/pfp/frutiger_aero/kitty.png",
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
@@ -1002,7 +1002,7 @@
         },
         {
             "id": "Toriel",
-            "pfp": "images/pfp/frutiger_aero/toriel.png",
+            "pfp": "../images/pfp/frutiger_aero/toriel.png",
             "details": {
                 "cm": 187,
                 "ft": "6'2\"",
