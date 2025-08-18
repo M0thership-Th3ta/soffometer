@@ -4583,7 +4583,7 @@
     "instant_girl": [
         {
             "id": "Angel",
-            "pfp": "images/pfp/instant_girl/angel.png",
+            "pfp": "../images/pfp/instant_girl/angel.png",
             "details": {
                 "cm": 167,
                 "ft": "5'6\"",
@@ -4607,7 +4607,7 @@
         },
         {
             "id": "Devil",
-            "pfp": "images/pfp/instant_girl/devil.png",
+            "pfp": "../images/pfp/instant_girl/devil.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -4631,7 +4631,7 @@
         },
         {
             "id": "Chloe",
-            "pfp": "images/pfp/instant_girl/chloe.png",
+            "pfp": "../images/pfp/instant_girl/chloe.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -4655,7 +4655,7 @@
         },
         {
             "id": "Iggy",
-            "pfp": "images/pfp/instant_girl/iggy.png",
+            "pfp": "../images/pfp/instant_girl/iggy.png",
             "details": {
                 "cm": 170,
                 "ft": "5'7\"",
@@ -4679,7 +4679,7 @@
         },
         {
             "id": "Sapphire",
-            "pfp": "images/pfp/instant_girl/sapphire.png",
+            "pfp": "../images/pfp/instant_girl/sapphire.png",
             "details": {
                 "cm": 145,
                 "ft": "4'9\"",
@@ -4703,7 +4703,7 @@
         },
         {
             "id": "Lilac",
-            "pfp": "images/pfp/instant_girl/lilac.png",
+            "pfp": "../images/pfp/instant_girl/lilac.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -4727,7 +4727,7 @@
         },
         {
             "id": "Vicky",
-            "pfp": "images/pfp/instant_girl/vicky.png",
+            "pfp": "../images/pfp/instant_girl/vicky.png",
             "details": {
                 "cm": 190,
                 "ft": "6'3\"",
@@ -4751,7 +4751,7 @@
         },
         {
             "id": "Rikki",
-            "pfp": "images/pfp/instant_girl/rikki.png",
+            "pfp": "../images/pfp/instant_girl/rikki.png",
             "details": {
                 "cm": 148,
                 "ft": "4'10\"",
