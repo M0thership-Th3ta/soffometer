@@ -779,7 +779,7 @@
     "dragon_maid": [
         {
             "id": "Elma",
-            "pfp": "images/pfp/dragon_maid/elma.png",
+            "pfp": "../images/pfp/dragon_maid/elma.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -803,7 +803,7 @@
         },
         {
             "id": "Lucoa",
-            "pfp": "images/pfp/dragon_maid/lucoa.png",
+            "pfp": "../images/pfp/dragon_maid/lucoa.png",
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
@@ -827,7 +827,7 @@
         },
         {
             "id": "Tohru",
-            "pfp": "images/pfp/dragon_maid/tohru.png",
+            "pfp": "../images/pfp/dragon_maid/tohru.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
