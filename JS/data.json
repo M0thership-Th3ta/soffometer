@@ -1151,7 +1151,7 @@
     "hololive": [
         {
             "id": "Roboco",
-            "pfp": "images/pfp/hololive/roboco.png",
+            "pfp": "../images/pfp/hololive/roboco.png",
             "details": {
                 "cm": 154,
                 "ft": "5'1\"",
@@ -1176,7 +1176,7 @@
         },
         {
             "id": "Suisei",
-            "pfp": "images/pfp/hololive/suisei.png",
+            "pfp": "../images/pfp/hololive/suisei.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -1201,7 +1201,7 @@
         },
         {
             "id": "Matsuri",
-            "pfp": "images/pfp/hololive/matsuri.png",
+            "pfp": "../images/pfp/hololive/matsuri.png",
             "details": {
                 "cm": 152,
                 "ft": "5'0\"",
@@ -1226,7 +1226,7 @@
         },
         {
             "id": "Haato/Haachama",
-            "pfp": "images/pfp/hololive/haato.png",
+            "pfp": "../images/pfp/hololive/haato.png",
             "details": {
                 "cm": 154,
                 "ft": "5'1\"",
@@ -1251,7 +1251,7 @@
         },
         {
             "id": "AkiRose",
-            "pfp": "images/pfp/hololive/akirose.png",
+            "pfp": "../images/pfp/hololive/akirose.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -1276,7 +1276,7 @@
         },
         {
             "id": "Mel",
-            "pfp": "images/pfp/hololive/mel.png",
+            "pfp": "../images/pfp/hololive/mel.png",
             "details": {
                 "cm": 154,
                 "ft": "5'1\"",
@@ -1301,7 +1301,7 @@
         },
         {
             "id": "Choco",
-            "pfp": "images/pfp/hololive/choco.png",
+            "pfp": "../images/pfp/hololive/choco.png",
             "details": {
                 "cm": 166,
                 "ft": "5'5\"",
@@ -1326,7 +1326,7 @@
         },
         {
             "id": "Aqua",
-            "pfp": "images/pfp/hololive/aqua.png",
+            "pfp": "../images/pfp/hololive/aqua.png",
             "details": {
                 "cm": 148,
                 "ft": "4'10\"",
@@ -1351,7 +1351,7 @@
         },
         {
             "id": "Shion",
-            "pfp": "images/pfp/hololive/shion.png",
+            "pfp": "../images/pfp/hololive/shion.png",
             "details": {
                 "cm": 145,
                 "ft": "4'9\"",
@@ -1376,7 +1376,7 @@
         },
         {
             "id": "Fubuki",
-            "pfp": "images/pfp/hololive/fubuki.png",
+            "pfp": "../images/pfp/hololive/fubuki.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -1401,7 +1401,7 @@
         },
         {
             "id": "Mio",
-            "pfp": "images/pfp/hololive/mio.png",
+            "pfp": "../images/pfp/hololive/mio.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -1426,7 +1426,7 @@
         },
         {
             "id": "Okayu",
-            "pfp": "images/pfp/hololive/okayu.png",
+            "pfp": "../images/pfp/hololive/okayu.png",
             "details": {
                 "cm": 152,
                 "ft": "5'0\"",
@@ -1451,7 +1451,7 @@
         },
         {
             "id": "Korone",
-            "pfp": "images/pfp/hololive/korone.png",
+            "pfp": "../images/pfp/hololive/korone.png",
             "details": {
                 "cm": 156,
                 "ft": "5'1\"",
@@ -1476,7 +1476,7 @@
         },
         {
             "id": "Pekora",
-            "pfp": "images/pfp/hololive/pekora.png",
+            "pfp": "../images/pfp/hololive/pekora.png",
             "details": {
                 "cm": 153,
                 "ft": "5'0\"",
@@ -1501,7 +1501,7 @@
         },
         {
             "id": "Flare",
-            "pfp": "images/pfp/hololive/flare.png",
+            "pfp": "../images/pfp/hololive/flare.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -1526,7 +1526,7 @@
         },
         {
             "id": "Noel",
-            "pfp": "images/pfp/hololive/noel.png",
+            "pfp": "../images/pfp/hololive/noel.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -1551,7 +1551,7 @@
         },
         {
             "id": "Marine",
-            "pfp": "images/pfp/hololive/marine.png",
+            "pfp": "../images/pfp/hololive/marine.png",
             "details": {
                 "cm": 150,
                 "ft": "4'11\"",
@@ -1576,7 +1576,7 @@
         },
         {
             "id": "Kanata",
-            "pfp": "images/pfp/hololive/kanata.png",
+            "pfp": "../images/pfp/hololive/kanata.png",
             "details": {
                 "cm": 149,
                 "ft": "4'11\"",
@@ -1601,7 +1601,7 @@
         },
         {
             "id": "Watame",
-            "pfp": "images/pfp/hololive/watame.png",
+            "pfp": "../images/pfp/hololive/watame.png",
             "details": {
                 "cm": 151,
                 "ft": "4'11\"",
@@ -1626,7 +1626,7 @@
         },
         {
             "id": "Coco",
-            "pfp": "images/pfp/hololive/coco.png",
+            "pfp": "../images/pfp/hololive/coco.png",
             "details": {
                 "cm": 180,
                 "ft": "5'11\"",
@@ -1651,7 +1651,7 @@
         },
         {
             "id": "Lamy",
-            "pfp": "images/pfp/hololive/lamy.png",
+            "pfp": "../images/pfp/hololive/lamy.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -1676,7 +1676,7 @@
         },
         {
             "id": "Botan",
-            "pfp": "images/pfp/hololive/botan.png",
+            "pfp": "../images/pfp/hololive/botan.png",
             "details": {
                 "cm": 166,
                 "ft": "5'5\"",
@@ -1701,7 +1701,7 @@
         },
         {
             "id": "Polka",
-            "pfp": "images/pfp/hololive/polka.png",
+            "pfp": "../images/pfp/hololive/polka.png",
             "details": {
                 "cm": 153,
                 "ft": "5'0\"",
@@ -1726,7 +1726,7 @@
         },
         {
             "id": "Lui",
-            "pfp": "images/pfp/hololive/lui.png",
+            "pfp": "../images/pfp/hololive/lui.png",
             "details": {
                 "cm": 161,
                 "ft": "5'3\"",
@@ -1751,7 +1751,7 @@
         },
         {
             "id": "Koyori",
-            "pfp": "images/pfp/hololive/koyori.png",
+            "pfp": "../images/pfp/hololive/koyori.png",
             "details": {
                 "cm": 153,
                 "ft": "5'0\"",
@@ -1776,7 +1776,7 @@
         },
         {
             "id": "Chloe",
-            "pfp": "images/pfp/hololive/chloe.png",
+            "pfp": "../images/pfp/hololive/chloe.png",
             "details": {
                 "cm": 148,
                 "ft": "4'10\"",
@@ -1801,7 +1801,7 @@
         },
         {
             "id": "Risu",
-            "pfp": "images/pfp/hololive/risu.png",
+            "pfp": "../images/pfp/hololive/risu.png",
             "details": {
                 "cm": 153,
                 "ft": "5'0\"",
@@ -1826,7 +1826,7 @@
         },
         {
             "id": "Moona",
-            "pfp": "images/pfp/hololive/moona.png",
+            "pfp": "../images/pfp/hololive/moona.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -1851,7 +1851,7 @@
         },
         {
             "id": "Iofi",
-            "pfp": "images/pfp/hololive/iofi.png",
+            "pfp": "../images/pfp/hololive/iofi.png",
             "details": {
                 "cm": 150,
                 "ft": "4'11\"",
@@ -1876,7 +1876,7 @@
         },
         {
             "id": "Ollie",
-            "pfp": "images/pfp/hololive/ollie.png",
+            "pfp": "../images/pfp/hololive/ollie.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -2326,7 +2326,7 @@
         },
         {
             "id": "Ririka",
-            "pfp": "images/pfp/hololive/ririka.png",
+            "pfp": "../images/pfp/hololive/ririka.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -2351,7 +2351,7 @@
         },
         {
             "id": "Raden",
-            "pfp": "images/pfp/hololive/raden.png",
+            "pfp": "../images/pfp/hololive/raden.png",
             "details": {
                 "cm": 159,
                 "ft": "5'3\"",
@@ -2376,7 +2376,7 @@
         },
         {
             "id": "Niko",
-            "pfp": "images/pfp/hololive/niko.png",
+            "pfp": "../images/pfp/hololive/niko.png",
             "details": {
                 "cm": 172,
                 "ft": "5'8\"",
@@ -2401,7 +2401,7 @@
         },
         {
             "id": "Chihaya",
-            "pfp": "images/pfp/hololive/chihaya.png",
+            "pfp": "../images/pfp/hololive/chihaya.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
