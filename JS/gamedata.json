@@ -1,0 +1,18 @@
+[
+  {
+    "character": "Calliope",
+    "sprite": "",
+    "stats": {
+      "personality": ["cool", "sarcastic", "self-conscious"],
+      "likes": ["music", "dark humor", "fast food"],
+      "favorite food": ["burgers", "pizza", "fries", "energy drinks", "soda", "sushi", "ramen"],
+      "dislikes": ["crowds"],
+      "hobbies": ["music production", "gaming", "streaming"],
+      "weight": 51.5,
+      "height_cm": 167,
+      "height_in": "5'6\"",
+      "body_type": "apple",
+      "age": "Ageless"
+    }
+  }
+]
