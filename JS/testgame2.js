@@ -2,11 +2,13 @@ window.addEventListener('load', init);
 
 let gameData = [];
 let gameMalleableData = [];
+let dayCount = 1;
 
 function init() {
     // Check if data exists in localStorage first
     const storedData = localStorage.getItem('gameData');
     const storedMalleableData = localStorage.getItem('gameMalleableData');
+    const storedDayCount = localStorage.getItem('dayCount');
 
     if (storedData) {
         gameData = JSON.parse(storedData);
@@ -17,6 +19,11 @@ function init() {
     } else {
         loadData("../JS/gamedata.json", gameDataLoading);
     }
+
+    dayCount = storedDayCount ? parseInt(storedDayCount) : 1;
+
+    document.getElementById('reset').addEventListener('click', resetGame);
+    document.getElementById('sleep').addEventListener('click', sleepAction);
 }
 
 function loadData(url, successHandler){
@@ -65,9 +72,7 @@ function initializeMalleableData() {
 function calculateBMRForAllCharacters() {
     gameData.forEach((character, index) => {
         const age = isNaN(parseInt(character.stats.age)) ? 50 : parseInt(character.stats.age);
-        const bmr = Number(((9.247 * character.stats.weight) + (3.098 * character.stats.height_cm) - (4.330 * age) + 447.593).toFixed(0));
-
-        gameMalleableData[index].data.bmr = bmr;
+        gameMalleableData[index].data.bmr = Number(((9.247 * character.stats.weight) + (3.098 * character.stats.height_cm) - (4.330 * age) + 447.593).toFixed(0));
     });
 
     // Store malleable data in localStorage
@@ -81,26 +86,75 @@ function calculateMealsForAllCharacters() {
         const extraCalories = Math.round(mealCalories * 0.05);
 
         // Random variation for breakfast (1/3 chance each)
-        const randomChance = Math.floor(Math.random() * 3);
+        const randomBreakfastChance = Math.floor(Math.random() * 3);
         let breakfastCalories;
 
-        if (randomChance === 0) {
-            // Add extra calories
+        if (randomBreakfastChance === 0) {
             breakfastCalories = mealCalories + extraCalories;
-        } else if (randomChance === 1) {
-            // Subtract extra calories
+        } else if (randomBreakfastChance === 1) {
             breakfastCalories = mealCalories - extraCalories;
         } else {
-            // Standard meal calories
             breakfastCalories = mealCalories;
         }
 
+        // Random variation for lunch (1/3 chance each)
+        const randomLunchChance = Math.floor(Math.random() * 3);
+        let lunchCalories;
+
+        if (randomLunchChance === 0) {
+            lunchCalories = mealCalories + extraCalories;
+        } else if (randomLunchChance === 1) {
+            lunchCalories = mealCalories - extraCalories;
+        } else {
+            lunchCalories = mealCalories;
+        }
+
+        // Random variation for dinner (1/3 chance each)
+        const randomDinnerChance = Math.floor(Math.random() * 3);
+        let dinnerCalories;
+
+        if (randomDinnerChance === 0) {
+            dinnerCalories = mealCalories + extraCalories;
+        } else if (randomDinnerChance === 1) {
+            dinnerCalories = mealCalories - extraCalories;
+        } else {
+            dinnerCalories = mealCalories;
+        }
+
         characterData.data.breakfastMeal = breakfastCalories;
-        characterData.data.lunchMeal = mealCalories;
-        characterData.data.dinnerMeal = mealCalories;
+        characterData.data.lunchMeal = lunchCalories;
+        characterData.data.dinnerMeal = dinnerCalories;
     });
 
     // Store updated malleable data in localStorage
     localStorage.setItem('gameMalleableData', JSON.stringify(gameMalleableData));
     console.log("Meal data calculated and stored:", gameMalleableData);
+}
+
+function resetGame() {
+    // Clear localStorage
+    localStorage.removeItem('gameData');
+    localStorage.removeItem('gameMalleableData');
+    localStorage.removeItem('dayCount');
+
+    // Clear local variables
+    gameData = [];
+    gameMalleableData = [];
+    dayCount = 1;
+
+    localStorage.setItem('dayCount', '1');
+
+    // Reload the page to start fresh
+    location.reload();
+}
+
+function sleepAction() {
+    dayCount++;
+    localStorage.setItem('dayCount', dayCount.toString());
+
+    // Recalculate data for all characters
+    calculateBMRForAllCharacters();
+    calculateMealsForAllCharacters();
+
+    console.log(`Day ${dayCount} started`);
 }

@@ -457,6 +457,12 @@ div .user-info-subsection {
     display: none;
 }
 
+.game-button {
+    width: 90%;
+    padding: 5px;
+    border: 4px solid var(--color-secondary);
+}
+
 @media (max-width: 800px) {
     .member-gallery,
     .index-text,
