@@ -1,0 +1,12 @@
+[
+  {
+    "character": "calliope",
+    "aquisition": "Oh hey! Hi there, I'm Calliope. I don't think we've met before, right?",
+    "base": {
+      "greeting_new": "Hey, great to see you.",
+      "greeting_low": "Hey hey! What's up!",
+      "greeting_medium": "Hey~ wanna do something fun?",
+      "greeting_high": "Hey there~ I missed you, let's do something fun!"
+    }
+  }
+]
