@@ -4,6 +4,7 @@
     "stats": {
       "personality": ["cool", "sarcastic", "self-conscious"],
       "likes": ["music", "dark humor", "fast food"],
+      "locations": ["mall", "arcade", "skatepark", "studio", "kfp", "beach", "pool", "waterpark"],
       "favorite food": ["burgers", "pizza", "fries", "energy drinks", "soda", "sushi", "ramen"],
       "dislikes": ["crowds"],
       "hobbies": ["music production", "gaming", "streaming"],
