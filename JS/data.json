@@ -2,7 +2,7 @@
     "azur_lane": [
         {
             "id": "Hwah Jah",
-            "pfp": "../images/pfp/azur_lane/hwah_jah.png",
+            "pfp": "./images/pfp/azur_lane/hwah_jah.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -27,7 +27,7 @@
         },
         {
             "id": "Anchorage",
-            "pfp": "../images/pfp/azur_lane/anchorage.png",
+            "pfp": "./images/pfp/azur_lane/anchorage.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -52,7 +52,7 @@
         },
         {
             "id": "Bremerton",
-            "pfp": "../images/pfp/azur_lane/bremerton.png",
+            "pfp": "./images/pfp/azur_lane/bremerton.png",
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
@@ -77,7 +77,7 @@
         },
         {
             "id": "Honolulu",
-            "pfp": "../images/pfp/azur_lane/honolulu.png",
+            "pfp": "./images/pfp/azur_lane/honolulu.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -102,7 +102,7 @@
         },
         {
             "id": "Saint Louis",
-            "pfp": "../images/pfp/azur_lane/saint_louis.png",
+            "pfp": "./images/pfp/azur_lane/saint_louis.png",
             "details": {
                 "cm": 167,
                 "ft": "5'6\"",
