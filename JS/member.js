@@ -50,8 +50,9 @@ function dataLoading(data){
     if (memberData) {
         details = [memberData.details];
         if (memberData.pfp) {
-            preloadImages([memberData.pfp]); // Preload the image
-            userImage.setAttribute("src", memberData.pfp);
+            const imagePath = `../${memberData.pfp}`;
+            preloadImages([imagePath]);
+            userImage.setAttribute("src", imagePath);
         }
     }
     detailsLoading();
