@@ -853,7 +853,7 @@
     "fire_emblem": [
         {
             "id": "Ninian",
-            "pfp": "../images/pfp/fire_emblem/ninian.png",
+            "pfp": "images/pfp/fire_emblem/ninian.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -877,7 +877,7 @@
         },
         {
             "id": "Camilla",
-            "pfp": "../images/pfp/fire_emblem/camilla.png",
+            "pfp": "images/pfp/fire_emblem/camilla.png",
             "details": {
                 "cm": 175,
                 "ft": "5'9\"",
@@ -901,7 +901,7 @@
         },
         {
             "id": "Dorothea",
-            "pfp": "../images/pfp/fire_emblem/dorothea.png",
+            "pfp": "images/pfp/fire_emblem/dorothea.png",
             "details": {
                 "cm": 170,
                 "ft": "5'7\"",
@@ -926,7 +926,7 @@
         },
         {
             "id": "Mercedes",
-            "pfp": "../images/pfp/fire_emblem/mercedes.png",
+            "pfp": "images/pfp/fire_emblem/mercedes.png",
             "details": {
                 "cm": 169,
                 "ft": "5'7\"",
@@ -953,7 +953,7 @@
     "frutiger_aero": [
         {
             "id": "Frankie",
-            "pfp": "../images/pfp/frutiger_aero/frankie.png",
+            "pfp": "images/pfp/frutiger_aero/frankie.png",
             "details": {
                 "cm": 172,
                 "ft": "5'8\"",
@@ -977,7 +977,7 @@
         },
         {
             "id": "Kitty",
-            "pfp": "../images/pfp/frutiger_aero/kitty.png",
+            "pfp": "images/pfp/frutiger_aero/kitty.png",
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
@@ -1002,7 +1002,7 @@
         },
         {
             "id": "Toriel",
-            "pfp": "../images/pfp/frutiger_aero/toriel.png",
+            "pfp": "images/pfp/frutiger_aero/toriel.png",
             "details": {
                 "cm": 187,
                 "ft": "6'2\"",
