@@ -2,7 +2,10 @@ window.addEventListener('load', init);
 
 let gameData = [];
 let gameMalleableData = [];
+let gameSprites = [];
+let gameLines = [];
 let dayCount = 1;
+let isLoading = false;
 
 function init() {
     // Check if data exists in localStorage first
@@ -27,7 +30,18 @@ function init() {
 
     document.getElementById('reset').addEventListener('click', resetGame);
     document.getElementById('sleep').addEventListener('click', sleepAction);
-    document.getElementById('paradise').addEventListener('click', showParadiseMenu);
+    document.getElementById('paradise').addEventListener('click', (e) => {
+        if (!isLoading) showParadiseMenu();
+    });
+    document.getElementById('synth').addEventListener('click', (e) => {
+        if (!isLoading) showSynthMenu();
+    });
+    document.getElementById('cotv').addEventListener('click', (e) => {
+        if (!isLoading) showCOTVMenu();
+    });
+    document.getElementById('other').addEventListener('click', (e) => {
+        if (!isLoading) showOtherMenu();
+    });
 
     const dialogueBox = document.getElementById('dialogue-box');
     const introText = '<h2>Welcome to Synthwave!</h2><p>Navigate through the system, meet our members, and experience the system in a way not done before. Use the buttons on the right to travel between locations or manage your game. When you meet people you can contact them with the menu to your left.</p>';
@@ -66,10 +80,12 @@ function gameDataLoading(data){
 
 function loadDialogue(data) {
     console.log("Dialogue data loaded from server");
+    gameLines = data;
 }
 
 function loadSprites(data) {
     console.log("Sprite data loaded from server");
+    gameSprites = data;
 }
 
 function typeWriter(element, text, speed = 50, callback = null) {
@@ -265,27 +281,22 @@ function sleepAction() {
     console.log(`Day ${dayCount} started`);
 }
 
-function createBackground(scene) {
-    console.log("changing scene");
-}
+function showLocationMenu(cityName, locations) {
+    if (isLoading) return; // Prevent multiple calls
 
-function spawnCharacter(character) {
-    console.log("Spawning character:", character);
-}
-
-function showParadiseMenu() {
+    isLoading = true;
     const dialogueBox = document.getElementById('dialogue-box');
+
+    const locationOptions = locations.map(loc =>
+        `<div class="menu-option" data-location="${loc.id}" data-city="${cityName}">> ${loc.name}</div>`
+    ).join('');
 
     const menuHTML = `
         <div class="location-menu">
-            <h3>Welcome to Paradise City!</h3>
+            <h3>Welcome to ${cityName}!</h3>
             <p>Where would you like to go?</p>
             <div class="menu-options">
-                <div class="menu-option" data-location="kfp">> KFP</div>
-                <div class="menu-option" data-location="gym">> Gym</div>
-                <div class="menu-option" data-location="studio">> Recording Studio</div>
-                <div class="menu-option" data-location="park">> Central Park</div>
-                <div class="menu-option" data-location="beach">> Beach</div>
+                ${locationOptions}
             </div>
         </div>
     `;
@@ -293,35 +304,257 @@ function showParadiseMenu() {
     typeWriter(dialogueBox, menuHTML, 50, () => {
         const menuOptions = dialogueBox.querySelectorAll('.menu-option');
         menuOptions.forEach(option => {
-            option.addEventListener('click', handleParadiseLocation);
+            option.addEventListener('click', handleLocationVisit);
+        });
+        isLoading = false; // Re-enable buttons after loading completes
+    });
+}
+
+function showParadiseMenu() {
+    const paradiseLocations = [
+        { id: 'kfp', name: 'KFP' },
+        { id: 'gym', name: 'Burnafat Gym' },
+        { id: 'studio', name: 'Westside Recording Studio' },
+        { id: 'dock', name: 'The Docks' },
+        { id: 'beach', name: 'The Beach' }
+    ];
+    showLocationMenu('Paradise City', paradiseLocations);
+}
+
+function showSynthMenu() {
+    const synthLocations = [
+        { id: 'mall', name: 'Synthesizer Shopping Mall' },
+        { id: 'arcade', name: 'Kool-aid Arcade' },
+        { id: 'skatepark', name: 'Raddock Skatepark' },
+        { id: 'studio', name: 'Move Your Body Dance Studio' },
+        { id: 'pool', name: 'Seabreeze Pool' }
+    ];
+    showLocationMenu('Synth City', synthLocations);
+}
+
+function showCOTVMenu() {
+    const cotvLocations = [
+        { id: 'mall', name: 'Abyssal Call Mall' },
+        { id: 'bar', name: "Seaside Bar 'n Grill" },
+        { id: 'restaurant', name: "Diner by the Ocean Restaurant" },
+        { id: 'waterpark', name: 'Call of the Splash Waterpark' },
+        { id: 'kfp', name: 'KFP' }
+    ];
+    showLocationMenu('Call of the Void', cotvLocations);
+}
+
+function showOtherMenu() {
+    const otherLocations = [
+        { id: 'school', name: 'Synthwave University' },
+        { id: 'hospital', name: 'Synthwave General Hospital' },
+        { id: 'park', name: 'Central Park' },
+        { id: 'forest', name: 'Synthwave National Forest' }
+    ];
+    showLocationMenu('Other locations', otherLocations);
+}
+
+function hideCityButtons() {
+    const buttons = ['paradise', 'synth', 'cotv', 'other'];
+    buttons.forEach(buttonId => {
+        const button = document.getElementById(buttonId);
+        button.style.display = 'none';
+    });
+}
+
+function showCityButtons() {
+    const buttons = ['paradise', 'synth', 'cotv', 'other'];
+    buttons.forEach(buttonId => {
+        const button = document.getElementById(buttonId);
+        button.style.display = 'block';
+    });
+}
+
+function handleLocationVisit(event) {
+    if (isLoading) return;
+
+    isLoading = true;
+    hideCityButtons();
+
+    const location = event.target.getAttribute('data-location');
+    const city = event.target.getAttribute('data-city');
+    const locationName = event.target.textContent.replace('> ', '').trim(); // Capture the name here
+    const dialogueBox = document.getElementById('dialogue-box');
+    const gameBg = document.getElementById('game-bg');
+
+    const locationKey = `${city.toLowerCase()}_${location}`;
+
+    const callback = () => {
+        // Add 1.5 second delay before starting the scene
+        setTimeout(() => {
+            isLoading = false;
+            startScene(city, location, locationName); // Pass the location name
+        }, 1500);
+    };
+
+    switch(locationKey) {
+        case 'paradise city_kfp':
+            typeWriter(dialogueBox, 'You are now at KFP in Paradise City.', 50, callback);
+            gameBg.src = '../images/synthwave/bg/kfp.jpg';
+            break;
+        case 'paradise city_beach':
+            typeWriter(dialogueBox, 'You are now at the Beach in Paradise City.', 50, callback);
+            gameBg.src = '../images/synthwave/bg/beach.png';
+            break;
+        case 'synth city_mall':
+            typeWriter(dialogueBox, 'You are now at the Mall in Synth City.', 50, callback);
+            break;
+        default:
+            typeWriter(dialogueBox, `You are now at ${event.target.textContent.replace('> ', '')} in ${city}.`, 50, callback);
+            break;
+    }
+}
+
+function startScene(city, location, locationName) {
+    // Find characters that can appear at this location
+    const availableCharacters = [];
+
+    gameData.forEach((character) => {
+        const locationKey = location.toLowerCase();
+
+        // Check if character has this location in their stats
+        if (character.stats.locations && character.stats.locations[locationKey]) {
+            const spawnChance = character.stats.locations[locationKey];
+
+            availableCharacters.push({
+                name: character.character,
+                spawnChance: spawnChance,
+                characterData: character
+            });
+        }
+    });
+
+    // Select a character based on weighted spawn chances
+    const selectedCharacter = selectCharacterForLocation(availableCharacters);
+
+    if (selectedCharacter) {
+        showCharacterEncounter(selectedCharacter, locationName);
+        return selectedCharacter;
+    } else {
+        // Clear sprite if no character spawns
+        clearCharacterSprite();
+        endScene();
+        return null;
+    }
+}
+
+function showCharacterEncounter(selectedCharacter, locationName) {
+    const dialogueBox = document.getElementById('dialogue-box');
+
+    const encounterHTML = `
+        <p>Entering the ${locationName}, you see ${selectedCharacter.name}</p>
+        <div class="encounter-options">
+            <div class="menu-option" data-action="approach" data-character="${selectedCharacter.name}"> > approach</div>
+            <div class="menu-option" data-action="leave"> > leave</div>
+        </div>
+    `;
+
+    typeWriter(dialogueBox, encounterHTML, 50, () => {
+        const options = dialogueBox.querySelectorAll('.menu-option');
+        options.forEach(option => {
+            option.addEventListener('click', handleEncounterChoice);
         });
     });
 }
 
-function handleParadiseLocation(event) {
-    const location = event.target.getAttribute('data-location');
+function handleEncounterChoice(event) {
+    const action = event.target.getAttribute('data-action');
+    const characterName = event.target.getAttribute('data-character');
+
+    if (action === 'approach') {
+        loadCharacterSprite(characterName);
+        const dialogueBox = document.getElementById('dialogue-box');
+
+        // Show approach message first
+        typeWriter(dialogueBox, `<p>You approach ${characterName}.</p>`, 50, () => {
+            // Wait 1.5 seconds then show acquisition dialogue
+            setTimeout(() => {
+                showAcquisitionDialogue(characterName);
+            }, 1500);
+        });
+    } else if (action === 'leave') {
+        endScene();
+    }
+}
+
+function showAcquisitionDialogue(characterName) {
+    // Find the character's dialogue data (case-insensitive)
+    const characterDialogue = gameLines.find(dialogue =>
+        dialogue.character.toLowerCase() === characterName.toLowerCase()
+    );
+
+    const dialogueBox = document.getElementById('dialogue-box');
+
+    if (characterDialogue && characterDialogue.aquisition) {
+        typeWriter(dialogueBox, `<p>"${characterDialogue.aquisition}"</p>`);
+    } else {
+        typeWriter(dialogueBox, `<p>${characterName} doesn't say anything.</p>`);
+    }
+}
+
+function loadCharacterSprite(characterName) {
+    const characterSprite = document.getElementById('character1-sprite');
+
+    // Find the sprite data for this character (case-insensitive)
+    const spriteData = gameSprites.find(sprite =>
+        sprite.character.toLowerCase() === characterName.toLowerCase()
+    );
+
+    if (spriteData && spriteData.base) {
+        // Add '../' since HTML is in pages folder, need to go up one level
+        characterSprite.src = `../${spriteData.base}`;
+        characterSprite.style.display = 'block';
+        console.log(`Loaded sprite for ${characterName}: ${spriteData.base}`);
+    } else {
+        console.log(`No sprite found for ${characterName}`);
+        clearCharacterSprite();
+    }
+}
+
+
+function selectCharacterForLocation(availableCharacters) {
+    if (availableCharacters.length === 0) return null;
+
+    // Calculate total spawn weight
+    const totalWeight = availableCharacters.reduce((sum, char) => sum + char.spawnChance, 0);
+
+    // Generate random number between 1 and total weight
+    const randomPick = Math.floor(Math.random() * totalWeight) + 1;
+
+    console.log(`Total spawn weight: ${totalWeight}, Random pick: ${randomPick}`);
+
+    // Find which character the random number corresponds to
+    let currentWeight = 0;
+    for (let i = 0; i < availableCharacters.length; i++) {
+        currentWeight += availableCharacters[i].spawnChance;
+
+        if (randomPick <= currentWeight) {
+            console.log(`Selected ${availableCharacters[i].name} (weight range: ${currentWeight - availableCharacters[i].spawnChance + 1}-${currentWeight})`);
+            return availableCharacters[i];
+        }
+    }
+
+    // Fallback (shouldn't happen)
+    return availableCharacters[0];
+}
+
+function clearCharacterSprite() {
+    const characterSprite = document.getElementById('character1-sprite');
+    characterSprite.src = '';
+    characterSprite.style.display = 'none';
+}
+
+function endScene() {
     const dialogueBox = document.getElementById('dialogue-box');
     const gameBg = document.getElementById('game-bg');
 
-    switch(location) {
-        case 'kfp':
-            typeWriter(dialogueBox, 'You are now at KFP in Paradise City.');
-            break;
-        case 'gym':
-            typeWriter(dialogueBox, 'You are now at the Gym in Paradise City.');
-            break;
-        case 'studio':
-            typeWriter(dialogueBox, 'You are now at the Recording Studio in Paradise City.');
-            break;
-        case 'park':
-            typeWriter(dialogueBox, 'You are now at Central Park in Paradise City.');
-            break;
-        case 'beach':
-            typeWriter(dialogueBox, 'You are now at the Beach in Paradise City.');
-            gameBg.src = '../images/synthwave/bg/beach.png';
-            break;
-        default:
-            typeWriter(dialogueBox, '');
-            break;
-    }
+    showCityButtons(); // Restore city navigation
+    gameBg.src = ''; // Clear background image
+
+    const text = '<p>Where to go next?</p>';
+    typeWriter(dialogueBox, text);
 }
