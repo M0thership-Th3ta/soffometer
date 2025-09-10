@@ -5823,6 +5823,31 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Arcana",
+        "pfp": "images/pfp/nikke/arcana.png",
+        "details": {
+          "cm": 182,
+          "ft": "5'11",
+          "weight": 61.8,
+          "body_artist": "cakecatboy",
+          "obese_artist": "educabezon",
+          "age": "Unknown",
+          "birthday": "21/5",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Genderless",
+          "group": "Best Seller - Elysion",
+          "status": "Waiting for you to visit me~",
+          "personality": [ "motherly", "flirty" ],
+          "hobbies": [ "Reading Fortunes", "Doing basic chores", "Flirting", "Cooking" ],
+          "favorite_foods": [ "Home-Cooked Meals", "Donuts", "Cake", "Pie", "Cookies", "Muffins", "Chocolates", "Candy", "Strawberries", "Donuts", "Fruit", "Wine" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Bay",
             "pfp": "images/pfp/nikke/bay.png",
