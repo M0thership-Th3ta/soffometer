@@ -5849,28 +5849,28 @@
             }
         },
         {
-        "id": "Arcana",
-        "pfp": "images/pfp/nikke/arcana.png",
-        "details": {
-          "cm": 182,
-          "ft": "5'11",
-          "weight": 61.8,
-          "body_artist": "cakecatboy",
-          "obese_artist": "educabezon",
-          "age": "Unknown",
-          "birthday": "21/5",
-          "level": 0,
-          "stuffings": 0,
-          "diet": "medium",
-          "exercise": "none",
-          "gender": "Genderless",
-          "group": "Best Seller - Elysion",
-          "status": "Waiting for you to visit me~",
-          "personality": [ "motherly", "flirty" ],
-          "hobbies": [ "Reading Fortunes", "Doing basic chores", "Flirting", "Cooking" ],
-          "favorite_foods": [ "Home-Cooked Meals", "Donuts", "Cake", "Pie", "Cookies", "Muffins", "Chocolates", "Candy", "Strawberries", "Donuts", "Fruit", "Wine" ],
-          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
-          "pregnant": false
+          "id": "Arcana",
+          "pfp": "images/pfp/nikke/arcana.png",
+          "details": {
+            "cm": 182,
+            "ft": "5'11",
+            "weight": 61.8,
+            "body_artist": "cakecatboy",
+            "obese_artist": "educabezon",
+            "age": "Unknown",
+            "birthday": "21/5",
+            "level": 0,
+            "stuffings": 0,
+            "diet": "medium",
+            "exercise": "none",
+            "gender": "Genderless",
+            "group": "Best Seller - Elysion",
+            "status": "Waiting for you to visit me~",
+            "personality": [ "motherly", "flirty" ],
+            "hobbies": [ "Reading Fortunes", "Doing basic chores", "Flirting", "Cooking" ],
+            "favorite_foods": [ "Home-Cooked Meals", "Donuts", "Cake", "Pie", "Cookies", "Muffins", "Chocolates", "Candy", "Strawberries", "Donuts", "Fruit", "Wine" ],
+            "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+            "pregnant": false
             }
         },
         {
@@ -5972,6 +5972,31 @@
                 "kinks": [ "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Coercion", "False Diet Advice", "Crushing", "Gain Multipliers" ],
                 "pregnant": false
             }
+        },
+        {
+        "id": "D",
+        "pfp": "images/pfp/nikke/d.png",
+        "details": {
+          "cm": 168,
+          "ft": "5'6\"",
+          "weight": 52.1,
+          "body_artist": "kipteitei",
+          "obese_artist": "educabezon",
+          "age": "Unknown",
+          "birthday": "16/10",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Genderless",
+          "group": "Perilous Siege - Elysion",
+          "status": "Standing by~",
+          "personality": [ "psychotic", "flirty" ],
+          "hobbies": [ "Flirting", "Dressing up nice", "Assassinating" ],
+          "favorite_foods": [ "Snacks", "Fries", "Burgers", "Fast Food", "Cupcakes", "Donuts", "Muffins", "Candy", "Cookies", "Chocolate", "Brownies", "Nuggets", "Hot Dogs", "Pizza", "Water", "Wine", "Liqour" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+          }
         },
         {
             "id": "Dorothy",
