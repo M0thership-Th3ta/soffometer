@@ -6099,6 +6099,31 @@
             }
         },
         {
+        "id": "Frima",
+        "pfp": "images/pfp/nikke/frima.png",
+        "details": {
+          "cm": 167,
+          "ft": "5'6\"",
+          "weight": 51.5,
+          "body_artist": "adiposesaleswoman",
+          "obese_artist": "plumpknight",
+          "age": "Unknown",
+          "birthday": "22/1",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Genderless",
+          "group": "Cafe Sweety - Tetra Line",
+          "status": "Napping",
+          "personality": [ "sleepy" ],
+          "hobbies": [ "Napping", "Sleeping", "Serving Coffee" ],
+          "favorite_foods": [ "Sweets", "Pie", "Muffins", "Cupcakes", "Chocolate", "Pancakes", "Waffles", "Decaf" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Burping", "Affection", "Cuddling", "Immobility", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+            }
+        },
+        {
             "id": "Helm",
             "pfp": "images/pfp/nikke/helm.png",
             "details": {
