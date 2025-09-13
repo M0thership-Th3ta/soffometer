@@ -5799,6 +5799,31 @@
     ],
     "nikke": [
         {
+        "id": "Ade",
+        "pfp": "images/pfp/nikke/ade.png",
+        "details": {
+          "cm": 167,
+          "ft": "5'6\"",
+          "weight": 51.5,
+          "body_artist": "cakecatboy",
+          "obese_artist": "educabezon",
+          "age": "Unknown",
+          "birthday": "5/4",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "low",
+          "gender": "Genderless",
+          "group": "Tetra Line - Maid For You",
+          "status": "Awaiting your orders, master~",
+          "personality": [ "motherly", "flirty" ],
+          "hobbies": [ "Cooking", "Cleaning", "Tailoring", "Serving" ],
+          "favorite_foods": [ "Cake", "Pie", "Pastries", "Cookies", "Fruit", "Muffins", "Cupcakes", "Chocolate", "Brownies", "Tea" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+            }
+        },
+        {
             "id": "Anis",
             "pfp": "images/pfp/nikke/anis.png",
             "details": {
@@ -5823,7 +5848,7 @@
                 "pregnant": false
             }
         },
-      {
+        {
         "id": "Arcana",
         "pfp": "images/pfp/nikke/arcana.png",
         "details": {
@@ -5846,8 +5871,8 @@
           "favorite_foods": [ "Home-Cooked Meals", "Donuts", "Cake", "Pie", "Cookies", "Muffins", "Chocolates", "Candy", "Strawberries", "Donuts", "Fruit", "Wine" ],
           "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
           "pregnant": false
-        }
-      },
+            }
+        },
         {
             "id": "Bay",
             "pfp": "images/pfp/nikke/bay.png",
