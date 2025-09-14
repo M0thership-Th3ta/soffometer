@@ -6124,6 +6124,31 @@
             }
         },
         {
+        "id": "Guilty",
+        "pfp": "images/pfp/nikke/guilty.png",
+        "details": {
+          "cm": 165,
+          "ft": "5'5\"",
+          "weight": 50.3,
+          "body_artist": "kipteitei",
+          "obese_artist": "educabezon",
+          "age": "Unknown",
+          "birthday": "25/3",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Genderless",
+          "group": "Real Kindness - Missilis Industry",
+          "status": "Hi there~!",
+          "personality": [ "motherly", "motivated" ],
+          "hobbies": [ "Rehabilitation", "Helping out", "Fishing" ],
+          "favorite_foods": [ "Sweets", "Candy", "Cookies", "Muffins", "Donuts", "Cake", "Pie", "Pastries", "Chocolate", "Brownies", "Soda", "Iced Tea" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Sex", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+            }
+        },
+        {
             "id": "Helm",
             "pfp": "images/pfp/nikke/helm.png",
             "details": {
