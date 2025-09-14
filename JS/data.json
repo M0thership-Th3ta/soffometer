@@ -6674,6 +6674,31 @@
             }
         },
         {
+        "id": "Soda",
+        "pfp": "images/pfp/nikke/soda.png",
+        "details": {
+          "cm": 160,
+          "ft": "5'3\"",
+          "weight": 47.3,
+          "body_artist": "kipteitei",
+          "obese_artist": "educabezon",
+          "age": "Unknown",
+          "birthday": "4/9",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Genderless",
+          "group": "Maid For You - Tetra Line",
+          "status": "Hi!! Can I help you???",
+          "personality": [ "airhead", "motivated" ],
+          "hobbies": [ "Cleaning", "Celebrating", "Smiling", "Helping out" ],
+          "favorite_foods": [ "Cake", "Pie", "Cookies", "Candy", "Chocolate", "Fruit", "Fries", "Burgers", "Pizza", "Sweets", "Donuts", "Muffins", "Cupcakes", "Brownies", "Ice Cream", "Parfait", "Pancakes", "Soda", "Iced Tea" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+            }
+        },
+        {
             "id": "Tia",
             "pfp": "images/pfp/nikke/tia.png",
             "details": {
