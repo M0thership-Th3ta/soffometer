@@ -6574,6 +6574,31 @@
             }
         },
         {
+        "id": "Rapunzel",
+        "pfp": "images/pfp/nikke/rapunzel.png",
+        "details": {
+          "cm": 178,
+          "ft": "5'10\"",
+          "weight": 58.5,
+          "body_artist": "cakecatboy",
+          "obese_artist": "educabezon",
+          "age": "Unknown",
+          "birthday": "7/5",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Genderless",
+          "group": "Pioneer - Pilgrim",
+          "status": "Hi there, are you here for me~?",
+          "personality": [ "motherly", "flirty" ],
+          "hobbies": [ "Praying", "Blessing", "Sex" ],
+          "favorite_foods": [ "Bread", "Fish", "Pastries", "Cake", "Ice Cream", "Chocolates", "Wine" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+            }
+        },
+        {
             "id": "Red Hood",
             "pfp": "images/pfp/nikke/red_hood.png",
             "details": {
