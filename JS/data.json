@@ -1980,13 +1980,13 @@
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
-                "weight": 51.2,
+                "weight": 206.9,
                 "body_artist": "kipteitei",
                 "obese_artist": "davielwithfries",
                 "age": "Unknown",
                 "birthday": "6/7",
                 "level": 3,
-                "stuffings": 9,
+                "stuffings": 10,
                 "diet": "medium",
                 "exercise": "low",
                 "gender": "Transfemme",
@@ -3682,6 +3682,30 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "MilkieVT",
+        "pfp": "images/pfp/indie_vtubers/milkievt.png",
+        "details": {
+          "cm": 170,
+          "ft": "5'7\"",
+          "weight": 53.4,
+          "body_artist": "kipteitei",
+          "obese_artist": "educabezon",
+          "age": "Unknown",
+          "birthday": "3/10",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Female",
+          "status": "Hey there, welcome to the cult dear~",
+          "personality": [ "flirty", "psychotic" ],
+          "hobbies": [ "Leading", "Drinking", "Obtaining power" ],
+          "favorite_foods": [ "Pastries", "Cake", "Pie", "Donuts", "Cheese", "Chocolate", "Candy", "Cookies", "Sushi", "Wine", "Liquor", "Beer" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Mint",
             "pfp": "images/pfp/indie_vtubers/mint.png",
