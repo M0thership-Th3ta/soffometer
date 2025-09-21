@@ -3706,6 +3706,30 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Mint Fantome",
+        "pfp": "images/pfp/indie_vtubers/mint_fantome.png",
+        "details": {
+          "cm": 149,
+          "ft": "4'11\"",
+          "weight": 41,
+          "body_artist": "orristerioso",
+          "obese_artist": "davielwithfries",
+          "age": "Unknown",
+          "birthday": "1/10",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "low",
+          "exercise": "none",
+          "gender": "Female",
+          "status": "Haunting your local maid cafe!",
+          "personality": [ "flirty", "girlfailure" ],
+          "hobbies": [ "Cosplay", "Maid work", "Partaking in idol culture" ],
+          "favorite_foods": [ "Pastries", "Cake", "Cookies", "Muffins", "Pizza", "Chocolate", "Brownies", "Ice Cream", "Sweets", "Soda", "Tea" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Miori",
             "pfp": "images/pfp/indie_vtubers/miori.png",
