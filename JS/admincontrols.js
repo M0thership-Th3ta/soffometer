@@ -174,21 +174,21 @@ function calculateDaysToBirthday(member) {
     getPregnantButton.addEventListener("click", () => {
         if (cyclePosition >= 0 && cyclePosition <= 24) {
             const randomNumber = Math.floor(Math.random() * 100) + 1; // Random number between 1 and 100
-            if (randomNumber >= 1 && randomNumber <= 5) {
+            if (randomNumber >= 1 && randomNumber <= 26) {
                 isPregnantElement.textContent = "is pregnant";
             } else {
                 isPregnantElement.textContent = "is not pregnant";
             }
         } else if (cyclePosition >= 25 && cyclePosition <= 28) {
             const randomNumber = Math.floor(Math.random() * 100) + 1; // Random number between 1 and 100
-            if (randomNumber >= 1 && randomNumber <= 25) {
+            if (randomNumber >= 1 && randomNumber <= 33) {
                 isPregnantElement.textContent = "is pregnant";
             } else {
                 isPregnantElement.textContent = "is not pregnant";
             }
         } else if (cyclePosition >= 29 && cyclePosition <= 31) {
             const randomNumber = Math.floor(Math.random() * 100) + 1; // Random number between 1 and 100
-            if (randomNumber >= 1 && randomNumber <= 32) {
+            if (randomNumber >= 1 && randomNumber <= 6) {
                 isPregnantElement.textContent = "is pregnant";
             } else {
                 isPregnantElement.textContent = "is not pregnant";
