@@ -75,6 +75,31 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Enterprise",
+        "pfp": "images/pfp/azur_lane/enterprise.png",
+        "details": {
+          "cm": 165,
+          "ft": "5'5\"",
+          "weight": 50.3,
+          "body_artist": "cakecatboy",
+          "obese_artist": "educabezon",
+          "age": 80,
+          "birthday": "3/10/1936",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "high",
+          "gender": "Female",
+          "group": "Eagle Union",
+          "status": "Training!",
+          "personality": [ "motivated" ],
+          "hobbies": [ "Training", "Fighting", "Secretary work" ],
+          "favorite_foods": [ "Protein", "Burgers", "Fries", "Hot Dogs", "Ice Cream", "Water", "Soda" ],
+          "kinks": [ "Weight gain", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Hugs", "Kisses", "Cosplay", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Honolulu",
             "pfp": "images/pfp/azur_lane/honolulu.png",
