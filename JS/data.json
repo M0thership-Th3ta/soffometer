@@ -2766,6 +2766,31 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Candii",
+        "pfp": "images/pfp/indie_vtubers/candii.png",
+        "details": {
+          "cm": 152,
+          "ft": "5'0\"",
+          "weight": 42.9,
+          "body_artist": "kipteitei",
+          "obese_artist": "educabezon",
+          "age": "Unknown",
+          "birthday": "22/10",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Non-Binary",
+          "group": "Vchiban",
+          "status": "Drawing you (pregnant)",
+          "personality": [ "flirty", "girlfailure" ],
+          "hobbies": [ "Drawing", "Flirting", "Making jokes" ],
+          "favorite_foods": [ "Candy", "Cookies", "Ice Cream", "Cake", "Pie", "Donuts", "Fruit", "Soda", "Energy Drinks", "Smoothies", "Wine", "Liquor" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Cha Cha",
             "pfp": "images/pfp/indie_vtubers/chacha.png",
@@ -3202,6 +3227,31 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Grape",
+        "pfp": "images/pfp/indie_vtubers/grape.png",
+        "details": {
+          "cm": 170,
+          "ft": "5'7\"",
+          "weight": 53.4,
+          "body_artist": "cakecatboy",
+          "obese_artist": "plumpknight",
+          "age": 25,
+          "birthday": "21/10/1997",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "high",
+          "gender": "Female",
+          "group": "GirlsFC",
+          "status": "Working out",
+          "personality": [ "fit", "motivated" ],
+          "hobbies": [ "Working out", "Hanging out with friends", "Barbequeing" ],
+          "favorite_foods": [ "Protein", "Burgers", "Fried Chicken", "Hot Dogs", "Beer", "Soda" ],
+          "kinks": [ "Foodplay", "Stuffing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Cosplay", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Crushing", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Grimmi",
             "pfp": "images/pfp/indie_vtubers/grimmi.png",
@@ -4290,6 +4340,31 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Runie",
+        "pfp": "images/pfp/indie_vtubers/runie.png",
+        "details": {
+          "cm": 162,
+          "ft": "5'4\"",
+          "weight": 48.5,
+          "body_artist": "kipteitei",
+          "obese_artist": "educabezon",
+          "age": 90,
+          "birthday": "13/10/1928",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Female",
+          "group": "Phase-Connect",
+          "status": "Plotting your downfall!!! (Into a messy bed of cake! that like.. uhh, ruins your clothes? yeah!)",
+          "personality": [ "motivated", "girlfailure" ],
+          "hobbies": [ "Evil acts! (She sucks at these)", "Pretty crimes! (She also sucks at these)", "Talking to demons" ],
+          "favorite_foods": [ "Cookies", "Cake", "Pie", "Muffins", "Chocolate", "Brownies", "Candy", "Ice Cream", "Wine" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Sansinjin",
             "pfp": "images/pfp/indie_vtubers/sansinjin.png",
@@ -4559,6 +4634,30 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Squchan",
+        "pfp": "images/pfp/indie_vtubers/squchan.png",
+        "details": {
+          "cm": 165,
+          "ft": "5'5\"",
+          "weight": 50.3,
+          "body_artist": "orristerioso",
+          "obese_artist": "davielwithfries",
+          "age": 1000,
+          "birthday": "18/10/1021",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "high",
+          "exercise": "none",
+          "gender": "Female",
+          "status": "Drawing!",
+          "personality": [ "motivated", "hungry" ],
+          "hobbies": [ "Drawing", "Looking at space", "Snacking" ],
+          "favorite_foods": [ "Cookies", "Candy", "Chocolate", "Muffins", "Croissants", "Pie", "Macarons", "Soda", "Wine" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Sugi",
             "pfp": "images/pfp/indie_vtubers/sugi.png",
