@@ -125,6 +125,31 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Alsace",
+        "pfp": "images/pfp/azur_lane/alsace.png",
+        "details": {
+          "cm": 156,
+          "ft": "5'1\"",
+          "weight": 44.9,
+          "body_artist": "kipteitei",
+          "obese_artist": "educabezon",
+          "age": 80,
+          "birthday": "15/10/1941",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Female",
+          "group": "Iris Libre",
+          "status": "Uhm.. Have you seen my mask?",
+          "personality": [ "girlfailure", "motivated" ],
+          "hobbies": [ "Lounging", "Sword-training", "Learning about humans" ],
+          "favorite_foods": [ "Cake", "Pie", "Chocolate", "Cookies", "Ice Cream", "Pain au Chocolat", "Brownies", "Macaron", "Muffins", "Cupcakes", "Tea", "Wine", "Sake" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Saint Louis",
             "pfp": "images/pfp/azur_lane/saint_louis.png",
