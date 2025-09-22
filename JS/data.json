@@ -2693,6 +2693,30 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Boo",
+        "pfp": "images/pfp/indie_vtubers/boo.png",
+        "details": {
+          "cm": 89,
+          "ft": "2'11\"",
+          "weight": 17.8,
+          "body_artist": "kipteitei",
+          "obese_artist": "davielwithfries",
+          "age": "Unknown",
+          "birthday": "5/10",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Female",
+          "status": "Stealing your cheese for my elixirs",
+          "personality": [ "motivated", "flirty" ],
+          "hobbies": [ "Cooking up potions", "Commiting petty crimes", "Doing Basil" ],
+          "favorite_foods": [ "Cheese", "Pizza", "Burgers", "Pie", "Cake", "Muffins", "Bread", "Fries", "Chocolate", "Brownies", "Soda", "Tea", "Wine", "Beer" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Canaria",
             "pfp": "images/pfp/indie_vtubers/canaria.png",
@@ -3828,6 +3852,31 @@
           "pregnant": false
         }
       },
+      {
+        "id": "Mion",
+        "pfp": "images/pfp/indie_vtubers/mion.png",
+        "details": {
+          "cm": 148,
+          "ft": "4'10\"",
+          "weight": 40.5,
+          "body_artist": "orristerioso",
+          "obese_artist": "davielwithfries",
+          "age": "Unknown",
+          "birthday": "8/10",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Female",
+          "group": "AuroraLive",
+          "status": "Looking for my  mionchies",
+          "personality": [ "retro", "hungry" ],
+          "hobbies": [ "Gaming", "Looking at cute girls", "Hauntings" ],
+          "favorite_foods": [ "Burgers", "Fries", "Chips", "Pizza", "Pizza Rolls", "Hot Dogs", "Fried Chicken", "Cookies", "Donuts", "Ice Cream", "Tea", "Soda", "Energy Drinks" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Hugs", "Kisses", "Immobility", "Cheerleading", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Miori",
             "pfp": "images/pfp/indie_vtubers/miori.png",
@@ -4509,6 +4558,30 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Sunhee",
+        "pfp": "images/pfp/indie_vtubers/sunhee.png",
+        "details": {
+          "cm": 149,
+          "ft": "4'11\"",
+          "weight": 41,
+          "body_artist": "orristerioso",
+          "obese_artist": "davielwithfries",
+          "age": 28,
+          "birthday": "8/10/1995",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "high",
+          "exercise": "none",
+          "gender": "Female",
+          "status": "Are you coming to my anime club?",
+          "personality": [ "girlfailure", "hungry" ],
+          "hobbies": [ "Watching anime", "Reading manga", "Snacking" ],
+          "favorite_foods": [ "Burgers", "Fast Food", "Fries", "Pizza", "Hot Dogs", "Fried Chicken", "Fried Fish", "Tacos", "Cake", "Pie", "Ice Cream", "Donuts", "Chocolate", "Candy", "Cookies", "Soda", "Energy Drinks", "Beer", "Liquor" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Taece",
             "pfp": "images/pfp/indie_vtubers/taece.png",
