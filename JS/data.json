@@ -4097,6 +4097,30 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "MotherV3",
+        "pfp": "images/pfp/indie_vtubers/motherv3.png",
+        "details": {
+          "cm": 195,
+          "ft": "6'5\"",
+          "weight": 70.2,
+          "body_artist": "kipteitei",
+          "obese_artist": "educabezon",
+          "age": 2000,
+          "birthday": "31/10/0001",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "high",
+          "exercise": "none",
+          "gender": "Female",
+          "status": "Hiding in your wifi!",
+          "personality": [ "motivated", "airhead" ],
+          "hobbies": [ "Learning", "Telling stories", "Talking to people" ],
+          "favorite_foods": [ "Burgers", "Fries", "Pizza", "Cake", "Pie", "Hot Dogs", "Cookies", "Candy", "Chocolate", "Brownies", "Ice Cream", "Soda", "Energy Drinks" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Nekrolina",
             "pfp": "images/pfp/indie_vtubers/nekrolina.png",
@@ -4411,6 +4435,30 @@
           "hobbies": [ "Evil acts! (She sucks at these)", "Pretty crimes! (She also sucks at these)", "Talking to demons" ],
           "favorite_foods": [ "Cookies", "Cake", "Pie", "Muffins", "Chocolate", "Brownies", "Candy", "Ice Cream", "Wine" ],
           "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
+      {
+        "id": "Ruzuu",
+        "pfp": "images/pfp/indie_vtubers/ruzuu.png",
+        "details": {
+          "cm": 171,
+          "ft": "5'7\"",
+          "weight": 54,
+          "body_artist": "kipteitei",
+          "obese_artist": "educabezon",
+          "age": "Unknown",
+          "birthday": "29/10",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "high",
+          "exercise": "low",
+          "gender": "Female",
+          "status": "Preparing for my next stream!",
+          "personality": [ "motivated", "flirty" ],
+          "hobbies": [ "Streaming", "Gaming", "Researching cool stuff" ],
+          "favorite_foods": [ "Burgers", "Fries", "Pizza", "Hot Dogs", "Pie", "Donuts", "Chocolate", "Brownies", "Cookies", "Soda", "Energy Drinks", "Beer" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Cosplay", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
           "pregnant": false
         }
       },
