@@ -2719,6 +2719,31 @@
             }
         },
       {
+        "id": "Bonnie",
+        "pfp": "images/pfp/indie_vtubers/bonnie.png",
+        "details": {
+          "cm": 160,
+          "ft": "5'3\"",
+          "weight": 47.3,
+          "body_artist": "kipteitei",
+          "obese_artist": "educabezon",
+          "age": "Unknown",
+          "birthday": "25/10",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Female",
+          "group": "Globie",
+          "status": "Working on my motorcycle~",
+          "personality": [ "flirty", "girlfailure" ],
+          "hobbies": [ "Tinkering", "Crafting", "Thirsting after women" ],
+          "favorite_foods": [ "Snacks", "Burgers", "Fries", "Pizza", "Cookies", "Candy", "Chocolate", "Donuts", "Cake", "Pie", "Soda", "Coffee", "Beer" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
+      {
         "id": "Boo",
         "pfp": "images/pfp/indie_vtubers/boo.png",
         "details": {
@@ -2863,6 +2888,30 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Deme",
+        "pfp": "images/pfp/indie_vtubers/deme.png",
+        "details": {
+          "cm": 158,
+          "ft": "5'2\"",
+          "weight": 46.1,
+          "body_artist": "cakecatboy",
+          "obese_artist": "educabezon",
+          "age": 25,
+          "birthday": "27/10/1996",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "high",
+          "exercise": "none",
+          "gender": "Female",
+          "status": "Probably gaming right now",
+          "personality": [ "cool", "girlfailure" ],
+          "hobbies": [ "Gaming", "Snacking", "Causing trouble" ],
+          "favorite_foods": [ "Burgers", "Fries", "Fast Food", "Pizza", "Pizza Rolls", "Candy", "Cookies", "Brownies", "Donuts", "Cake", "Pie", "Muffins", "Soda", "Energy Drinks", "Coffee", "Beer" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Dizzy",
             "pfp": "images/pfp/indie_vtubers/dizzy.png",
@@ -4851,6 +4900,30 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Vivi",
+        "pfp": "images/pfp/indie_vtubers/vivi.png",
+        "details": {
+          "cm": 154,
+          "ft": "5'1\"",
+          "weight": 43.8,
+          "body_artist": "orristerioso",
+          "obese_artist": "davielwithfries",
+          "age": 30,
+          "birthday": "28/10/1993",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Female",
+          "status": "Recording ASMR",
+          "personality": [ "motivated" ],
+          "hobbies": [ "Doing ASMR", "Drawing", "Watching VTubers" ],
+          "favorite_foods": [ "Snacks", "Cookies", "Candy", "Chocolate", "Donuts", "Pastries", "Sweets", "Coffee", "Soda" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Hugs", "Kisses", "Immobility", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Voraisha",
             "pfp": "images/pfp/indie_vtubers/voraisha.png",
