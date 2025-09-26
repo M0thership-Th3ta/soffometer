@@ -656,13 +656,13 @@
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
-                "weight": 211.8,
+                "weight": 62.3,
                 "body_artist": "kipteitei",
                 "obese_artist": "educabezon",
                 "age": 82,
                 "birthday": "7/4/1943",
-                "level": 3,
-                "stuffings": 9,
+                "level": 4,
+                "stuffings": 10,
                 "diet": "medium",
                 "exercise": "none",
                 "gender": "Female",
@@ -672,7 +672,7 @@
                 "hobbies": [ "Stalking", "Looking for you", "Looking at you", "Talking to you", "Being with you" ],
                 "favorite_foods": [ "Pastries", "Chocolates", "Crepes", "Parfait", "Sake", "Wine", "Water" ],
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
-                "pregnant": false
+                "pregnant": true
             }
         },
         {
