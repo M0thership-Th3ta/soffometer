@@ -550,6 +550,31 @@
                 "pregnant": false
             }
         },
+      {
+        "id": "Akagi",
+        "pfp": "images/pfp/azur_lane/akagi.png",
+        "details": {
+          "cm": 168,
+          "ft": "5'6\"",
+          "weight": 52.1,
+          "body_artist": "cakecatboy",
+          "obese_artist": "educabezon",
+          "age": 95,
+          "birthday": "22/4/1925",
+          "level": 0,
+          "stuffings": 0,
+          "diet": "medium",
+          "exercise": "none",
+          "gender": "Female",
+          "group": "Sakura Empire",
+          "status": "Watching you <3",
+          "personality": [ "psychotic", "cool" ],
+          "hobbies": [ "Stalking", "Battling", "Plotting" ],
+          "favorite_foods": [ "Sweets", "Homecooked Meals", "Cake", "Pie", "Ramen", "Mochi", "Cookies", "Chocolate", "Ice Cream", "Fruit", "Wine", "Sake", "Liquor" ],
+          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
+          "pregnant": false
+        }
+      },
         {
             "id": "Atago",
             "pfp": "images/pfp/azur_lane/atago.png",
