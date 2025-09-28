@@ -96,7 +96,6 @@ function detailsLoading(){
 
     memberCurrentLevel();
     checkBirthday();
-    checkPregnancy();
 }
 function calculatePercentages(CM){
     difference = (CM / 163).toFixed(2)
